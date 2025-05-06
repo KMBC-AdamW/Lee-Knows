@@ -1,0 +1,570 @@
+[
+  {
+    "url": "https://www.knowsley.gov.uk/digital-support/staying-safe-online",
+    "title": "Staying safe online",
+    "source": "Staying safe online",
+    "summary": "Being safe online can be tricky for us all, but it’s important to know that you can learn how to protect yourself.",
+    "intro": "Being safe online can be tricky for us all, but it’s important to know that you can learn how to protect yourself.",
+    "text": "Staying safe online\nOnline safety is about being aware of possible issues you could come across whilst using the internet.\nYou can protect your information by taking some precautions. This guide contains links to resources to help you learn about online safety.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [],
+    "department": "Digital support",
+    "topics": [],
+    "keywords": [
+      "online",
+      "safety",
+      "about"
+    ],
+    "tfidf_keywords": [
+      "online",
+      "about",
+      "safety"
+    ],
+    "bigrams": [
+      "online safety",
+      "stay safe",
+      "safe online"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/digital-support/staying-safe-online/self-help-tool-centre",
+    "title": "Staying safe online",
+    "source": "Staying safe online",
+    "summary": "Being safe online can be tricky for us all, but it’s important to know that you can learn how to protect yourself.",
+    "intro": "Being safe online can be tricky for us all, but it’s important to know that you can learn how to protect yourself.",
+    "text": "Self Help Tool Centre\nThe link below features nine easy-to-use,\nfree\ntools to help you protect yourself, your family, finances, devices and workplace from fraud and other online harms. Please use them in conjunction with the information and advice found elsewhere on the\nGet Safe Online website\n.\nStart here",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.getsafeonline.org/",
+        "text": "Get Safe Online website",
+        "context": "The link below features nine easy-to-use,freetools to help you protect yourself, your family, finances, devices and workplace from fraud and other online harms. Please use them in conjunction with the information and advice found elsewhere on theGet Safe Online website."
+      },
+      {
+        "url": "https://www.getsafeonline.org/selfhelptoolcentre",
+        "text": "Start here",
+        "context": "Start here",
+        "important": true
+      }
+    ],
+    "department": "Digital support",
+    "topics": [
+      "Staying safe online"
+    ],
+    "keywords": [
+      "help",
+      "tool",
+      "use"
+    ],
+    "tfidf_keywords": [
+      "help",
+      "online",
+      "use"
+    ],
+    "bigrams": [
+      "self help",
+      "help tool",
+      "tool centre"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/digital-support/staying-safe-online/online-privacy",
+    "title": "Staying safe online",
+    "source": "Staying safe online",
+    "summary": "Being safe online can be tricky for us all, but it’s important to know that you can learn how to protect yourself.",
+    "intro": "Being safe online can be tricky for us all, but it’s important to know that you can learn how to protect yourself.",
+    "text": "Online Privacy\nCovering your tracks online\nDid you know every time you use the internet, your browser (the software that allows you to find and view websites) stores a record of where you’ve been online? Your browser history includes:\nSearch history  - a list of the pages you’ve looked at and the files you’ve downloaded\nCookies - files called cookies which remember your settings for different sites to personalize your experience\nSaved data - such as passwords and address autofill\nDeleting your Internet browsing history\nYou can improve your privacy by deleting your internet browsing history. But you need to be careful because:\ndeleting cookies will also get rid of stored passwords for online accounts\nclearing your history could make someone more suspicious\nTry only to remove information about the websites you want to keep private. You can find out how to do that on:\nGoogle Chrome\nSafari\nInternet Explorer\nMozilla Firefox\nOpera\nMicrosoft Edge\nPassword security\nPasswords protect your devices or accounts by keeping your information private and safe. They must be easy for you to remember but hard for others to guess or break. If someone discovers your password, they could gain access to sensitive information, including your financial data.\nWe have provided links below to check your password strength or learn more about password safety.\nHow Secure Is My Password? | Password Strength Checker\nThree random words - NCSC.GOV.UK",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://support.google.com/chrome/answer/95589?hl=en&rd=1",
+        "text": "Google Chrome",
+        "context": "Google Chrome"
+      },
+      {
+        "url": "https://support.apple.com/kb/PH19215?locale=en_US&viewlocale=en_US",
+        "text": "Safari",
+        "context": "Safari"
+      },
+      {
+        "url": "https://support.microsoft.com/en-us/windows/view-and-delete-your-browsing-history-in-internet-explorer-098ffe52-5ac9-a449-c296-c735c32c8678",
+        "text": "Internet Explorer",
+        "context": "Internet Explorer"
+      },
+      {
+        "url": "https://support.mozilla.org/en-US/kb/delete-browsing-search-download-history-firefox",
+        "text": "Mozilla Firefox",
+        "context": "Mozilla Firefox"
+      },
+      {
+        "url": "http://www.opera.com/help/tutorials/security/sharing/",
+        "text": "Opera",
+        "context": "Opera"
+      },
+      {
+        "url": "https://www.microsoft.com/en-us/edge/learning-center/how-why-you-should-delete-browser-history?form=MA13I2",
+        "text": "Microsoft Edge",
+        "context": "Microsoft Edge"
+      },
+      {
+        "url": "https://www.security.org/how-secure-is-my-password/",
+        "text": "How Secure Is My Password? | Password Strength Checker",
+        "context": "How Secure Is My Password? | Password Strength Checker"
+      },
+      {
+        "url": "https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online/three-random-words",
+        "text": "Three random words - NCSC.GOV.UK",
+        "context": "Three random words - NCSC.GOV.UK"
+      }
+    ],
+    "department": "Digital support",
+    "topics": [
+      "Staying safe online"
+    ],
+    "keywords": [
+      "password",
+      "history",
+      "online"
+    ],
+    "tfidf_keywords": [
+      "password",
+      "history",
+      "internet"
+    ],
+    "bigrams": [
+      "delete internet",
+      "internet browse",
+      "browse history"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/digital-support/staying-safe-online/using-email-safely",
+    "title": "Staying safe online",
+    "source": "Staying safe online",
+    "summary": "Being safe online can be tricky for us all, but it’s important to know that you can learn how to protect yourself.",
+    "intro": "Being safe online can be tricky for us all, but it’s important to know that you can learn how to protect yourself.",
+    "text": "Using email safely\nMost organisations ask you for your email address when purchasing goods or services, but protecting your email is important as this is where most of your personal information is stored.\nDo not open an attachment unless you expect it, AND know who it is from.\nIf you receive an attachment from someone you don't know, delete it immediately without opening it.\nMake sure you never send you to send your bank details to anyone in an email. This isn’t a secure way to send financial details; online shops and banks would not ask you to do this.\nFor more information, see:\nCyber Aware - NCSC.GOV.UK\nHow to set up an email account | Age UK |",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.ncsc.gov.uk/cyberaware/home",
+        "text": "Cyber Aware - NCSC.GOV.UK",
+        "context": "Cyber Aware - NCSC.GOV.UK"
+      },
+      {
+        "url": "https://www.ageuk.org.uk/information-advice/work-learning/technology-internet/email-essentials/",
+        "text": "How to set up an email account | Age UK |",
+        "context": "How to set up an email account | Age UK |"
+      }
+    ],
+    "department": "Digital support",
+    "topics": [
+      "Staying safe online"
+    ],
+    "keywords": [
+      "email",
+      "send",
+      "most"
+    ],
+    "tfidf_keywords": [
+      "email",
+      "send",
+      "ask"
+    ],
+    "bigrams": [
+      "use email",
+      "email safely",
+      "safely most"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/digital-support/staying-safe-online/staying-safe-social-media",
+    "title": "Staying safe online",
+    "source": "Staying safe online",
+    "summary": "Being safe online can be tricky for us all, but it’s important to know that you can learn how to protect yourself.",
+    "intro": "Being safe online can be tricky for us all, but it’s important to know that you can learn how to protect yourself.",
+    "text": "Staying safe on social media\nBeing connected to social media sites is a great way to stay in touch with your friends, family and the latest news. it’s important to learn about privacy settings and how to keep your personal information safe.\nTo stay safe on social media, remember:\nSet your profiles to private. Think carefully about what you post online and who you want to see it.\nRemember, anything you post can be shared.\nSwitch off your location.\nKeep your contacts up-to-date and relevant.\nBlock anyone who bothers you.\nProtect your identity.\nFor more information, see:\nSocial Media: how to use it safely - NCSC.GOV.UK\nCommunication & Social Networking - Get Safe Online",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.ncsc.gov.uk/guidance/social-media-how-to-use-it-safely",
+        "text": "Social Media: how to use it safely - NCSC.GOV.UK",
+        "context": "Social Media: how to use it safely - NCSC.GOV.UK"
+      },
+      {
+        "url": "https://www.getsafeonline.org/personal/article-category/communication-social-networking/",
+        "text": "Communication & Social Networking - Get Safe Online",
+        "context": "Communication & Social Networking - Get Safe Online"
+      }
+    ],
+    "department": "Digital support",
+    "topics": [
+      "Staying safe online"
+    ],
+    "keywords": [
+      "social",
+      "safe",
+      "stay"
+    ],
+    "tfidf_keywords": [
+      "social",
+      "media",
+      "safe"
+    ],
+    "bigrams": [
+      "social medium",
+      "stay safe",
+      "safe social"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/digital-support/staying-safe-online/staying-safe-while-online-shopping-and-banking",
+    "title": "Staying safe online",
+    "source": "Staying safe online",
+    "summary": "Being safe online can be tricky for us all, but it’s important to know that you can learn how to protect yourself.",
+    "intro": "Being safe online can be tricky for us all, but it’s important to know that you can learn how to protect yourself.",
+    "text": "Staying safe while online shopping and banking\nShopping and banking online is convenient, can save you money and help you keep track of your finances. Find out how to stay safe while shopping and banking online.\nOnline Shopping\nShopping online can be useful and sometimes save you money, but it’s important to use safe, genuine sites.\nCheck for the https://\nPadlock info\nRemember, sometimes, if the offer looks too good to be true, it usually is\nFor more information, see here:\nHow to stay safe online as an older person - Age UK\nShopping, Banking & Payments - Get Safe Online\nShopping online securely - NCSC.GOV.UK\nGetting your money back if you paid by card or PayPal - Citizens Advice\nOnline Banking\nOnline banking is a convenient way to keep track of your finances 24/7 whilst at home or away.\nHere are some useful links to help you stay safe when using your banking app or website. Your bank will usually have its own advice on how to bank safely.\nOnline banking for older people - Age UK",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.ageuk.org.uk/information-advice/work-learning/technology-internet/internet-security/",
+        "text": "How to stay safe online as an older person - Age UK",
+        "context": "How to stay safe online as an older person - Age UK"
+      },
+      {
+        "url": "https://www.getsafeonline.org/personal/article-category/shopping-banking/",
+        "text": "Shopping, Banking & Payments - Get Safe Online",
+        "context": "Shopping, Banking & Payments - Get Safe Online"
+      },
+      {
+        "url": "https://www.ncsc.gov.uk/guidance/shopping-online-securely",
+        "text": "Shopping online securely - NCSC.GOV.UK",
+        "context": "Shopping online securely - NCSC.GOV.UK"
+      },
+      {
+        "url": "https://www.citizensadvice.org.uk/consumer/somethings-gone-wrong-with-a-purchase/getting-your-money-back-if-you-paid-by-card-or-paypal/",
+        "text": "Getting your money back if you paid by card or PayPal - Citizens Advice",
+        "context": "Getting your money back if you paid by card or PayPal - Citizens Advice"
+      },
+      {
+        "url": "https://www.ageuk.org.uk/information-advice/work-learning/technology-internet/online-banking/",
+        "text": "Online banking for older people - Age UK",
+        "context": "Online banking for older people - Age UK"
+      }
+    ],
+    "department": "Digital support",
+    "topics": [
+      "Staying safe online"
+    ],
+    "keywords": [
+      "online",
+      "banking",
+      "shopping"
+    ],
+    "tfidf_keywords": [
+      "online",
+      "banking",
+      "shopping"
+    ],
+    "bigrams": [
+      "stay safe",
+      "shopping banking",
+      "online shopping"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/digital-support/keeping-children-safe-online",
+    "title": "Keeping children safe online",
+    "source": "Keeping children safe online",
+    "summary": "Being online can help children learn new things, have fun and make new friends. However, there are safety issues to consider.",
+    "intro": "Being online can help children learn new things, have fun and make new friends. However, there are safety issues to consider.",
+    "text": "Below are some resources to learn how to keep your child safe whilst online.\nNSPCC- keeping children safe online\nTogether we can make sure it’s safe for every child to go online. We’re here to support parents with online safety advice,\nFind out more\nGoogle - Be Internet Legends\nThis is a new offering from Google that is aimed at ensuring kids understand how to be safe online.  There are also tools for Schools and Parents to use.\nFind out more\nBarnardos - Keeping children safe online\nEvery child deserves to feel safe online – and we all have a part to play. Find out more about online safety from the experts.\nFind out more\nInternet Matters\nChildren deserve a safe digital world. Find information and safety settings for your child's devices and apps, along with guidance to tackle online issues they may face.\nFind out more",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.nspcc.org.uk/keeping-children-safe/online-safety/",
+        "text": "Find out more",
+        "context": "Find out more",
+        "important": true
+      },
+      {
+        "url": "https://beinternetlegends.withgoogle.com/en_uk?utm_source=google&utm_medium=hpp&utm_campaign=bil_backtoschool",
+        "text": "Find out more",
+        "context": "Find out more",
+        "important": true
+      },
+      {
+        "url": "https://www.barnardos.org.uk/get-support/support-for-parents-and-carers/child-abuse-and-harm/keeping-children-safe-online",
+        "text": "Find out more",
+        "context": "Find out more",
+        "important": true
+      },
+      {
+        "url": "https://www.internetmatters.org/",
+        "text": "Find out more",
+        "context": "Find out more",
+        "important": true
+      }
+    ],
+    "department": "Digital support",
+    "topics": [],
+    "keywords": [
+      "online",
+      "child",
+      "safe"
+    ],
+    "tfidf_keywords": [
+      "online",
+      "safe",
+      "find"
+    ],
+    "bigrams": [
+      "find out",
+      "safe online",
+      "keep child"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/digital-support/digital-connectivity",
+    "title": "Digital connectivity",
+    "source": "Digital connectivity",
+    "summary": "Digital connectivity is the term for mobile or fixed connections to the Internet. It is essential if you want to access products and services online. Find out how you can access the internet here.",
+    "intro": "Digital connectivity is the term for mobile or fixed connections to the Internet. It is essential if you want to access products and services online. Find out how you can access the internet here.",
+    "text": "WIFI\nFree Public Wi-Fi is available in all our\nKnowsley Libraries\n. Our library staff are available to show you how to connect your device or you can use a secure library PC to access sites. Call into one of our libraries for more details.\nSocial Tariffs - what is this?\nSocial Tariffs is the term used for discounted rates of broadband or mobile deals available to people who claim certain benefits.\nFind out more information below and check if you qualify\nSocial tariffs: Cheaper broadband and phone packages | Ofcom\nDiscounted Internet (Social Tariffs) | Liverpool City Region Combined Authority\nDisconnection of the landline phones\nThe traditional landline phone service is due to be switched off by 2027. Find out more below\nUK transition from analogue to digital landlines | GOV.UK\nDigital Voice and the landline switch-off: what it means for you | Which?\nThe future of fixed telephone services | Ofcom",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "/libraries-leisure-and-culture/libraries/find-your-local-library",
+        "text": "Knowsley Libraries",
+        "context": "Free Public Wi-Fi is available in all ourKnowsley Libraries. Our library staff are available to show you how to connect your device or you can use a secure library PC to access sites. Call into one of our libraries for more details."
+      },
+      {
+        "url": "https://www.ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/costs-and-billing/social-tariffs",
+        "text": "Social tariffs: Cheaper broadband and phone packages | Ofcom",
+        "context": "Social tariffs: Cheaper broadband and phone packages | Ofcom"
+      },
+      {
+        "url": "https://www.liverpoolcityregion-ca.gov.uk/digital-inclusion-social-tariffs",
+        "text": "Discounted Internet (Social Tariffs) | Liverpool City Region Combined Authority",
+        "context": "Discounted Internet (Social Tariffs) | Liverpool City Region Combined Authority"
+      },
+      {
+        "url": "https://www.gov.uk/guidance/uk-transition-from-analogue-to-digital-landlines",
+        "text": "UK transition from analogue to digital landlines | GOV.UK",
+        "context": "UK transition from analogue to digital landlines | GOV.UK"
+      },
+      {
+        "url": "https://www.which.co.uk/reviews/broadband/article/digital-voice-and-the-landline-phone-switch-off-what-it-means-for-you-aPSOH8k1i6Vv",
+        "text": "Digital Voice and the landline switch-off: what it means for you | Which?",
+        "context": "Digital Voice and the landline switch-off: what it means for you | Which?"
+      },
+      {
+        "url": "https://www.ofcom.org.uk/phones-telecoms-and-internet/information-for-industry/telecoms-competition-regulation/future-fixed-telephone-services",
+        "text": "The future of fixed telephone services | Ofcom",
+        "context": "The future of fixed telephone services | Ofcom"
+      }
+    ],
+    "department": "Digital support",
+    "topics": [],
+    "keywords": [
+      "library",
+      "social",
+      "tariff"
+    ],
+    "tfidf_keywords": [
+      "social",
+      "tariffs",
+      "available"
+    ],
+    "bigrams": [
+      "social tariff",
+      "find out",
+      "landline phone"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/digital-support/digital-access-skills-and-training",
+    "title": "Digital access skills and training",
+    "source": "Digital access skills and training",
+    "summary": "With the online world rapidly expanding, it is vital to have the right skills to navigate it confidently. Find out how to access support from your local library and other organisations.",
+    "intro": "With the online world rapidly expanding, it is vital to have the right skills to navigate it confidently. Find out how to access support from your local library and other organisations.",
+    "text": "Support from Knowsley Libraries\nKnowsley Library Service is here to bridge the digital divide, empowering everyone, from beginners to seasoned users, with the knowledge and support they need to thrive in the digital age.\nKnowsley Libraries have PCs available for you to use and people who can help you to get online.\nSee below for a list of all our local libraries:\nHalewood library\nHuyton library\nKirkby library\nPrescot library\nStockbridge Village library\nIf you need to telephone one of our libraries, dial 0151 443 3734 and choose which branch you wish to be directed to.\nIf you are unsure which library is closest to you, find out\nhere\n.\nEach library organises weekly\nTea & Tech sessions\n, which are free drop-in events to help you learn some basic skills. They are ideal for beginners; there is no need to book.\nYou can also access a free digital 1-2-1 support session by filling out the form\nhere\nor asking in your local library.\nVisit the Knowsley Libraries website\nLearning or improving your online skills\nThere are plenty of organisations and places to learn online skills or improve online skills:\nKnowsley FACE – Family & Community Education\nKnowsley FACE – Family & Community Education offers digital support to anyone looking to search for or apply for jobs online. They also many other services to help residents build their skills and qualifications.\nFind out more\nDigital Inclusion | Liverpool City Region Combined Authority\nAs a city region, we are committed to ensuring that our residents have access to the skills and support needed to participate in an ever-evolving digital world fully. Find out about the support that’s on offer.\nFind out more\nComputer training courses - IT training services | Age UK\nMany local Age UKs offer computer training for older people. These courses explain things clearly and in plain English to help you get online.\nFind out more\nAbilityNet\nEstablished in 1998, AbilityNet is a pioneering UK charity transforming the lives of older and disabled people and working with organisations of all types and sizes to build a digital world that is accessible to all.\nFind out more\nGood Things Foundation\nGood Things Foundation is a leading charity on a mission to fix the digital divide.\nFind out more\nJargon Busters\nThe language used on the Internet can be new and confusing. Below are some jargon busters to help you better understand the terms used.\nBT - Techie terms - jargon buster\nSometimes you can get bogged down in all the jargon when learning about something new. Check out this jargon buster for some simple explanations of techie terms.\nFind out more\nGet Safe Online - Glossary\nGet Safe Online offer a glossary of digital and tech-related terms that is easy to understand.\nFind out more",
+    "alert": "",
+    "has_alert": false,
+    "phone": [
+      "0151 443 3734"
+    ],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.knowsley.gov.uk/libraries-leisure-and-culture/libraries/find-your-local-library/halewood-library",
+        "text": "Halewood library",
+        "context": "Halewood library"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/libraries-leisure-and-culture/libraries/find-your-local-library/huyton-library",
+        "text": "Huyton library",
+        "context": "Huyton library"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/libraries-leisure-and-culture/libraries/find-your-local-library/kirkby-library",
+        "text": "Kirkby library",
+        "context": "Kirkby library"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/libraries-leisure-and-culture/libraries/find-your-local-library/prescot-library",
+        "text": "Prescot library",
+        "context": "Prescot library"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/libraries-leisure-and-culture/libraries/find-your-local-library/stockbridge-village-library",
+        "text": "Stockbridge Village library",
+        "context": "Stockbridge Village library"
+      },
+      {
+        "url": "/libraries-leisure-and-culture/libraries/find-your-local-library",
+        "text": "here",
+        "context": "If you are unsure which library is closest to you, find outhere."
+      },
+      {
+        "url": "https://yourlibrary.knowsley.gov.uk/digital-support/",
+        "text": "Tea & Tech sessions",
+        "context": "Each library organises weeklyTea & Tech sessions, which are free drop-in events to help you learn some basic skills. They are ideal for beginners; there is no need to book."
+      },
+      {
+        "url": "https://knowsleytransaction.mendixcloud.com/link/digitalsupport",
+        "text": "here",
+        "context": "You can also access a free digital 1-2-1 support session by filling out the formhereor asking in your local library."
+      },
+      {
+        "url": "https://yourlibrary.knowsley.gov.uk/",
+        "text": "Visit the Knowsley Libraries website",
+        "context": "Visit the Knowsley Libraries website",
+        "important": true
+      },
+      {
+        "url": "https://knowsleyface.co.uk/",
+        "text": "Find out more",
+        "context": "Find out more",
+        "important": true
+      },
+      {
+        "url": "https://www.liverpoolcityregion-ca.gov.uk/digital-inclusion",
+        "text": "Find out more",
+        "context": "Find out more",
+        "important": true
+      },
+      {
+        "url": "https://www.ageuk.org.uk/services/in-your-area/it-training/",
+        "text": "Find out more",
+        "context": "Find out more",
+        "important": true
+      },
+      {
+        "url": "https://abilitynet.org.uk/",
+        "text": "Find out more",
+        "context": "Find out more",
+        "important": true
+      },
+      {
+        "url": "https://www.goodthingsfoundation.org/",
+        "text": "Find out more",
+        "context": "Find out more",
+        "important": true
+      },
+      {
+        "url": "https://www.bt.com/content/dam/bt/help/here-for-you/digital-skills/bt-digital-skills-tech-jargon-buster.pdf",
+        "text": "Find out more",
+        "context": "Find out more",
+        "important": true
+      },
+      {
+        "url": "https://www.getsafeonline.org/glossary/",
+        "text": "Find out more",
+        "context": "Find out more",
+        "important": true
+      }
+    ],
+    "department": "Digital support",
+    "topics": [],
+    "keywords": [
+      "library",
+      "out",
+      "digital"
+    ],
+    "tfidf_keywords": [
+      "out",
+      "digital",
+      "find"
+    ],
+    "bigrams": [
+      "find out",
+      "knowsley library",
+      "jargon buster"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/digital-support/contacting-council-online",
+    "title": "Contacting the council online",
+    "source": "Contacting the council online",
+    "summary": "Knowsley Council uses different methods of online contact, such as live chat, online forms and email.",
+    "intro": "Knowsley Council uses different methods of online contact, such as live chat, online forms and email.",
+    "text": "Online Chat\nOnline chat is quick and easy to use and is becoming more popular with our residents. The service is available whenever you see this sign.\nAt the start of your enquiry, we use a virtual chatbot called VIK, which guides you to pages on our website that may resolve your enquiry.\nIf VIK cannot resolve your enquiry, you have the option to chat with a member of our customer service team.\nOnline Forms\nMany services offer an online form to report, book, or apply for services. These forms can be found throughout our website, at the top of our homepage on a desktop, or in the menu area on a mobile device.\nSending your enquiry this way directs you to the correct service and saves you time.\nEmail\nDepending on the enquiry type, you may be offered the option to email the service directly.\nEmails that are available will be included on the webpage.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [],
+    "department": "Digital support",
+    "topics": [],
+    "keywords": [
+      "service",
+      "enquiry",
+      "online"
+    ],
+    "tfidf_keywords": [
+      "enquiry",
+      "online",
+      "service"
+    ],
+    "bigrams": [
+      "online chat",
+      "resolve enquiry",
+      "online form"
+    ],
+    "crawl_version": "2025-04-23"
+  }
+]

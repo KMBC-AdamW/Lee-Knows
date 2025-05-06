@@ -1,0 +1,348 @@
+[
+  {
+    "url": "https://www.knowsley.gov.uk/knowsleyEPS/about",
+    "title": "About",
+    "source": "About",
+    "summary": "",
+    "intro": "",
+    "text": "About\nWhat do Educational Psychologists Do?\nIn addition to developing initiatives for the local authority in Knowsley, Educational Psychologists contribute to regional and national research and development opportunities in education, training and child development.  Educational Psychologists also have a statutory role in providing advice or information to local authorities for children and young people who may have a special educational need or disability (SEND) and are undergoing an Education Health and Care Plan.\nMost of the work we deliver as Educational Psychologists relates to teaching and learning across four broad areas of development (i.e. social and emotional well-being, cognition, physical and sensory, and language and communication).\nWho do we work with?\nKnowsley Educational Psychology Service works directly with or on behalf of children and young people aged 0-25. We work collaboratively with children and young people, their parents/carers and school settings ranging from early years to post-16. We also work with a range of colleagues from agencies such as health and social care and contribute to multi-agency planning processes for children and young people by attending meetings, providing reports and through training and Continuous Professional Development.\nMeet the team\nHannah Barton\nPrincipal Educational Psychologist\nAllison Inoue\nSenior Educational Psychologist\nJoanne Dean\nSenior Educational Psychologist\nLaura Halton\nEducational Psychologist\nFran Roberts\nEducational Psychologist\nWin Little\nEducational Psychologist\nRachel Hanrahan\nEducational Psychologist\nElle Hart\nTrainee Educational Psychologist\nJodie Read\nTrainee Educational Psychologist\nKezia Richardson\nTrainee Educational Psychologist\nCatherine Braidwood Harrington\nTrainee Educational Psychologist\nLeon Rostaing\nTrainee Educational Psychologist\nGemma Murdoch\nAssistant Educational Psychologist\nDebra Fairclough\nBusiness Support\nJune Scott\nBusiness Support\nContact Component - Knowsley EPS\nContact Knowsley EPS\nSend us a message\n0151-443-2057/3516",
+    "alert": "",
+    "has_alert": false,
+    "phone": [
+      "0151-443-2057"
+    ],
+    "email": [
+      "eps@knowsley.gov.uk"
+    ],
+    "links": [
+      {
+        "url": "mailto:eps@knowsley.gov.uk",
+        "text": "Send us a message",
+        "context": "Send us a message"
+      },
+      {
+        "url": "tel:0151-443-2057%2F3516",
+        "text": "0151-443-2057/3516",
+        "context": "0151-443-2057/3516"
+      }
+    ],
+    "department": "Knowsley Educational Psychology Service",
+    "topics": [],
+    "keywords": [
+      "educational",
+      "psychologist",
+      "child"
+    ],
+    "tfidf_keywords": [
+      "educational",
+      "psychologist",
+      "trainee"
+    ],
+    "bigrams": [
+      "educational psychologist",
+      "trainee educational",
+      "child young"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/knowsleyEPS/evidenced-based-consultation",
+    "title": "Evidenced-based consultation",
+    "source": "Evidenced-based consultation",
+    "summary": "",
+    "intro": "",
+    "text": "Evidenced-based consultation\nWhat is consultation?\nOur team can facilitate problem-solving meetings known as Consultations. Consultations may take place as part of individual casework, group work, or at a whole school level. They are solution-focused processes that aim for agreed-upon actions. They are collaborative and inclusive of teachers, parents/carers, other relevant professionals, and, where appropriate, children and young people themselves.\nWhat are the benefits?\nConsultation is found to be a positive experience by SENCos, teachers, parents/carers and other professionals. Positive benefits include:\nParents feel supported and report positively on the collaborative work.\nTeachers’ problem-solving skills are enhanced by their involvement in consultation meetings, and they report increased professional skills.\nGains generalise to other children in the class due to increased teacher effectiveness.\nWhole school achievement increases.\nKnowsley’s Assessment, Placement, and Provision panel considers it good practice to engage in preventative practice such as this prior to requesting a formal assessment.\nConsultations are most effective when:\nEach person contributes to the discussion and values the thoughts and opinions of others in the room.\nPeople are open-minded about what can be achieved and concentrate on finding solutions.\nConfidentiality is maintained.\nHow do I prepare for a consultation meeting?\nTo gain the most from these meetings, it is essential that you come prepared with:\nInformation about the pupil’s strengths and interests.\nAn overview of your concerns about the pupil - some staff find it helpful to make a list of concerns and use the categories of the SEN Code of Practice as a guide, i.e.:\nCognition and Learning\nCommunication and Interaction\nSocial, Emotional and Mental Health\nPhysical and/or Sensory\nProvide up-to-date information on academic progress and any recent assessment scores.\nInformation about the strategies and interventions that have been tried before EP involvement.\nWhat is helpful for the SENCo to do as part of the process?\nArrange for the relevant staff to be released for 1-1.5 hours for the consultations.\nWhere possible, attend the meeting together with the teacher. SENCos have a wealth of knowledge and can often bring fresh solutions.\nEnsure a private room is available for the meeting.\nLiaise with parents to ensure their attendance at the meeting.\nCollate assessment information for the meeting.\nIn addition to consultations for individual casework, we also offer\nEY Group Consultation\nand\nReception/KS1 Group Consultation\n, in which settings can share challenges and formulate solutions as a group. Those not presenting also take away strategies for CYP in their setting.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.knowsley.gov.uk/knowsley-educational-psychology-service/schools-and-practitioners",
+        "text": "EY Group Consultation",
+        "context": "In addition to consultations for individual casework, we also offerEY Group ConsultationandReception/KS1 Group Consultation, in which settings can share challenges and formulate solutions as a group. Those not presenting also take away strategies for CYP in their setting."
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/knowsley-educational-psychology-service/evidenced-based-consultation/receptionks1-group",
+        "text": "Reception/KS1 Group Consultation",
+        "context": "In addition to consultations for individual casework, we also offerEY Group ConsultationandReception/KS1 Group Consultation, in which settings can share challenges and formulate solutions as a group. Those not presenting also take away strategies for CYP in their setting."
+      }
+    ],
+    "department": "Knowsley Educational Psychology Service",
+    "topics": [],
+    "keywords": [
+      "consultation",
+      "meeting",
+      "teacher"
+    ],
+    "tfidf_keywords": [
+      "consultation",
+      "consultations",
+      "meeting"
+    ],
+    "bigrams": [
+      "consultation consultation",
+      "problem solve",
+      "individual casework"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/knowsleyEPS/recruitment",
+    "title": "Recruitment",
+    "source": "Recruitment",
+    "summary": "",
+    "intro": "",
+    "text": "Recruitment\nVacancies in the service will be advertised\nhere.\nFollow us on X/Twitter\n@KnowsleyEdPsych\nfor further updates.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.knowsley.gov.uk/jobs",
+        "text": "here.",
+        "context": "Vacancies in the service will be advertisedhere."
+      },
+      {
+        "url": "https://x.com/KnowsleyEdPsych",
+        "text": "@KnowsleyEdPsych",
+        "context": "Follow us on X/Twitter@KnowsleyEdPsychfor further updates."
+      }
+    ],
+    "department": "Knowsley Educational Psychology Service",
+    "topics": [],
+    "keywords": [
+      "recruitment",
+      "vacancy",
+      "service"
+    ],
+    "tfidf_keywords": [
+      "advertised",
+      "follow",
+      "further"
+    ],
+    "bigrams": [
+      "recruitment vacancy",
+      "vacancy service",
+      "service advertise"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/knowsleyEPS/children-and-young-people",
+    "title": "Children and young people",
+    "source": "Children and young people",
+    "summary": "",
+    "intro": "",
+    "text": "Children and young people\nYou may be wondering what an Educational Psychologist is and what might happen when you meet one. Here is a short video and mind map below to help you to understand more about us.\nThe staff here have made some one-page profiles to help you learn a little more about them. Click on their names to find out more.\nHannah Barton\nLaura Halton\nFran Roberts\nAllison Inoue\nJoanne Dean\nRachel Hanrahan\nWin Little\nElle Hart\nJodie Read\nKezia Richardson\nCatherine Braidwood Harrington\nGemma Murdoch\nLeon Rostaing\nAny questions?\nIf, after hearing a little about us, you still have some questions before working with an Educational Psychologist, talk to your teacher, parent/carer or a trusted adult at school, and they can contact us for you.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Hannah%20Barton%20One-Page%20Profile.pdf",
+        "text": "Hannah Barton",
+        "context": "Hannah Barton"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Laura%20Halton%20One-Page%20Profile.pdf",
+        "text": "Laura Halton",
+        "context": "Laura Halton"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Fran%20Roberts%20One-Page%20Profile.pdf",
+        "text": "Fran Roberts",
+        "context": "Fran Roberts"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Allison%20Inoue%20One-Page%20Profile.pdf",
+        "text": "Allison Inoue",
+        "context": "Allison Inoue"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Jo%20Dean%20One-Page%20Profile.pdf",
+        "text": "Joanne Dean",
+        "context": "Joanne Dean"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Rachel%20Hanrahan%20One-Page%20Profile.pdf",
+        "text": "Rachel Hanrahan",
+        "context": "Rachel Hanrahan"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Win%20Little%20One-Page%20Profile.pdf",
+        "text": "Win Little",
+        "context": "Win Little"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Elle%20Hart%20One-Page%20Profile.pdf",
+        "text": "Elle Hart",
+        "context": "Elle Hart"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Jodie%20Read%20One-Page%20Profile.pdf",
+        "text": "Jodie Read",
+        "context": "Jodie Read"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Kezia%20Richardson%20One-Page%20Profile.pdf",
+        "text": "Kezia Richardson",
+        "context": "Kezia Richardson"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Catherine%20Braidwood%20Harrington%20One-Page%20Profile.pdf",
+        "text": "Catherine Braidwood Harrington",
+        "context": "Catherine Braidwood Harrington"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Gemma%20Murdoch%20One-Page%20Profile.pdf",
+        "text": "Gemma Murdoch",
+        "context": "Gemma Murdoch"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Leon%20Rostaing%20One-Page%20Profile.pdf",
+        "text": "Leon Rostaing",
+        "context": "Leon Rostaing"
+      }
+    ],
+    "department": "Knowsley Educational Psychology Service",
+    "topics": [],
+    "keywords": [
+      "about",
+      "little",
+      "educational"
+    ],
+    "tfidf_keywords": [
+      "about",
+      "little",
+      "us"
+    ],
+    "bigrams": [
+      "educational psychologist",
+      "little about",
+      "child young"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/knowsleyEPS/parents-and-carers",
+    "title": "Parents and carers",
+    "source": "Parents and carers",
+    "summary": "",
+    "intro": "",
+    "text": "Parents and carers\nReferrals to our service must be made via school. If you are considering our involvement with your child, please speak to your school's Special Educational Needs and Disabilities co-ordinator (SENDCo) to begin the referral process.\nIf your child’s school has highlighted a need for our involvement, you may wonder what it will be like. Your views matter to us, and we recommend that you attend meetings with us, the school, and/or other services when invited. We will always work around your child's needs and views, and we will contact you for further information about how your child is at home and any concerns you may have.\nSchool have asked me to give permission for an Educational Psychologist (EP) to be involved with my child, what does this mean??\nEPs don’t give medical diagnoses or prescribe medication. They provide advice to schools on how to support children’s learning. Your child’s school will seek your permission before requesting EP support.\nHow does an Educational Psychologist become involved?\nIf you have concerns about your child or young person, you may want to discuss these with the class teacher or key person and/or Special\nEducational Needs Coordinator (SENCo). The SENCo may then speak with Knowsley Educational Psychology Service if they would like further support and advice.\nIf Educational Psychology involvement is appropriate, a member of staff will speak to you about how we might help your child or young person and you will be asked if you would like to go ahead with Educational Psychology Involvement. The school or setting will then arrange our visit.\nUnfortunately, parents and carers cannot ask Knowsley Educational Psychology Service directly for their involvement.\nWhat might an Educational Psychologist do?\nEducational Psychologists might work in many ways, depending on the needs of the child and the information that is necessary to collect.\nSome examples may include:\nMeet with you as parent/carers, school staff and other key professionals to gain a deeper understanding of your child’s strengths and needs.\nDiscuss support strategies with your child’s teacher.\nObserve your child in the classroom or in the playground.\nWork individually with your child to find out their strengths and areas for development.\nWhat will happen on the day of an Educational Psychologist appointment?\nThe child or young person will come to school like normal. Depending on the activities taking place, they might be asked to work with the EP in a quiet room outside of the classroom, or the EP might observe your child in their lesson or on the playground. The EP will then introduce themselves and explain what they are going to do together, such as some of the activities listed above.\nOrdinarily, the EP will also ask to meet with you and key school staff to discuss any concerns and outline the EP's involvement. This is nothing to worry about; please just attend this meeting and share your views as a parent/carer.\nWhat should I tell my child if an Educational Psychologist is getting involved?\nIt is important to tailor your explanation to your child’s level of understanding. This\nvideo\nexplains what an EP does for children and young people.\nIf they are worried, share what might be expected of them and tell them that many children see an EP.\nWhat will be the outcome of Educational Psychologist involvement?\nThe outcomes depends on the type of EP involvement but a meeting may be organised for the EP to feedback key findings of their involvement to you and your child’s school.\nThe EP may make recommendations for the next steps in a written summary/report.\nHow will I be involved as a parent/carer?\nAn EP will always gain written consent from parents or carers and from young people over the age of 16 years before becoming involved.\nEPs are committed to involving parents and carers and children and young people in all decision-making. We might meet with you to learn your views about your child’s interests, strengths, needs, and future goals and aspirations. You know your child best, so your views are invaluable.\nSometimes, a written record will be sent to you and the school or setting.\nEducation, Health and Care Plans (EHCP)\nPart of an Educational Psychologists role is to provide advice for an EHCP, if you would like to find out more information about the Education, Health and Care Plan process in Knowsley then please see\nhere\nfor further information.\nAny questions?\nIf you still have questions after reading this page, please feel free to\nemail us\n, and someone will respond within three working days.\n“Thank you for taking the time to talk to me. I know this is your job but it's evident that you care, and you go above and beyond and that means a lot to me.”\n“You know you are the first person that has taken the time to really listen to me and ask how I feel. I felt really comfortable and able to tell you what I think. It has been lovely speaking with you. Thank you”\n“It feels to be the first time that someone has captured and understood our beautiful little boy, so we can understand him”\n“We feel the EP report truly captures a rounded current view of his behaviours, personality and areas where his learning would benefit from further support in identifying his Special Educational Needs.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [
+      "eps@knowsley.gov.uk"
+    ],
+    "links": [
+      {
+        "url": "/knowsley-offer/children-and-young-people",
+        "text": "video",
+        "context": "It is important to tailor your explanation to your child’s level of understanding. Thisvideoexplains what an EP does for children and young people."
+      },
+      {
+        "url": "https://www.knowsleyinfo.co.uk/knowsley-ehc-assessment-and-sen-educational-support",
+        "text": "here",
+        "context": "Part of an Educational Psychologists role is to provide advice for an EHCP, if you would like to find out more information about the Education, Health and Care Plan process in Knowsley then please seeherefor further information."
+      },
+      {
+        "url": "mailto:eps@knowsley.gov.uk",
+        "text": "email us",
+        "context": "If you still have questions after reading this page, please feel free toemail us, and someone will respond within three working days."
+      }
+    ],
+    "department": "Knowsley Educational Psychology Service",
+    "topics": [],
+    "keywords": [
+      "child",
+      "educational",
+      "school"
+    ],
+    "tfidf_keywords": [
+      "child",
+      "educational",
+      "ep"
+    ],
+    "bigrams": [
+      "educational psychologist",
+      "parent carer",
+      "child young"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/knowsleyEPS/schools-and-practitioners",
+    "title": "Schools and Practitioners",
+    "source": "Schools and Practitioners",
+    "summary": "",
+    "intro": "",
+    "text": "Schools and Practitioners\nKnowsley Educational Psychology Service is an evidence-based consultation service. This means that conversations are crucial in effecting positive change for children, teachers/school staff and families.\nStatutory services\nThe Local Authority will provide statutory services to schools, settings and partner agencies. There will be no charge for these statutory services, which include:\nThe provision of Psychological Advice as part of the Education, Health and Care Plan (EHCP) assessment process, when requested by the Local Authority SEN Team.\nProvide psychological knowledge at Special Educational Needs Tribunals for children and young people.\nOther work commissioned by the Local Authority via the SEN panel.\nIf you require more information about the Knowsley EHCP process, see\nhere\nfor further details.\nServices funded by Knowsley Council\nThe Local Authority also commissions EP services for schools, settings and partner agencies; there will be no charge for these services. Some of these include:\nYouth Offending Service (YOS)\nYOS has commissioned an EP to work alongside their team.\nThe EP facilitates Trauma Informed Specialist Consultations with the YOS team and regularly attends and contributes to MARMMs, providing a psychological perspective in supporting some of our most vulnerable young people.\nTraining has been provided for the YOS and STEP teams around trauma-informed practice and the application of the trauma recovery model to help embed the approach further within the services.\nBehaviour and inclusion panel\nNeeds content\nEarly Years Group Consultation\nThe Early Years Service have commissioned the Educational Psychology Service to offer group consultation as part of a graduated approach.\nThe group consultations are available online and in all Early Years settings (private and maintained) across Knowsley.\nDuring the consultation, practitioners from each setting can present a child to the group while the rest of the group offers hypotheses and suggested strategies.\nTraded Services\nIn addition to our statutory work, Knowsley’s schools, academies and educational settings can commission time from the EPS to meet their specific needs and priorities.\nFor schools that commission EPS services or are considering commissioning them, please read our EPS Traded Service Guide 2024-2025 for information about our services and the key responsibilities of the parties agreeing.\nThe demand for our support and services increases each year. Schools are strongly advised to use the SLA arrangements to purchase the level of service needed at the beginning of the financial year to guarantee delivery within the required time.\nPricing\nPsychological Service time is purchased in sessions. One session equates to 3 hours. Time for preparation, writing, and follow-up must be included in the purchase time.\nOne session (3 hours) = £250\nOne day = £500\nExamples of how to use your SLA time\nAll SLA work is tailored to the setting's specific needs and priorities, and time is negotiated with your Link EP at your planning meeting. Below are some examples of the average time taken to complete different pieces of SLA work.\nStaff Solution Circles  - 3 x staff solution circles, scribed in meetings by staff.\n(one session)\nIndividual Assessment - Observation, Consultation with staff and parents/carers, cognitive assessment or detailed literacy/numeracy assessment & a written report.\n(two days)\nBrief individual assessment  - Consultation with staff and parents/carers, Observation or Pupil Views and a written report (including purpose/background, current situation, strengths/needs, and a summary of actions).\n(one day)\nInvoicing arrangements\nInternal journals or invoices will be sent out in April once the service receives signed agreements.\nAny additional charges will be discussed and agreed with the school before the service is undertaken.\nFees for ad hoc services will be charged immediately following delivery of the service.\nAssistant Educational Psychologists\nKnowsley Educational Psychology Service has recruited Assistant Educational Psychologists to enhance our offer to schools. These professionals have the prerequisites to apply for doctoral training in Educational Psychology and are supervised by a qualified Educational Psychologist.\nThey assist the service by conducting and supporting many of the functions of an Educational Psychologist, including basic assessment work, information gathering, group work, individual intervention, and training.\nAs an outcome of EP involvement, follow-up work or intervention from an Assistant EP may be suggested. This may involve a bespoke package of support, for which costings will be agreed upon depending upon the length and nature of support required.\nAdditional training packages\nWe also have the following training packages that are available to all schools in the Local Authority to purchase separately to SLAs:\nEmotional Literacy Support Assistant (ELSA)\nELSA training is an initiative designed to build the capacity of schools to support the emotional needs of their children from their own resources. It recognises that children and young people learn better and are happier in school if their emotional needs are being addressed. It aims to equip school support staff with the skills to identify needs and create effective interventions for the children and young people with whom they work. The ELSA programme consists of 6 full days of training with time in between each session for reflection. It is designed for Higher Level Teaching Assistants (HTLAs) and Teaching Assistants (TAs) in primary and secondary schools. The training is suitable for TAs who would like to develop the skills that will help the children and young people with whom they work. Following the training, ongoing support is provided by the Knowsley EPS via group supervision sessions. This is designed to develop skills and competence, safeguard students and ELSAs alike, and share practices and resources between different educational settings.\nPrice - £820 per delegate\n“Presenting and joining in has been a really useful experience. I feel like you come in with one child in mind and leave with strategies for 12 other children in your setting.”\n- Participant at R/KS1 Group Consultation\n“The EPs who deliver the course are superb and very knowledgeable. The training helped clarify why children act and feel the way they do”\n- ELSA participant\n“The process gives opportunities to reflect - bring to mind strategies in your toolkit which you know but might have forgotten.”\n- Participant at EY Group Consultation\n“There have been a lot of unknowns but now there feels like there is a clearer plan with what needs to happen.”\n- YOS worker after specialist consultation\n“I learned a lot in the session it was very informative I really enjoyed it, [the EPs] did a fantastic job explaining everything, and I will try and use this information in school in the upcoming weeks It was really engaging.”\n- Participant in staff training\n“I work really well with Link Ed Psych – They are brilliant. They really listen and are very helpful and supportive. Provides great advice and is always available if I need their support.”\n- SLA feedback",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.knowsleyinfo.co.uk/advice-information-local-offer-16-25-year-olds-becoming-adult/general-information-about-sen-schools",
+        "text": "here",
+        "context": "If you require more information about the Knowsley EHCP process, seeherefor further details."
+      }
+    ],
+    "department": "Knowsley Educational Psychology Service",
+    "topics": [],
+    "keywords": [
+      "service",
+      "school",
+      "educational"
+    ],
+    "tfidf_keywords": [
+      "service",
+      "services",
+      "educational"
+    ],
+    "bigrams": [
+      "local authority",
+      "young people",
+      "group consultation"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/knowsleyEPS/evidenced-based-consultation/receptionks1-group-consultation",
+    "title": "Reception/KS1 Group Consultation",
+    "source": "Reception/KS1 Group Consultation",
+    "summary": "",
+    "intro": "",
+    "text": "Reception/KS1 Group Consultation\nDuring the 23-24 Academic year, the EPS piloted a Group Consultation for Reception and Key Stage 1 aged children following the success of our Early Years model.\nWhat to expect when buying into the consultation group\nParticipating schools will be placed into groups.\nThere will be six virtual group consultations undertaken across the year (one per half term)\nEach setting can bring a maximum of 3 cases for consultation each year (one per term).\nEach case discussed will receive a brief written action plan.\nAll settings attending will receive an anonymised strategy sheet with all the strategies discussed, even if you have not presented.\nCosts\nEach school will buy and pool a block of EP time, costing £375 to attend all six consultation sessions.\nThe costs cover 3-hour sessions to discuss individual cases plus 1.5 hours of action plan write-up time.\nWhat does a session look like?\nSolution Circles are an efficient and effective tool to help people get ‘unstuck’ from a problem. It is a quick process that takes approximately 50 minutes. It is a structured approach, and the process is recorded. We follow the solution circle process three times in each consultation group session.\nRoles\nA structured seven-stage process is followed, with each stage having a time allocation in order for the whole process to be completed.\nCase Presenter\nModerator – the Educational Psychologist\nTimekeeper\nNote Taker or Graphic Recorder\nCreative ‘brainstorm’ Team/ Consultations\nStep One – Overview of the Issue (5-10 minutes)\nThe Case Presenter will have 5-10 uninterrupted minutes to talk about the Case. The job of the Moderator is to make sure no one interrupts and overseas the Timekeeper. The Note Taker takes notes. Everyone else listens. If the Case Presenter stops talking before the 10 minutes elapse, everyone else stays silent until the time pass.\nStep Two – Key Question (2 minutes)\nThe Moderator asks for a specific question from the Case. What question would they like to be answered through the process? This becomes the aim of the session. There are some things that we are unable to change. Therefore, it is important to focus on something that is within our control.\nStep Three – Questioning Phase (10 minutes)\nUsing a round robin approach the consultants are invited to ask clarification questions of the current situation, Who? What? Where? When? How Often?\nStep Four – Brainstorming stage (10 minutes)\nConsultants are invited to generate and pose a range of ideas/theories that they think could be causing the issue (‘hypothesising’).\nStep Five – Generating solutions (10 minutes)\nBased on the information and potential theories, creative solutions are offered (again in a round robin format). The Case Presenter listens – without interrupting. He/she must not talk or respond. The rest of the consultants share ideas about creative solutions to the problem that was just presented. It is not a time to clarify the problem or to ask questions. It is not a time to give speeches, lectures, or advice. The Moderator must make sure this is about solutions. Everyone gets a chance to give his or her brilliant ideas. No one can dominate.  It might be helpful to think about what’s worked from their own experiences.\nStep Six – Next Steps (10 minutes)\nNow the group can have a dialogue about the creative solutions led by the Moderator. Consider the Key Question and focus on positive and possible solutions (not what can’t be done). The Case Presenter leads off by identifying ideas that seem interesting, or different, or worth a try, or worth refining into possibilities for action.\nThe Case Presenter decides on first steps that are possible within the next 3 days (and preferably within 24 hours). This is critical. Research shows that unless a first step is taken almost immediately, people are unlikely to act. The Case Presenter chooses a Coach from the group who volunteers to phone or see the person at a specific time (1 to 3 days) and check if he/she took their first step. This creates a positive supportive pressure that helps people get into action.\nStep Seven – Reflection of the Process (2-5 minutes)\nFinally, the team does a round of words to describe the process starting with the Case Presenter (e.g. each person could use a few words to describe the experience... ‘One thing I have found useful….’). The Recorder will forward the completed record to the Case Presenter, all the participating consultants will get a copy of the strategies discussed.\nThe feedback so far:\n“I think it has been beneficial and a great way to find strategies used by other schools”\n“As a setting, we find the consultation most useful when the class teacher is released from class to join me as SENDCo.\nWe feel it would be a useful system for KS2 as well as EYFS and KS1.”\n“Presenting and joining in has been a really useful experience. I feel like you come in with one child in mind and leave with strategies for 12 other children in your setting”",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [],
+    "department": "Knowsley Educational Psychology Service",
+    "topics": [
+      "Evidenced-based consultation"
+    ],
+    "keywords": [
+      "case",
+      "step",
+      "minute"
+    ],
+    "tfidf_keywords": [
+      "case",
+      "minutes",
+      "presenter"
+    ],
+    "bigrams": [
+      "case presenter",
+      "group consultation",
+      "creative solution"
+    ],
+    "crawl_version": "2025-04-23"
+  }
+]

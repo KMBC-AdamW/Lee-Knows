@@ -1,0 +1,390 @@
+[
+  {
+    "url": "https://www.knowsley.gov.uk/knowsley-knowledge/knowsley-2030",
+    "title": "Knowsley 2030",
+    "source": "Knowsley 2030",
+    "summary": "",
+    "intro": "",
+    "text": "Knowsley 2030\nPopulation\nStart Well\nLive Well\nAge Well\nEconomy and enterprise\nEmployment and skills\nStrategic infrastructure, housing and transport\nLocal environment and place",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Knowsley%202030%20-%20Population.pdf",
+        "text": "Population",
+        "context": "Population"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Knowsley%202030%20-%20Start-well.pdf",
+        "text": "Start Well",
+        "context": "Start Well"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Knowsley%202030%20-%20Live-Well.pdf",
+        "text": "Live Well",
+        "context": "Live Well"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Knowsley%202030%20-%20Age-well.pdf",
+        "text": "Age Well",
+        "context": "Age Well"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Knowsley%202030%20-%20Economy-and-enterprise.pdf",
+        "text": "Economy and enterprise",
+        "context": "Economy and enterprise"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Knowsley%202030%20-%20Employment-and-skills.pdf",
+        "text": "Employment and skills",
+        "context": "Employment and skills"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Knowsley%202030%20-%20Strategic-infrastructure-housing-and-transport.pdf",
+        "text": "Strategic infrastructure, housing and transport",
+        "context": "Strategic infrastructure, housing and transport"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Knowsley%202030%20-%20Local-environment-and-place.pdf",
+        "text": "Local environment and place",
+        "context": "Local environment and place"
+      }
+    ],
+    "department": "Knowsley Knowledge",
+    "topics": [],
+    "keywords": [
+      "well",
+      "knowsley",
+      "population"
+    ],
+    "tfidf_keywords": [
+      "well",
+      "2030",
+      "age"
+    ],
+    "bigrams": [
+      "knowsley population",
+      "population start",
+      "start well"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/knowsley-knowledge/knowsley-jsna",
+    "title": "Knowsley JSNA",
+    "source": "Knowsley JSNA",
+    "summary": "",
+    "intro": "",
+    "text": "Knowsley JSNA\nJoint Strategic Needs Assessment (JSNA) reports are used to help determine priorities for Knowsley’s 2030 strategy, the Joint Health & Wellbeing Strategy and to inform the Knowsley Council Plan.\nStart Well\nStart Well\nBreastfeeding JSNA 2023\nBreastfeeding Infographic 2023\nFamily Hubs Needs Assessment: Northwood\nChildren and Young People Evidence Pack\nLive Well\nLive Well\nDrug Use Disorder\nOral health JSNA\nProtected Characteristics JSNA\nSmoking, Vaping and Tobacco Control JSNA\nHealthy Eating JSNA\nHealthy Eating Infographic\nBarriers to Healthy Eating in Knowsley\nSexual Health JSNA\nSexual Health Infographic\nPhysical Activity Intelligence Report\nWomen and girl's health in Knowsley JSNA\nAge Well\nAge Well\nKnowsley Health Strategies\nKnowsley Breastfeeding Strategy 2025 to 2030",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Start-Well.pdf",
+        "text": "Start Well",
+        "context": "Start Well"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Breastfeeding-JSNA-2023.pdf",
+        "text": "Breastfeeding JSNA 2023",
+        "context": "Breastfeeding JSNA 2023"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/9cc103e5-9488-4a0e-bb0e-00502839b85b-2.pdf",
+        "text": "Breastfeeding Infographic 2023",
+        "context": "Breastfeeding Infographic 2023"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Family-Hubs-Northwood-Needs-Assesment-11th-Match-2024.pdf",
+        "text": "Family Hubs Needs Assessment: Northwood",
+        "context": "Family Hubs Needs Assessment: Northwood"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Children-and-Young-People-Intel-pack-.pdf",
+        "text": "Children and Young People Evidence Pack",
+        "context": "Children and Young People Evidence Pack"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Live-Well.pdf",
+        "text": "Live Well",
+        "context": "Live Well"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/JSNA-Report-Drug-Use-Disorder-2023.pdf",
+        "text": "Drug Use Disorder",
+        "context": "Drug Use Disorder"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Oral-health-JSNA.pdf",
+        "text": "Oral health JSNA",
+        "context": "Oral health JSNA"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Protected-characteristics-in-Knowsley-JSNA.pdf",
+        "text": "Protected Characteristics JSNA",
+        "context": "Protected Characteristics JSNA"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Smoking-Vaping-Tobacco-Control-JSNA-Final-Draft-June-2024-004.pdf",
+        "text": "Smoking, Vaping and Tobacco Control JSNA",
+        "context": "Smoking, Vaping and Tobacco Control JSNA"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Healthy-Eating-JSNA-Draft.pdf",
+        "text": "Healthy Eating JSNA",
+        "context": "Healthy Eating JSNA"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Healthy-Eating-Infographic.pdf",
+        "text": "Healthy Eating Infographic",
+        "context": "Healthy Eating Infographic"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Additional-challenges-to-healthy-eating-in-Knowsley-infographic.pdf",
+        "text": "Barriers to Healthy Eating in Knowsley",
+        "context": "Barriers to Healthy Eating in Knowsley"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/JSNA-Report-Sexual-Health-2023-v1.4.pdf",
+        "text": "Sexual Health JSNA",
+        "context": "Sexual Health JSNA"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Sexual-Health-JSNA-infograpic.pdf",
+        "text": "Sexual Health Infographic",
+        "context": "Sexual Health Infographic"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Physical-Activity.pdf",
+        "text": "Physical Activity Intelligence Report",
+        "context": "Physical Activity Intelligence Report"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2025-01/Women%20and%20Girl%27s%20Health%20in%20Knowsley%20Needs%20Assessment.pdf",
+        "text": "Women and girl's health in Knowsley JSNA",
+        "context": "Women and girl's health in Knowsley JSNA"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Age-Well.pdf",
+        "text": "Age Well",
+        "context": "Age Well"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2025-02/Knowsley%20Breastfeeding%20Strategy%202025-30.pdf",
+        "text": "Knowsley Breastfeeding Strategy 2025 to 2030",
+        "context": "Knowsley Breastfeeding Strategy 2025 to 2030"
+      }
+    ],
+    "department": "Knowsley Knowledge",
+    "topics": [],
+    "keywords": [
+      "jsna",
+      "knowsley",
+      "health"
+    ],
+    "tfidf_keywords": [
+      "jsna",
+      "knowsley",
+      "health"
+    ],
+    "bigrams": [
+      "knowsley jsna",
+      "need assessment",
+      "start well"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/knowsley-knowledge/ward-profiles",
+    "title": "Ward Profiles",
+    "source": "Ward Profiles",
+    "summary": "",
+    "intro": "",
+    "text": "Ward Profiles\nTownship Profiles\nKirkby Town Profile\nHuyton Town Profile\nHalewood Town Profile\nPrescot and Whiston Town Profile\nKirkby Wards\nCherryfield Ward\nNorthwood\nShevington\nWhitefield\nNorth Huyton Wards\nPage Moss\nStockbridge\nSt Michaels\nSouth Huyton Wards\nSwanside\nRoby\nSt Gabriel's\nPrescot, Whiston and Cronton Wards\nPrescot North\nPrescot South\nWhiston and Cronton\nHalewood Wards\nHalewood South\nHalewood North",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Kirkby-Profile.pptx",
+        "text": "Kirkby Town Profile",
+        "context": "Kirkby Town Profile"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Huyton-Profile.pptx",
+        "text": "Huyton Town Profile",
+        "context": "Huyton Town Profile"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Halewood-Profile.pptx",
+        "text": "Halewood Town Profile",
+        "context": "Halewood Town Profile"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/PWCKV-Profile.pptx",
+        "text": "Prescot and Whiston Town Profile",
+        "context": "Prescot and Whiston Town Profile"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Cherryfield-Ward_24.11.23.pdf",
+        "text": "Cherryfield Ward",
+        "context": "Cherryfield Ward"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Northwood-Ward.pdf",
+        "text": "Northwood",
+        "context": "Northwood"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Shevington-Ward.pdf",
+        "text": "Shevington",
+        "context": "Shevington"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Whitefield-Ward.pdf",
+        "text": "Whitefield",
+        "context": "Whitefield"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Page-Moss-Ward.pdf",
+        "text": "Page Moss",
+        "context": "Page Moss"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Stockbridge-Ward.pdf",
+        "text": "Stockbridge",
+        "context": "Stockbridge"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/St-Michaels-Ward.pdf",
+        "text": "St Michaels",
+        "context": "St Michaels"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Swanside-Ward.pdf",
+        "text": "Swanside",
+        "context": "Swanside"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Roby-Ward.pdf",
+        "text": "Roby",
+        "context": "Roby"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/St-Gabriels-Ward-Profile.pdf",
+        "text": "St Gabriel's",
+        "context": "St Gabriel's"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Prescot-North-Upload.pdf",
+        "text": "Prescot North",
+        "context": "Prescot North"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Prescot-South-upload.pdf",
+        "text": "Prescot South",
+        "context": "Prescot South"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Whiston-Cronton-upload.pdf",
+        "text": "Whiston and Cronton",
+        "context": "Whiston and Cronton"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Halewood-South.pdf",
+        "text": "Halewood South",
+        "context": "Halewood South"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Halewood-North.pdf",
+        "text": "Halewood North",
+        "context": "Halewood North"
+      }
+    ],
+    "department": "Knowsley Knowledge",
+    "topics": [],
+    "keywords": [
+      "ward",
+      "profile",
+      "town"
+    ],
+    "tfidf_keywords": [
+      "wards",
+      "halewood",
+      "prescot"
+    ],
+    "bigrams": [
+      "town profile",
+      "profile kirkby",
+      "prescot whiston"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/knowsley-knowledge/census-2021",
+    "title": "Census 2021",
+    "source": "Census 2021",
+    "summary": "",
+    "intro": "",
+    "text": "Census 2021\nOn the 28th June 2022, the Office for National Statistics released the first data from the 2021 census. Click below to find out more about the census date:\nTotal Population and Households\nIncluded in this section is the following data for Knowsley:\nTotal population, by 5-year age group and gender\nPopulation Density\nNumber of Households\nA summary infographic of the Total Population data can be found\nhere\n.\nA summary infographic of the type of households can be found\nhere\n.\nEthnicity, National Identity and Religion\nIn November 2022, the Office for National Statistics released detailed univariate data from the 2021 Census on Ethnicity, National Identity, Language, and Religion.\nThis release includes four key areas of data:\nEthnicity\nNational Identity\nLanguage\nReligion\nYou can find an infographic highlighting the headline results for Knowsley\nhere\n.\nLabour Market and Travel to Work\nThe Office for National Statistics released detailed data from the 2021 Census covering the theme of ‘Labour Market and Travel to Work’.\nThis release includes three key areas of data:\nEconomic Activity\nTravel to Work\nIndustry and Occupation\nHousing\nIn January 2022, the Office for National Statistics released detailed data from the 2021 Census covering the theme of ‘Housing’.\nThis includes three key areas of data:\nHousing\nCommunal Establishment Residents\nSecond Addresses\nYou can find infographics highlighting the headline results for Knowsley\nhere\n.\nSexual Orientation and Gender Identity\nIn January 2023, the Office for National statistics released detailed data from the 2021 Census covering the theme of ‘Sexual Orientation and Gender Identity’.\nYou can view the Sexual Orientation and Gender Identity infographic\nhere\n.\nEducation\nIn January 2022, the Office for National Statistics released detailed univariate data from the 2021 Census covering the theme of ‘Education’.\nThis release includes the following data:\nHighest Level of Qualification\nSchoolchildren and Full-Time Students\nHealth, Disability and Unpaid Care\nIn January 2022, the Office for National Statistics released detailed univariate data from the 2021 Census covering the theme of ‘Health, Disability and Unpaid Care’.\nThis release includes the following data:\nGeneral Health\nDisability\nUnpaid Care\nA summary infographic can be found\nhere\n.\nCensus 2021 Demography and Housing\nCensus 2021 Ethnicity, Identity, Language and Religion\nCensus 2021 Work and Industry\nCensus 2021 Education",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Census-2021-Total-Population.pdf",
+        "text": "here",
+        "context": "A summary infographic of the Total Population data can be foundhere."
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Household-Composition-Census-2021.pdf",
+        "text": "here",
+        "context": "A summary infographic of the type of households can be foundhere."
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Diversity-Infographics.pdf",
+        "text": "here",
+        "context": "You can find an infographic highlighting the headline results for Knowsleyhere."
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Census-2021-Housing.pdf",
+        "text": "here",
+        "context": "You can find infographics highlighting the headline results for Knowsleyhere."
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Sexual-Orientation-and-Gender-Identity-Census-2021.pdf",
+        "text": "here",
+        "context": "You can view the Sexual Orientation and Gender Identity infographichere."
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-10/Census-2021-Health-and-Unpaid-Care.pdf",
+        "text": "here",
+        "context": "A summary infographic can be foundhere."
+      }
+    ],
+    "department": "Knowsley Knowledge",
+    "topics": [],
+    "keywords": [
+      "datum",
+      "census",
+      "release"
+    ],
+    "tfidf_keywords": [
+      "data",
+      "census",
+      "2021"
+    ],
+    "bigrams": [
+      "office national",
+      "national statistic",
+      "statistic release"
+    ],
+    "crawl_version": "2025-04-23"
+  }
+]

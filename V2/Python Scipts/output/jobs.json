@@ -1,0 +1,220 @@
+[
+  {
+    "url": "https://www.knowsley.gov.uk/jobs/knowsley-works",
+    "title": "Knowsley Works",
+    "source": "Knowsley Works",
+    "summary": "Knowsley Works - helping you to find employment",
+    "intro": "Knowsley Works - helping you to find employment",
+    "text": "How Knowsley Works can help you\nKnowsley residents who are unemployed and looking for employment or information on training opportunities and career development, can get help and support from the Knowsley Works team.\nServices offered by Knowsley Works\nClick to view some of the ways we can help you\nAccess to exclusive vacancies through the Employment Team\nCareer development support\nGuidance on how to develop new and existing skills\nGoal setting support\nHelp in preparing your CV\nHelp with compiling and completing application forms\nAssistance with job searching\nMock interview practice\nIntroduction to local job opportunities\nApprenticeship opportunities\nIntroduction to using IT\nOvercoming personal and social barriers and building confidence and motivation\nSpecialised support\nFor specialised support, the team can provide advice and guidance, and also connect you with organisations offering further support on a range of topics.\nClick to view the types of specialist support you can access through Knowsley Works\nDisability, learning difficulty or autism\nManaging debt and finance\nMental health and well-being\nCounselling services\nSupport groups for women\nFamily assistance\nEnhancing numeracy and literacy\nGet in touch\nYou can visit or call the team in Huyton, Kirkby and Halewood from Monday to Friday, 9am to 5pm.\nHuyton\nKirkby\nHalewood\n43 Derby Road\nHuyton Village Centre\nL36 9UQ\n82 -84 St Chad’s Parade\nKirkby\nL32 8XY\nFirst floor, The Halewood Centre\nRoseheath Drive\nHalewood\nL26 9UH\n0151 443 5010\n0151 443 4780\n0151 443 5010\n*Please call to book an appointment",
+    "alert": "",
+    "has_alert": false,
+    "phone": [
+      "0151 443 5010",
+      "0151 443 4780"
+    ],
+    "email": [],
+    "links": [],
+    "department": "Jobs",
+    "topics": [],
+    "keywords": [
+      "support",
+      "knowsley",
+      "help"
+    ],
+    "tfidf_keywords": [
+      "support",
+      "help",
+      "knowsley"
+    ],
+    "bigrams": [
+      "knowsley work",
+      "career development",
+      "click view"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/jobs/apprenticeships/apply-apprenticeship",
+    "title": "Apply for an apprenticeship",
+    "source": "Apply for an apprenticeship",
+    "summary": "Looking for a new challenge? Explore apprenticeship and other employment opportunities in the Knowsley borough here.",
+    "intro": "Looking for a new challenge? Explore apprenticeship and other employment opportunities in the Knowsley borough here.",
+    "text": "Looking for an apprenticeship?\nTake a look at all our current apprentices vacancies.\nKnowsley\nLooking for other employment opportunities?\nClick the links below to explore other employment opportunities within Knowsley and Liverpool City Region Combined Authorities.\nKnowsley\nHalton\n​\nLiverpool\nSefton\nWirral\nSt Helens",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.knowsley.gov.uk/jobs/help-finding-work",
+        "text": "Knowsley",
+        "context": "Knowsley"
+      },
+      {
+        "url": "/knowsley-offer/jobs-and-training/finding-job",
+        "text": "Knowsley",
+        "context": "Knowsley"
+      },
+      {
+        "url": "https://www3.halton.gov.uk/Pages/business/businesssupport/Employer-Support.aspx",
+        "text": "Halton",
+        "context": "Halton"
+      },
+      {
+        "url": "https://liverpoolinwork.co.uk/",
+        "text": "Liverpool",
+        "context": "​Liverpool"
+      },
+      {
+        "url": "https://www.seftonatwork.net/",
+        "text": "Sefton",
+        "context": "Sefton"
+      },
+      {
+        "url": "https://www.wirral.gov.uk/jobs-and-training/help-finding-work",
+        "text": "Wirral",
+        "context": "Wirral"
+      },
+      {
+        "url": "https://www.sthelens.gov.uk/waystowork",
+        "text": "St Helens",
+        "context": "St Helens"
+      }
+    ],
+    "department": "Jobs",
+    "topics": [],
+    "keywords": [
+      "look",
+      "knowsley",
+      "other"
+    ],
+    "tfidf_keywords": [
+      "knowsley",
+      "employment",
+      "liverpool"
+    ],
+    "bigrams": [
+      "other employment",
+      "employment opportunity",
+      "look apprenticeship"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/jobs/apprenticeships/meet-apprenticeship-team",
+    "title": "Meet the apprenticeship team",
+    "source": "Meet the apprenticeship team",
+    "summary": "Find out about our friendly Knowsley Apprenticeship team and the employers who have hired our apprentices.",
+    "intro": "Find out about our friendly Knowsley Apprenticeship team and the employers who have hired our apprentices.",
+    "text": "Meet our advisors, Lyndsey and Mandy\nLyndsey Roberts and Mandy Haak have been helping young people find apprenticeships for over ten years.\nWhat we do\nWe offer a special free service to help employers and young people find the right match. We also mentor apprentices while they're learning and help employers get funding to hire apprentices from Knowsley.\nOur Impact\nWe've helped 1,536 young people start their apprenticeships! We're not stopping – we're here to help more.\nContact - Meet the apprenticeship team\nSend us a message\n0151 443 2261/ 2599",
+    "alert": "",
+    "has_alert": false,
+    "phone": [
+      "01514432261",
+      "0151 443 2261"
+    ],
+    "email": [
+      "theknowsleyapprentice@knowsley.gov.uk"
+    ],
+    "links": [
+      {
+        "url": "mailto:theknowsleyapprentice@knowsley.gov.uk",
+        "text": "Send us a message",
+        "context": "Send us a message"
+      },
+      {
+        "url": "tel:01514432261%2F2599",
+        "text": "0151 443 2261/ 2599",
+        "context": "0151 443 2261/ 2599"
+      }
+    ],
+    "department": "Jobs",
+    "topics": [],
+    "keywords": [
+      "help",
+      "young",
+      "people"
+    ],
+    "tfidf_keywords": [
+      "help",
+      "people",
+      "re"
+    ],
+    "bigrams": [
+      "young people",
+      "help young",
+      "people find"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/jobs/apprenticeships/case-studies",
+    "title": "Case studies",
+    "source": "Case studies",
+    "summary": "See some stories from those who have used Knowsley Apprentice scheme.",
+    "intro": "See some stories from those who have used Knowsley Apprentice scheme.",
+    "text": "Structec Ltd\nAimee's Story\nAimee shares, \"I began my apprenticeship with Structec (N.W) Ltd through the Knowsley Apprentice scheme. Thanks to their support, I've earned Level 2, 3, & 4 qualifications in Business and Administration. Today, I hold a leadership position, where I help others achieve similar goals.\"\nGeorgia's Story\nGeorgia says, \"I successfully completed a Level 2 Business Admin apprenticeship with Structec (N.W.) Ltd, thanks to the Knowsley Apprentice scheme. The company has been incredibly supportive, especially my mentor, who understands my journey. Now, I'm excited to continue my education with a Level 3 qualification.\"\nCitrus Group\nOwen's Story\nWe're thrilled to introduce Owen Hankin, our very first Fire Alarm and Security Apprentice. Owen is joining our team, ready to learn and grow.\nJacob's Story\nMeet Jacob Bentley, our Electrical Engineer Apprentice. Jacob completed his journey to join us, and we're excited to have him on board.\nA Message from Citrus\nAt Citrus, the success of our apprentices is a team effort. If you have the opportunity to work with an apprentice, make it count! Offer them diverse experiences and guidance. Our apprentices have the potential to become some of our best employees, with support from Citrus colleagues like you.\nLivv Housing\nClaudia's Story\nClaudia is our Customer Insight Apprentice at Livv Housing. She shares, \"Before my apprenticeship, I wasn't sure what I wanted to do. At Livv, I've explored different areas within my department, giving me a clearer direction.\"\nClaudia joined in September 2021 and has been thriving at Livv. She learns something new every day and values the supportive and welcoming atmosphere.\nNiall's Story\nNiall Walsh serves as an Assistant Property Manager at Livv Housing. He joined as an Apprentice Site Manager in 2018 at the age of 19, following his preference for hands-on work.\nAfter 18 months, he earned the role of Assistant Property Manager, a testament to the growth he achieved through his apprenticeship journey.\nSteven's Story\nSteven, a Finance Advisor – Property at Livv Housing, reflects on his apprenticeship journey. \"My apprenticeship not only developed my job skills but also enhanced crucial life skills like communication, time management, and teamwork. My overall confidence has grown too.\"\nHe believes apprenticeships are vital for young people, allowing them to transfer skills to their roles and daily life.\nPaul's Story\nPaul is our Electrical Apprentice at Livv Housing. He shares, \"I'm thoroughly enjoying my apprenticeship, especially learning the fundamentals of becoming an Electrician. Every day brings something new.\"\nAlongside the monthly support he receives from Knowsley Apprentice, Paul appreciates the welcoming team at Livv, who've made him feel like part of the family.\nMandy Manning, Learning & Development Manager\nMandy Manning, Learning & Development Manager at Livv Housing Group, emphasises their partnership with The Knowsley Apprentice, which has been key resource for nearly 15 years.\nLivv's apprenticeships give local young people with the opportunity to learn while earning, developing essential skills, knowledge, and confidence. These apprenticeships have paved the way for over 170 young people to kickstart their careers.\nMandy is proud of the success rate of their apprenticeships, with many employees advancing from apprentices to leadership roles. She believes that Knowsley Apprentice's partnership is crucial in offering local youth alternative paths to education and work, eliminating the need to travel outside the borough for opportunities.\nSteven A Hunt and Associates\n\"Last year, we had the privilege of participating in the Knowsley Apprenticeship scheme to hire a Junior Design Engineer. Thanks to this programme, we welcomed Thomas, who is now in his first year at LJMU, pursuing a Building Services Design Engineer Degree Apprenticeship.\"\n\"We greatly appreciate the support from Mandy, KMBC Young Persons Mentor. She not only promoted our vacancy in the Knowsley area but also among the young people she was assisting. This, along with an advert on the National Apprenticeship website, helped us find the right candidate.\"\n\"Knowing that the candidates referred by Mandy possessed the necessary attributes and qualifications for consideration was valuable. Equally important was the advice and guidance they received on essential employability skills.\"\n\"In addition to national government funding, the Knowsley financial incentive package proved extremely useful, especially for a smaller employer like us. It aided in covering training and mentoring expenses once Thomas joined our team.\"\n\"We appreciate that Mandy continues to monitor Thomas's progress, providing an external perspective that can help him feel comfortable in sharing any concerns.\"\nSt Albert's Catholic Primary School\nLisa Jewell, the School's Business Manager, shares, \"We decided to hire an apprentice for our school office, offering a young person the chance to secure a full-time job where they can learn and earn while bringing fresh ideas to our workplace.\"\n\"The Knowsley Apprentice Team has been helpful throughout the advertising and interviewing process, providing ongoing support for both us and our apprentice.\"",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [],
+    "department": "Jobs",
+    "topics": [],
+    "keywords": [
+      "apprentice",
+      "apprenticeship",
+      "livv"
+    ],
+    "tfidf_keywords": [
+      "apprentice",
+      "apprenticeship",
+      "livv"
+    ],
+    "bigrams": [
+      "knowsley apprentice",
+      "livv housing",
+      "young people"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/jobs/apprenticeships/application-advice",
+    "title": "Application advice",
+    "source": "Application advice",
+    "summary": "Here you'll find some tips for when applying with Knowsley Apprentice.",
+    "intro": "Here you'll find some tips for when applying with Knowsley Apprentice.",
+    "text": "Research the employer\nBefore you apply, delve into the employer offering the job. Understand their operations and the job's specifics.\nShow your understanding\nIn your application, demonstrate your grasp of their business.\nFor instance: \"I aspire to develop building maintenance skills, inspired by your success in securing a significant housing association contract.\"\nReview the job description\nAlways read the job description before you start completing the application form. Ensure that the information you provide aligns with the job requirements.\nSeek application support\nFor application form assistance, email\ntheknowsleyapprentice@knowsley.gov.uk\nwith 'Application Support' in the subject line.\nFollow instructions\nBefore filling in your form, carefully read the instructions.\nTake your time\nAvoid rushing; take your time to prevent mistakes.\nDraft your application\nPrepare a draft of the application form before transferring the information. For handwritten forms, avoid errors on the original.\nNeat and error-free\nEnsure neat, error-free writing, and check your spelling.\nComplete all sections\nAnswer all questions and fill all boxes/spaces.\nAddress employment gaps\nExplain any gaps in your employment history. If you've never had a job, include examples like voluntary work or involvement with clubs or organisations.\nSell Your skills\nPromote your skills, including those developed outside work, like hobbies and interests.\nKeep a copy\nBefore submitting, make a copy for future reference if you're invited for an interview.\nSeek feedback\nAsk a friend or relative to review your application form before submission.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [
+      "theknowsleyapprentice@knowsley.gov.uk"
+    ],
+    "links": [
+      {
+        "url": "mailto:theknowsleyapprentice@knowsley.gov.uk?subject=Application Support",
+        "text": "theknowsleyapprentice@knowsley.gov.uk",
+        "context": "For application form assistance, emailtheknowsleyapprentice@knowsley.gov.ukwith 'Application Support' in the subject line."
+      }
+    ],
+    "department": "Jobs",
+    "topics": [],
+    "keywords": [
+      "application",
+      "before",
+      "job"
+    ],
+    "tfidf_keywords": [
+      "application",
+      "before",
+      "job"
+    ],
+    "bigrams": [
+      "application form",
+      "job description",
+      "application support"
+    ],
+    "crawl_version": "2025-04-23"
+  }
+]

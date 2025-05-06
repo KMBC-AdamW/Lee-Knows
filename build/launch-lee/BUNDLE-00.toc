@@ -1,0 +1,3 @@
+([('launch-lee',
+   '/Users/adamwheatley/Desktop/lee-knows/dist/launch-lee',
+   'EXECUTABLE')],)

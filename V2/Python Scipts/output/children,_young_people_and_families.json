@@ -1,0 +1,1739 @@
+[
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/early-years-and-childcare/childcare/choosing-childcare-knowsley",
+    "title": "Choosing childcare in Knowsley",
+    "source": "Choosing childcare in Knowsley",
+    "summary": "Choosing childcare, from day nurseries to childminders.",
+    "intro": "Choosing childcare, from day nurseries to childminders.",
+    "text": "Overview\nThere are many types of childcare: early education or preschool services, childminders, nurseries, nursery classes or out-of-school clubs.\nHere are some key questions to ask a childcare provider:\nHow long have you been working with children, and what qualifications do you have?\nCan I look around the building to see the rooms and outside play space?\nDo the children have access to the outdoors?\nAre there suitable sleeping arrangements?\nDo you provide my child/children with healthy food and drinks?\nWhat will my child do all day?\nWhat kind of activities do you plan?\nWill you keep a daily record of what they have done?\nHow do you encourage good behaviour?\nWill my child be with a regular group of children? How old are they? How will their timetable fit in with my child?\nHow can I make sure my child is settling in well?\nCan I see how the security and signing-in books work?\nOther things to look out for:\nAre the children calm, safe and happy?\nDo children play and talk together, and are they calm, safe and happy?\nAre the staff friendly, listening to children and answering them carefully?\nAre there lots of fun activities planned to help children learn and play, and do staff join in?\nAre there plenty of clean toys and equipment for children to use?\nDo parents have plenty of chances to say what they want for their children?\nYou should ask for their Ofsted Registration certificate and the most recent Ofsted Inspection report. Their registration ensures that they meet the 14 National Standards, that all staff have DBS checks and all staff have undertaken relevant training.\nBenefits for your child\nHigh-quality childcare and early education gives your child a head start in primary school; research shows that it improves their educational, emotional and social development.\nThe benefits of part-time attendance are just as good as those for full-time.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [],
+    "department": "Children, young people and families",
+    "topics": [
+      "Early years and childcare",
+      "Childcare"
+    ],
+    "keywords": [
+      "child",
+      "there",
+      "staff"
+    ],
+    "tfidf_keywords": [
+      "children",
+      "child",
+      "my"
+    ],
+    "bigrams": [
+      "childcare early",
+      "early education",
+      "activity plan"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/early-years-and-childcare/childcare/free-childcare-places-two",
+    "title": "Free childcare places for two-year-olds",
+    "source": "Free childcare places for two-year-olds",
+    "summary": "If your child is approaching their 2nd birthday, they may be eligible for a free part-time place in a high-quality childcare setting (nursery or childminder) from the term following their 2nd birthday.",
+    "intro": "If your child is approaching their 2nd birthday, they may be eligible for a free part-time place in a high-quality childcare setting (nursery or childminder) from the term following their 2nd birthday.",
+    "text": "Overview\nA promotional video has been created to give an overview of the two-year-old early education offer.\nIf your child’s 2nd birthday falls between 1 January – 31 March, they will become entitled to a free place from the start of the Summer Term (April.\nIf your child’s 2nd birthday falls between 1 April – 31 August, they will become entitled to a free place from the start of the Autumn Term (September).\nIf your child’s 2nd birthday falls between 1 September – 31 December, they will become entitled to a free place from the start of the Spring Term (January).\nKnowsley providers can only start your child at the beginning of each term, e.g. September, January or April.\nYour child can start at the beginning of each term, e.g. September, January or April, or after the Half Term.\nFor up-to-date closing dates for each term, please visit the\nKnowsley Family Information Service website\n.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.knowsleyinfo.co.uk/",
+        "text": "Knowsley Family Information Service website",
+        "context": "For up-to-date closing dates for each term, please visit theKnowsley Family Information Service website."
+      }
+    ],
+    "department": "Children, young people and families",
+    "topics": [
+      "Early years and childcare",
+      "Childcare"
+    ],
+    "keywords": [
+      "term",
+      "child",
+      "start"
+    ],
+    "tfidf_keywords": [
+      "term",
+      "child",
+      "start"
+    ],
+    "bigrams": [
+      "child birthday",
+      "birthday fall",
+      "fall between"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/early-years-and-childcare/family-information-service",
+    "title": "Family Information Service",
+    "source": "Family Information Service",
+    "summary": "Knowsley Family Information Service (FIS) is a free and impartial service for families with children and young people with Special Educational Needs and Disabilities (SEND).",
+    "intro": "Knowsley Family Information Service (FIS) is a free and impartial service for families with children and young people with Special Educational Needs and Disabilities (SEND).",
+    "text": "Overview\nThe\nKnowsley Family Information Service (FIS) website\ncan help you or someone you know get in touch with the right service at the right time.\nThese services include:\nEarly Help\nChildcare and Early Education\nKnowsley Local Offer (SEND)\nKnowsley Early Years Service\nYou can also use the website to get\nadvice and information for young people\n,\neducation, employment and learning\n,\nhealth, wellbeing and care\n,\nplay and leisure\n.\nFor further assistance, contact the Knowsley Early Years Childcare & Family Information Service on 0151 443 5633, Option 4 or email\nFIS@knowsley.gov.uk\n.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [
+      "0151 443 5633"
+    ],
+    "email": [
+      "FIS@knowsley.gov.uk"
+    ],
+    "links": [
+      {
+        "url": "https://www.knowsleyinfo.co.uk/",
+        "text": "Knowsley Family Information Service (FIS) website",
+        "context": "TheKnowsley Family Information Service (FIS) websitecan help you or someone you know get in touch with the right service at the right time."
+      },
+      {
+        "url": "https://www.knowsleyinfo.co.uk/young-people",
+        "text": "advice and information for young people",
+        "context": "You can also use the website to getadvice and information for young people,education, employment and learning,health, wellbeing and care,play and leisure."
+      },
+      {
+        "url": "https://www.knowsleyinfo.co.uk/education-employment-learning",
+        "text": "education, employment and learning",
+        "context": "You can also use the website to getadvice and information for young people,education, employment and learning,health, wellbeing and care,play and leisure."
+      },
+      {
+        "url": "https://www.knowsleyinfo.co.uk/health-wellbeing-and-care",
+        "text": "health, wellbeing and care",
+        "context": "You can also use the website to getadvice and information for young people,education, employment and learning,health, wellbeing and care,play and leisure."
+      },
+      {
+        "url": "https://www.knowsleyinfo.co.uk/play-and-leisure",
+        "text": "play and leisure",
+        "context": "You can also use the website to getadvice and information for young people,education, employment and learning,health, wellbeing and care,play and leisure."
+      },
+      {
+        "url": "mailto:FIS@knowsley.gov.uk",
+        "text": "FIS@knowsley.gov.uk",
+        "context": "For further assistance, contact the Knowsley Early Years Childcare & Family Information Service on 0151 443 5633, Option 4 or emailFIS@knowsley.gov.uk."
+      }
+    ],
+    "department": "Children, young people and families",
+    "topics": [
+      "Early years and childcare"
+    ],
+    "keywords": [
+      "service",
+      "knowsley",
+      "early"
+    ],
+    "tfidf_keywords": [
+      "knowsley",
+      "early",
+      "service"
+    ],
+    "bigrams": [
+      "family information",
+      "information service",
+      "knowsley early"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/child-protection-and-safeguarding/safeguarding-children",
+    "title": "Safeguarding children",
+    "source": "Safeguarding children",
+    "summary": "Find out how to raise concerns if a child is at risk of harm or you may know of a family who could benefit from additional support and help to better look after a child.",
+    "intro": "Find out how to raise concerns if a child is at risk of harm or you may know of a family who could benefit from additional support and help to better look after a child.",
+    "text": "Children who have concerns\nIf you are a child who is suffering from harm, neglect or abuse or are worried that another child may be suffering, you can:\nTalk to someone outside your family that you trust, such as a teacher, school nurse, police officer or other person in authority\nContact the Multi-Agency Safeguarding Hub (MASH) Team on 0151 443 2600 and speak to someone from Social Care. A Social Worker works for the government, and their job is to help you if you need to be protected from harm\nContact Merseyside Police on 101 (24-hour non-emergency number). In an emergency, always dial 999. It is the Police’s job to protect you from harm and stop crimes against you or other children\nContact ChildLine. ChildLine is a private and confidential service for children and young people up to the age of 19. You can contact a ChildLine counsellor about anything. You can call free on 0800 1111, have a\nchat online\nor send an\nemail\n.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [
+      "0151 443 2600"
+    ],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.childline.org.uk/get-support/1-2-1-counsellor-chat/",
+        "text": "chat online",
+        "context": "Contact ChildLine. ChildLine is a private and confidential service for children and young people up to the age of 19. You can contact a ChildLine counsellor about anything. You can call free on 0800 1111, have achat onlineor send anemail."
+      },
+      {
+        "url": "https://www.childline.org.uk/login/?returnPath=%2flocker%2finbox%2f%3fin_type%3dnav",
+        "text": "email",
+        "context": "Contact ChildLine. ChildLine is a private and confidential service for children and young people up to the age of 19. You can contact a ChildLine counsellor about anything. You can call free on 0800 1111, have achat onlineor send anemail."
+      }
+    ],
+    "department": "Children, young people and families",
+    "topics": [
+      "Child protection and safeguarding"
+    ],
+    "keywords": [
+      "child",
+      "contact",
+      "harm"
+    ],
+    "tfidf_keywords": [
+      "contact",
+      "childline",
+      "children"
+    ],
+    "bigrams": [
+      "child who",
+      "protect harm",
+      "contact childline"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/early-years-and-childcare/childcare/choosing-childcare-0",
+    "title": "Choosing childcare in Knowsley",
+    "source": "Choosing childcare in Knowsley",
+    "summary": "Choosing childcare, from day nurseries to childminders.",
+    "intro": "Choosing childcare, from day nurseries to childminders.",
+    "text": "Full day care nursery\nA day nursery provides care and education, for children between the ages of six weeks and five years. They may also offer Wrap-around places and may provide a pick-up service from nearby schools. Opening times normally coincide with a standard working day. You can send your child full or part-time.\nYou can find full day care on a number of different sites such as\nEarly Years Centres\n, Knowsley Primary Schools or private dwellings.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "/children-young-people-and-families/early-years-and-childcare/knowsley-early-years-service",
+        "text": "Early Years Centres",
+        "context": "You can find full day care on a number of different sites such asEarly Years Centres, Knowsley Primary Schools or private dwellings."
+      }
+    ],
+    "department": "Children, young people and families",
+    "topics": [
+      "Early years and childcare",
+      "Childcare"
+    ],
+    "keywords": [
+      "day",
+      "full",
+      "care"
+    ],
+    "tfidf_keywords": [
+      "day",
+      "care",
+      "full"
+    ],
+    "bigrams": [
+      "full day",
+      "day care",
+      "care nursery"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/early-years-and-childcare/childcare/choosing-childcare-1",
+    "title": "Choosing childcare in Knowsley",
+    "source": "Choosing childcare in Knowsley",
+    "summary": "Choosing childcare, from day nurseries to childminders.",
+    "intro": "Choosing childcare, from day nurseries to childminders.",
+    "text": "Pre–school or playgroups\nPre-school or playgroups provide care for children between 2 and 5 years. They offer sessions from two and half hours to four hours, during term time, either every day or on several days a week.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [],
+    "department": "Children, young people and families",
+    "topics": [
+      "Early years and childcare",
+      "Childcare"
+    ],
+    "keywords": [
+      "pre",
+      "school",
+      "playgroup"
+    ],
+    "tfidf_keywords": [
+      "hours",
+      "playgroups",
+      "pre"
+    ],
+    "bigrams": [
+      "pre school",
+      "school playgroup",
+      "playgroup pre"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/early-years-and-childcare/childcare/choosing-childcare-2",
+    "title": "Choosing childcare in Knowsley",
+    "source": "Choosing childcare in Knowsley",
+    "summary": "Choosing childcare, from day nurseries to childminders.",
+    "intro": "Choosing childcare, from day nurseries to childminders.",
+    "text": "Out of school and holiday childcare\nSometimes referred to as out-of-school clubs, these services are based on school sites, nurseries or community centres; they provide childcare for 4- to 11-year-olds between 8 am – 6 pm 50 weeks of the year for older children. For more information, contact the\nEarly Years Childcare Information Service.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "/children-young-people-and-families/early-years-and-childcare/knowsley-early-years-service",
+        "text": "Early Years Childcare Information Service.",
+        "context": "Sometimes referred to as out-of-school clubs, these services are based on school sites, nurseries or community centres; they provide childcare for 4- to 11-year-olds between 8 am – 6 pm 50 weeks of the year for older children. For more information, contact theEarly Years Childcare Information Service."
+      }
+    ],
+    "department": "Children, young people and families",
+    "topics": [
+      "Early years and childcare",
+      "Childcare"
+    ],
+    "keywords": [
+      "school",
+      "childcare",
+      "year"
+    ],
+    "tfidf_keywords": [
+      "childcare",
+      "school",
+      "information"
+    ],
+    "bigrams": [
+      "out school",
+      "year old",
+      "school holiday"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/early-years-and-childcare/childcare/choosing-childcare-3",
+    "title": "Choosing childcare in Knowsley",
+    "source": "Choosing childcare in Knowsley",
+    "summary": "Choosing childcare, from day nurseries to childminders.",
+    "intro": "Choosing childcare, from day nurseries to childminders.",
+    "text": "Childminders\nRegistered childminders look after your child/children along with other children, usually in their own homes. Most are willing to work early mornings, evenings and weekends, as well as part-time, and some offer a pick-up service from local schools.\nChildcare Brokerage Service for parents with a Disabled Child Leaflet is also available from the\nKnowsley Early Years Childcare\nInformation Service on 0151 443 5633 Option 4",
+    "alert": "",
+    "has_alert": false,
+    "phone": [
+      "0151 443 5633"
+    ],
+    "email": [],
+    "links": [
+      {
+        "url": "/children-young-people-and-families/early-years-and-childcare/childcare/knowsley-childcare",
+        "text": "Knowsley Early Years Childcare",
+        "context": "Childcare Brokerage Service for parents with a Disabled Child Leaflet is also available from theKnowsley Early Years ChildcareInformation Service on 0151 443 5633 Option 4"
+      }
+    ],
+    "department": "Children, young people and families",
+    "topics": [
+      "Early years and childcare",
+      "Childcare"
+    ],
+    "keywords": [
+      "child",
+      "service",
+      "childminder"
+    ],
+    "tfidf_keywords": [
+      "service",
+      "child",
+      "childcare"
+    ],
+    "bigrams": [
+      "childminder register",
+      "register childminder",
+      "childminder look"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/early-years-and-childcare/childcare/choosing-childcare-4",
+    "title": "Choosing childcare in Knowsley",
+    "source": "Choosing childcare in Knowsley",
+    "summary": "Choosing childcare, from day nurseries to childminders.",
+    "intro": "Choosing childcare, from day nurseries to childminders.",
+    "text": "Financial support\nPaying for childcare can take a big chunk out of your household income. However, don’t rule out any options until you’ve worked out what financial help is available to you. Also, consider the benefits you may be able to claim.\n15 & 30 hours childcare for eligible working families (children aged 9 months to 4 years)\n15 hours early learning for families receiving some additional forms of support (children aged 2 years)\n15 hours childcare for all families (children aged 3-4 years)\nTax-free childcare for working families, including the self-employed\nUniversal Credit can also assist with childcare costs if you aren’t receiving tax-free childcare\nChildcare Element of Working Tax Credits\nStudy support for families where one or both of the parents are studying\nFor more information, check your eligibility or apply, visit\nChildcare Choices\n.\nKnowsley Early Years Service\nprovides childcare settings with business support and guidance, to assist providers when setting their fees.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.childcarechoices.gov.uk/",
+        "text": "Childcare Choices",
+        "context": "For more information, check your eligibility or apply, visitChildcare Choices."
+      },
+      {
+        "url": "/children-young-people-and-families/early-years-and-childcare/knowsley-early-years-service",
+        "text": "Knowsley Early Years Service",
+        "context": "Knowsley Early Years Serviceprovides childcare settings with business support and guidance, to assist providers when setting their fees."
+      }
+    ],
+    "department": "Children, young people and families",
+    "topics": [
+      "Early years and childcare",
+      "Childcare"
+    ],
+    "keywords": [
+      "childcare",
+      "family",
+      "support"
+    ],
+    "tfidf_keywords": [
+      "childcare",
+      "families",
+      "support"
+    ],
+    "bigrams": [
+      "child age",
+      "hour childcare",
+      "family child"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/early-years-and-childcare/childcare/free-childcare-places-two-0",
+    "title": "Free childcare places for two-year-olds",
+    "source": "Free childcare places for two-year-olds",
+    "summary": "If your child is approaching their 2nd birthday, they may be eligible for a free part-time place in a high-quality childcare setting (nursery or childminder) from the term following their 2nd birthday.",
+    "intro": "If your child is approaching their 2nd birthday, they may be eligible for a free part-time place in a high-quality childcare setting (nursery or childminder) from the term following their 2nd birthday.",
+    "text": "Two-year-old early learning education offer\nThe Childcare/Family Information Service/ Early Years Centre, your Health Visiting Team or Social Worker can discuss the benefits of your child taking up a free part-time childcare place in either a nursery or with a childminder.\nPlaces will be provided in local childcare settings\nAll providers will have received a good or outstanding Ofsted report\nAll childcare providers participate in Knowsley Council’s Quality Assurance Scheme\nYour child can attend 15 hours per week over 38 weeks (school term times) or 11½ hours per week spread over 50 weeks, including school holidays.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [],
+    "department": "Children, young people and families",
+    "topics": [
+      "Early years and childcare",
+      "Childcare"
+    ],
+    "keywords": [
+      "childcare",
+      "week",
+      "year"
+    ],
+    "tfidf_keywords": [
+      "childcare",
+      "child",
+      "early"
+    ],
+    "bigrams": [
+      "hour per",
+      "per week",
+      "over week"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/early-years-and-childcare/childcare/free-childcare-places-two-1",
+    "title": "Free childcare places for two-year-olds",
+    "source": "Free childcare places for two-year-olds",
+    "summary": "If your child is approaching their 2nd birthday, they may be eligible for a free part-time place in a high-quality childcare setting (nursery or childminder) from the term following their 2nd birthday.",
+    "intro": "If your child is approaching their 2nd birthday, they may be eligible for a free part-time place in a high-quality childcare setting (nursery or childminder) from the term following their 2nd birthday.",
+    "text": "Eligibility\nYour two-year-old can get free childcare if you live in England and receive one of the following benefits:\nIncome Support\nIncome-based Jobseeker’s Allowance (JSA)\nIncome-related Employment and Support Allowance (ESA)\nUniversal Credit\nand your household income is £15400 a year or less after tax, not including benefit payments\n​Parents are eligible for the two-year-old entitlement if their income is £16190 a year or less and:\nThey receive child tax credit but not working tax credit\nThey receive working tax credit but not child tax credit\nThey receive the working tax credit 4-week run on (the payment you get when you stop qualifying for working tax credit\nParents are\nnot eligible when they claim working tax credits and child tax credits at the same time.\nTwo-year-olds can also get free childcare if they:\nare children who are looked after by the local authority\nhave a current statement of\nspecial education needs (SEN)\nor an education, health and care (EHC) plan\nget\nDisability Living Allowance\n(DLA)\nhave left care under an adoption order, special guardianship order or a child arrangements order\nYou may have to pay for extra costs like meals, nappies or trips.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "/benefits-and-support/benefits-you-may-be-entitled/universal-credit",
+        "text": "Universal Credit",
+        "context": "Universal Creditand your household income is £15400 a year or less after tax, not including benefit payments"
+      },
+      {
+        "url": "https://www.gov.uk/children-with-special-educational-needs",
+        "text": "special education needs (SEN)",
+        "context": "have a current statement ofspecial education needs (SEN)or an education, health and care (EHC) plan"
+      },
+      {
+        "url": "https://www.gov.uk/disability-living-allowance-children",
+        "text": "Disability Living Allowance",
+        "context": "getDisability Living Allowance(DLA)"
+      }
+    ],
+    "department": "Children, young people and families",
+    "topics": [
+      "Early years and childcare",
+      "Childcare"
+    ],
+    "keywords": [
+      "credit",
+      "tax",
+      "year"
+    ],
+    "tfidf_keywords": [
+      "tax",
+      "credit",
+      "income"
+    ],
+    "bigrams": [
+      "tax credit",
+      "work tax",
+      "two year"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/early-years-and-childcare/childcare/free-childcare-places-two-2",
+    "title": "Free childcare places for two-year-olds",
+    "source": "Free childcare places for two-year-olds",
+    "summary": "If your child is approaching their 2nd birthday, they may be eligible for a free part-time place in a high-quality childcare setting (nursery or childminder) from the term following their 2nd birthday.",
+    "intro": "If your child is approaching their 2nd birthday, they may be eligible for a free part-time place in a high-quality childcare setting (nursery or childminder) from the term following their 2nd birthday.",
+    "text": "Non-EEA citizen support\nYour two-year-old may get free childcare if you are getting\nsupport under the Immigration and Asylum Act\nand have either:\nclaimed asylum\nin the UK and are waiting for a decision (known as ‘part 6’)\nbeen refused asylum in the UK (under section 4 of the Immigration and Asylum Act 1999 - 'the 1999 Act')\nA two-year-old you care for may also get free childcare if your household income is £15400 a year or less after tax, and you have either:\nleave to remain with ‘no recourse to public funds on\nfamily or private life grounds\nsupport from your local council because you have ‘a child in need’, for example, they have a disability or a child protection plan\nthe right to live in the UK because you’re the main carer of a British citizen (known as a ‘\nZambrano Carer’\n)\nThe carer must not be a British citizen or an exempt person\nThe child must be a British citizen\nThe carer must be a direct relative or legal guardian of the child (as defined in the Home Office guidance on pages 44-45)\nThey must have primary responsibility for the care of the child (primary care can be shared between two relatives)\nThere are no other members of their family in the UK or EEA who could look after the child\nParents who are Zambrano carers or who have leave to remain with NRPF, must also be able to demonstrate that they have a low income.\nChildren offered a place will be registered with the Early Years Service, and families will be able to benefit from a range of services within their local centres.\nChildren accessing a two-year-old place will then move automatically onto their three-year-old funded entitlement in either a private and voluntary nursery, childminder or school, available for 15 hours a week. This transition will be carefully planned and managed to meet each child’s individual needs.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.gov.uk/asylum-support",
+        "text": "support under the Immigration and Asylum Act",
+        "context": "Your two-year-old may get free childcare if you are gettingsupport under the Immigration and Asylum Actand have either:"
+      },
+      {
+        "url": "https://www.gov.uk/claim-asylum",
+        "text": "claimed asylum",
+        "context": "claimed asylumin the UK and are waiting for a decision (known as ‘part 6’)"
+      },
+      {
+        "url": "https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance",
+        "text": "family or private life grounds",
+        "context": "leave to remain with ‘no recourse to public funds onfamily or private life grounds"
+      },
+      {
+        "url": "https://www.gov.uk/government/publications/access-to-benefits-for-those-who-will-have-a-zambrano-right-to-reside-and-work",
+        "text": "Zambrano Carer’",
+        "context": "the right to live in the UK because you’re the main carer of a British citizen (known as a ‘Zambrano Carer’)The carer must not be a British citizen or an exempt personThe child must be a British citizenThe carer must be a direct relative or legal guardian of the child (as defined in the Home Office guidance on pages 44-45)They must have primary responsibility for the care of the child (primary care can be shared between two relatives)There are no other members of their family in the UK or EEA who could look after the childParents who are Zambrano carers or who have leave to remain with NRPF, must also be able to demonstrate that they have a low income."
+      }
+    ],
+    "department": "Children, young people and families",
+    "topics": [
+      "Early years and childcare",
+      "Childcare"
+    ],
+    "keywords": [
+      "child",
+      "year",
+      "carer"
+    ],
+    "tfidf_keywords": [
+      "child",
+      "must",
+      "year"
+    ],
+    "bigrams": [
+      "year old",
+      "two year",
+      "british citizen"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/early-years-and-childcare/childcare/free-childcare-places-two-3",
+    "title": "Free childcare places for two-year-olds",
+    "source": "Free childcare places for two-year-olds",
+    "summary": "If your child is approaching their 2nd birthday, they may be eligible for a free part-time place in a high-quality childcare setting (nursery or childminder) from the term following their 2nd birthday.",
+    "intro": "If your child is approaching their 2nd birthday, they may be eligible for a free part-time place in a high-quality childcare setting (nursery or childminder) from the term following their 2nd birthday.",
+    "text": "How to apply\nYou can apply online now at\nKnowsley Parent Portal\n. If you have any questions about your application or need support, please contact our Early Years Placement Officer on 0151 443 5633 (Option 5).\nYou need to create a separate application for each individual child you wish to claim for.\nWhen you have completed your online form, if it is successful, you should receive confirmation and a code by email once your application has been processed, you will then be able to take this code to the childcare provider of your choice.\nPlaces will only be made to settings within Knowsley, if you wish to apply outside the borough, you must contact that local authority.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [
+      "0151 443 5633"
+    ],
+    "email": [],
+    "links": [
+      {
+        "url": "https://parentportal.knowsley.gov.uk/web/portal/pages/parents/freechildcare",
+        "text": "Knowsley Parent Portal",
+        "context": "You can apply online now atKnowsley Parent Portal. If you have any questions about your application or need support, please contact our Early Years Placement Officer on 0151 443 5633 (Option 5)."
+      }
+    ],
+    "department": "Children, young people and families",
+    "topics": [
+      "Early years and childcare",
+      "Childcare"
+    ],
+    "keywords": [
+      "apply",
+      "application",
+      "online"
+    ],
+    "tfidf_keywords": [
+      "application",
+      "apply",
+      "code"
+    ],
+    "bigrams": [
+      "apply apply",
+      "apply online",
+      "online now"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/early-years-and-childcare/family-information-service/early-help",
+    "title": "Family Information Service",
+    "source": "Family Information Service",
+    "summary": "Knowsley Family Information Service (FIS) is a free and impartial service for families with children and young people with Special Educational Needs and Disabilities (SEND).",
+    "intro": "Knowsley Family Information Service (FIS) is a free and impartial service for families with children and young people with Special Educational Needs and Disabilities (SEND).",
+    "text": "Early Help\nEarly Help\nis all about taking steps to stop small problems from becoming bigger problems for children, young people and their families. Through the website, you can:\nFind out more information about the Early Help Assessment Framework\nGet contact details for the Early Help Team\nAccess Parenting and Family Support services\nGet help if you have problems with crime or anti-social behaviour\nGet help if you have problems with debt or general problems with your finances\nFind the right health and wellbeing services for you\nGet help with homelessness or housing worries\nFind leisure activities\nGet help from practitioners",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.knowsleyinfo.co.uk/knowsley-early-help",
+        "text": "Early Help",
+        "context": "Early Helpis all about taking steps to stop small problems from becoming bigger problems for children, young people and their families. Through the website, you can:"
+      }
+    ],
+    "department": "Children, young people and families",
+    "topics": [
+      "Early years and childcare",
+      "Family Information Service"
+    ],
+    "keywords": [
+      "help",
+      "problem",
+      "get"
+    ],
+    "tfidf_keywords": [
+      "help",
+      "get",
+      "problems"
+    ],
+    "bigrams": [
+      "early help",
+      "get help",
+      "service get"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/early-years-and-childcare/family-information-service/childcare",
+    "title": "Family Information Service",
+    "source": "Family Information Service",
+    "summary": "Knowsley Family Information Service (FIS) is a free and impartial service for families with children and young people with Special Educational Needs and Disabilities (SEND).",
+    "intro": "Knowsley Family Information Service (FIS) is a free and impartial service for families with children and young people with Special Educational Needs and Disabilities (SEND).",
+    "text": "Childcare and early education\nChildcare and early education\ninformation on the website can help you:\nFind out information from the Knowsley Childcare Information Service\nGet more information about the Childcare Brokerage Service for Parents with a Disabled Child\nFind childcare in Knowsley - including free childcare for 2-year-olds and free childcare for children aged 3 or 4\nFind out information about tax-free childcare for children under the age of 12\nFind out more information about childcare choices; there is lots of information for parents\nFind out information written for childcare providers and those interested in becoming childminders\nRead childcare guides, including information about Coram Family and Childcare",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.knowsleyinfo.co.uk/knowsley-childcare-early-education",
+        "text": "Childcare and early education",
+        "context": "Childcare and early educationinformation on the website can help you:"
+      }
+    ],
+    "department": "Children, young people and families",
+    "topics": [
+      "Early years and childcare",
+      "Family Information Service"
+    ],
+    "keywords": [
+      "childcare",
+      "information",
+      "find"
+    ],
+    "tfidf_keywords": [
+      "childcare",
+      "information",
+      "find"
+    ],
+    "bigrams": [
+      "find out",
+      "out information",
+      "information about"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/early-years-and-childcare/family-information-service/knowsley",
+    "title": "Family Information Service",
+    "source": "Family Information Service",
+    "summary": "Knowsley Family Information Service (FIS) is a free and impartial service for families with children and young people with Special Educational Needs and Disabilities (SEND).",
+    "intro": "Knowsley Family Information Service (FIS) is a free and impartial service for families with children and young people with Special Educational Needs and Disabilities (SEND).",
+    "text": "Knowsley Local Offer (SEND)\nThe Knowsley Local Offer (SEND)\nsection of the website contains the following:\nEducation Psychology information\nInformation and advice about the Local Offer\nThe Local Offer for Early Years (0-4 year olds), for school-age children (4-16 year olds) and for those becoming adults (16-25 year olds)\nSpecific information about funding, travel and housing accommodation - including information about Blue Badges\nNewsletters and news about any SEN services you need\nPlay, leisure and short breaks\nKnowsley Voluntary Children & Young People’s RECORD",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.knowsleyinfo.co.uk/knowsley-local-offer-send",
+        "text": "The Knowsley Local Offer (SEND)",
+        "context": "The Knowsley Local Offer (SEND)section of the website contains the following:"
+      }
+    ],
+    "department": "Children, young people and families",
+    "topics": [
+      "Early years and childcare",
+      "Family Information Service"
+    ],
+    "keywords": [
+      "local",
+      "offer",
+      "information"
+    ],
+    "tfidf_keywords": [
+      "about",
+      "information",
+      "local"
+    ],
+    "bigrams": [
+      "local offer",
+      "year old",
+      "knowsley local"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/early-years-and-childcare/family-information-service/knowsley-0",
+    "title": "Family Information Service",
+    "source": "Family Information Service",
+    "summary": "Knowsley Family Information Service (FIS) is a free and impartial service for families with children and young people with Special Educational Needs and Disabilities (SEND).",
+    "intro": "Knowsley Family Information Service (FIS) is a free and impartial service for families with children and young people with Special Educational Needs and Disabilities (SEND).",
+    "text": "Knowsley Early Years Service\nKnowsley Early Years Service website\nhas the latest update from the service.\nThe services delivered in each centre will depend on the unique characteristics of the local area.\nThe centres are:\nNorthwood Family Hub at The Pride and The Star Centre are all in Kirkby\nHilltop Centre and Jubilee Centre in Huyton.\nStockbridge Village\nNew Hutte Children and Families Hub, Halewood\nAll centres support parents, carers and families to give children the best possible start.\nServices are also delivered from Tesco Prescot Community Room and The George Howard Centre, Whiston\nFor further information about the Service, including how to register:\nComplete an Early Years service registration form online\nTell us about a change of circumstances\nVisit our Knowsley Early Years website\nView our Early Years service privacy notice",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://knowsleyearlyyears.co.uk/home/",
+        "text": "Knowsley Early Years Service website",
+        "context": "Knowsley Early Years Service websitehas the latest update from the service."
+      },
+      {
+        "url": "https://forms.knowsley.gov.uk/Childrens",
+        "text": "Complete an Early Years service registration form online",
+        "context": "Complete an Early Years service registration form online"
+      },
+      {
+        "url": "https://forms.knowsley.gov.uk/childrens/changeofcircs",
+        "text": "Tell us about a change of circumstances",
+        "context": "Tell us about a change of circumstances"
+      },
+      {
+        "url": "http://knowsleychildrenscentres.co.uk/",
+        "text": "Visit our Knowsley Early Years website",
+        "context": "Visit our Knowsley Early Years website"
+      },
+      {
+        "url": "/privacy-notices/early-years-recruitment-pilot-privacy-notice",
+        "text": "View our Early Years service privacy notice",
+        "context": "View our Early Years service privacy notice"
+      }
+    ],
+    "department": "Children, young people and families",
+    "topics": [
+      "Early years and childcare",
+      "Family Information Service"
+    ],
+    "keywords": [
+      "service",
+      "centre",
+      "early"
+    ],
+    "tfidf_keywords": [
+      "service",
+      "centre",
+      "early"
+    ],
+    "bigrams": [
+      "early year",
+      "year service",
+      "knowsley early"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/child-protection-and-safeguarding/safeguarding-children/members",
+    "title": "Safeguarding children",
+    "source": "Safeguarding children",
+    "summary": "Find out how to raise concerns if a child is at risk of harm or you may know of a family who could benefit from additional support and help to better look after a child.",
+    "intro": "Find out how to raise concerns if a child is at risk of harm or you may know of a family who could benefit from additional support and help to better look after a child.",
+    "text": "Members of the public with concerns\nIf you are worried a child may be suffering immediate significant harm, or if you are concerned a child has suffered harm, neglect or abuse, please follow the advice below:\nIf you believe a child or young person is at immediate risk of harm, contact the police by dialling 999.\nIf you have concerns about a child or young person but believe they are not at immediate risk, you can:\nDiscuss your concerns with a professional you trust, such as a health visitor, teacher or GP\nContact the MASH Team on 0151 443 2600 and choose from one of the options provided\nContact Merseyside Police on 101 (24-hour non-emergency number)",
+    "alert": "",
+    "has_alert": false,
+    "phone": [
+      "0151 443 2600"
+    ],
+    "email": [],
+    "links": [],
+    "department": "Children, young people and families",
+    "topics": [
+      "Child protection and safeguarding",
+      "Safeguarding children"
+    ],
+    "keywords": [
+      "concern",
+      "child",
+      "immediate"
+    ],
+    "tfidf_keywords": [
+      "child",
+      "concerns",
+      "contact"
+    ],
+    "bigrams": [
+      "child young",
+      "young person",
+      "immediate risk"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/child-protection-and-safeguarding/safeguarding-children-0",
+    "title": "Safeguarding children",
+    "source": "Safeguarding children",
+    "summary": "Find out how to raise concerns if a child is at risk of harm or you may know of a family who could benefit from additional support and help to better look after a child.",
+    "intro": "Find out how to raise concerns if a child is at risk of harm or you may know of a family who could benefit from additional support and help to better look after a child.",
+    "text": "Professional workers with concerns\nIf you are a professional or a volunteer who comes into contact with children as part of your work, you have a statutory duty to safeguard children and report any allegations or concerns about their welfare or safety.\nSimilarly, if you have identified a child or young person who could benefit from a service or needs help and support, you have a responsibility to pass this information on to the relevant agency.\nThe\nKnowsley Safeguarding Children's Partnership website\nprovides more information about your responsibilities and how to report concerns.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "http://www.knowsleyscp.org.uk/",
+        "text": "Knowsley Safeguarding Children's Partnership website",
+        "context": "TheKnowsley Safeguarding Children's Partnership websiteprovides more information about your responsibilities and how to report concerns."
+      }
+    ],
+    "department": "Children, young people and families",
+    "topics": [
+      "Child protection and safeguarding"
+    ],
+    "keywords": [
+      "child",
+      "concern",
+      "professional"
+    ],
+    "tfidf_keywords": [
+      "children",
+      "concerns",
+      "about"
+    ],
+    "bigrams": [
+      "safeguard child",
+      "professional worker",
+      "worker concern"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/child-protection-and-safeguarding/safeguarding-children/online",
+    "title": "Safeguarding children",
+    "source": "Safeguarding children",
+    "summary": "Find out how to raise concerns if a child is at risk of harm or you may know of a family who could benefit from additional support and help to better look after a child.",
+    "intro": "Find out how to raise concerns if a child is at risk of harm or you may know of a family who could benefit from additional support and help to better look after a child.",
+    "text": "Online abuse\nIf you are a young person or a parent worried about something that has happened online, the\nChild Exploitation and Online Protection Centre (CEOP)\ncan help you. CEOP provides help and advice and the option to report any instance of sexual contact or harmful material.\nIf you are in immediate danger or want urgent help, call 999 or call Merseyside Police by dialling 101 (24-hour non-emergency number).",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "http://www.ceop.gov.uk/reportabuse/index.asp",
+        "text": "Child Exploitation and Online Protection Centre (CEOP)",
+        "context": "If you are a young person or a parent worried about something that has happened online, theChild Exploitation and Online Protection Centre (CEOP)can help you. CEOP provides help and advice and the option to report any instance of sexual contact or harmful material."
+      }
+    ],
+    "department": "Children, young people and families",
+    "topics": [
+      "Child protection and safeguarding",
+      "Safeguarding children"
+    ],
+    "keywords": [
+      "online",
+      "help",
+      "ceop"
+    ],
+    "tfidf_keywords": [
+      "help",
+      "online",
+      "call"
+    ],
+    "bigrams": [
+      "online abuse",
+      "abuse young",
+      "young person"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/early-years-and-childcare/knowsley-early-years-service",
+    "title": "Knowsley Early Years Service",
+    "source": "Knowsley Early Years Service",
+    "summary": "The service brings together a range of services that work in partnership to improve the lives of all young children aged 0-5 years and their families.",
+    "intro": "The service brings together a range of services that work in partnership to improve the lives of all young children aged 0-5 years and their families.",
+    "text": "A range of free services for families are delivered in children’s centres and in the local community. Provided by agencies and organisations working together, the services meet the individual needs of both children and their parents/carers, with a particular emphasis on the needs of children under 5.\nKnowsley Early Years Service is delivered from:\nThe Pride Centre and The Star Centre which are both in Kirkby\nHilltop Centre and Jubilee Centre in Huyton\nStockbridge Village\nNew Hutte Children and Families Hub, Halewood\nKnowsley has a diverse mix of families and communities.  The services delivered in each centre will depend on the unique characteristics of the local area. All centres support parents, carers and families to give your children the best possible start.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [],
+    "department": "Children, young people and families",
+    "topics": [
+      "Early years and childcare"
+    ],
+    "keywords": [
+      "centre",
+      "child",
+      "service"
+    ],
+    "tfidf_keywords": [
+      "centre",
+      "children",
+      "families"
+    ],
+    "bigrams": [
+      "parent carer",
+      "service deliver",
+      "range free"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/early-years-and-childcare/childcare/knowsley-childcare",
+    "title": "Knowsley Childcare Information Service",
+    "source": "Knowsley Childcare Information Service",
+    "summary": "Find out about the service, how to get support and how to make complaints about childcare and nurseries.",
+    "intro": "Find out about the service, how to get support and how to make complaints about childcare and nurseries.",
+    "text": "The Knowsley Childcare Information Service is a free service providing information on childcare for parents and carers, including:\nOut-of-school childcare\nChildminders\nNursery education and pre-school groups\nPrimary and secondary school admissions\nHow to register as a childminder or set up a childcare business.\nThe regulation of childcare provision\nWe also provide information on careers in childcare.\nFind childcare in Knowsley with our search facility\n.\nUseful Websites\nFamily Service Directory & Local Offer\nHow to get support\nFor help and support choosing childcare, call the Childcare Information Service on 0151 443 5633 Option 4\nor email\nchildcare.information@knowsley.gov.uk\nComplaints about childcare and nurseries\nEach type of childcare has its pros and cons, and you will need to work out what suits you and your family's needs best based on work hours, budgets, etc., but you should always expect a quality provision.\nIf you are unhappy with any aspect of the care, you should, in the first instance, speak to the setting manager; if you are unsatisfied with the answers and actions or have any other concerns, contact\nOfsted\non 0300 123 1231.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [
+      "0151 443 5633",
+      "0300 123 1231"
+    ],
+    "email": [
+      "childcare.information@knowsley.gov.uk"
+    ],
+    "links": [
+      {
+        "url": "https://parentportal.knowsley.gov.uk/web/portal/pages/fisresults?category=0",
+        "text": "Find childcare in Knowsley with our search facility",
+        "context": "We also provide information on careers in childcare.Find childcare in Knowsley with our search facility."
+      },
+      {
+        "url": "https://www.knowsleyinfo.co.uk/",
+        "text": "Family Service Directory & Local Offer",
+        "context": "Family Service Directory & Local Offer"
+      },
+      {
+        "url": "mailto:childcare.information@knowsley.gov.uk",
+        "text": "childcare.information@knowsley.gov.uk",
+        "context": "For help and support choosing childcare, call the Childcare Information Service on 0151 443 5633 Option 4or emailchildcare.information@knowsley.gov.uk"
+      },
+      {
+        "url": "http://www.ofsted.gov.uk/",
+        "text": "Ofsted",
+        "context": "If you are unhappy with any aspect of the care, you should, in the first instance, speak to the setting manager; if you are unsatisfied with the answers and actions or have any other concerns, contactOfstedon 0300 123 1231."
+      }
+    ],
+    "department": "Children, young people and families",
+    "topics": [
+      "Early years and childcare",
+      "Childcare"
+    ],
+    "keywords": [
+      "childcare",
+      "information",
+      "service"
+    ],
+    "tfidf_keywords": [
+      "childcare",
+      "information",
+      "service"
+    ],
+    "bigrams": [
+      "childcare information",
+      "information service",
+      "provide information"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/child-protection-and-safeguarding/report-missing-child",
+    "title": "Report a missing child",
+    "source": "Report a missing child",
+    "summary": "If you do not know the whereabouts of a child who is missing from home or local authority care, you should report this as soon as possible.",
+    "intro": "If you do not know the whereabouts of a child who is missing from home or local authority care, you should report this as soon as possible.",
+    "text": "A child or young person under the age of 18 years is considered ‘missing’ if they are:\nMissing from home\nMissing from care\nPart of a missing family - including children on the Child Protection Plan\nParents, family members, carers or guardians are expected to make all reasonable attempts to find the child and return them to their home address or placement and are expected to undertake the following basic measures to try and locate the child if considered safe to do so:\nSearch bedroom/house/outbuildings/vehicles\nContact the missing person via mobile or social media\nContact known friends and relatives where the child/ young person may be\nVisit locations that the child is known to frequent if it is safe to do so\nCheck social network sites\nContact local hospitals\nWhat you can do\nReport the child as missing to Merseyside Police via telephoning 101, or in cases of an emergency, 999.\nIf the missing child is in care, the child’s social worker should also be contacted on 0151 443 2600.\nParents who do not inform the police or social services when a child is missing could find this becomes a child protection issue.\nFor further information, contact Children Services on 0151 443 2600.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [
+      "0151 443 2600"
+    ],
+    "email": [],
+    "links": [],
+    "department": "Children, young people and families",
+    "topics": [
+      "Child protection and safeguarding"
+    ],
+    "keywords": [
+      "child",
+      "miss",
+      "contact"
+    ],
+    "tfidf_keywords": [
+      "child",
+      "missing",
+      "contact"
+    ],
+    "bigrams": [
+      "young person",
+      "child protection",
+      "child young"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/child-protection-and-safeguarding/multi-agency-safeguarding-hub",
+    "title": "Multi Agency Safeguarding Hub (MASH)",
+    "source": "Multi Agency Safeguarding Hub (MASH)",
+    "summary": "Find out about Knowsley MASH, a multi-agency team who coordinates with various agencies to ensure child welfare & safety.",
+    "intro": "Find out about Knowsley MASH, a multi-agency team who coordinates with various agencies to ensure child welfare & safety.",
+    "text": "Knowsley MASH is part of Knowsley Borough Council’s Children Services. It is a multi-agency team that works together in the same building. Some of the agencies represented in the MASH are Adult Social Care, Children’s Social Care, Health, Housing and the Police. Agencies work together with the Early Help Team and Children’s Social Care to provide information about concerns raised and help make the best decisions around a child’s welfare and safety.\nThe MASH provides a ‘first point of contact’ for Early Help and Children’s Social Care (CSC), enabling members of the public and professionals to raise concerns about the safety and welfare of Children. This may include Children identified as needing support or at risk of suffering abuse.\nKnowsley MASH operates between 9.00 am to 5.00 pm Monday to Friday and can be contacted via\nemail\nor by dialling 0151 443 2600.\nMembers of the public should always make contact by telephone.\nIf you contact MASH by telephone, you will be asked a series of questions when making a referral to ensure as much information as possible can be gained to support what level of need is identified and what action is required by whom.\nProfessionals who work with children and who need to raise a concern should use the\nMulti-agency Referral Form (MARF)\n. The form should be emailed to the MASH team when it is completed. If there is any sense of urgency regarding the concern being raised, the form should be sent, followed by a phone call to MASH to highlight the urgency of the case. If you need help in respect of filling in the form, you can also give the MASH a call for advice.\nThere is no pre-requisite to complete an Early Help Assessment (EHA) before referring to Children’s Social Care. However, if the concerns do not require social work interventions, it will be expected that support is provided to the family via an Early Help Assessment. If an EHA has been completed at the point of referral, this should be sent with the\nMARF\nor sent separately if the referral is received via a telephone call.\nAt all other times, the Emergency Duty Team (EDT) is the ‘first point of contact’ for Children’s Social Care.\nEDT can be contacted using the same number as the MASH – 0151 443 2600.\nEDT will only respond to Emergencies that cannot wait until the next working day. This is usually circumstances where there are immediate concerns regarding the welfare or safety of children, or there is a risk of family breakdown and the child being placed in care.\nPlease note if you believe a child or young person is at immediate risk of harm, you should contact the police urgently.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [
+      "0151 443 2600"
+    ],
+    "email": [
+      "Knowsleymash@knowsley.gov.uk"
+    ],
+    "links": [
+      {
+        "url": "mailto:Knowsleymash@knowsley.gov.uk",
+        "text": "email",
+        "context": "Knowsley MASH operates between 9.00 am to 5.00 pm Monday to Friday and can be contacted viaemailor by dialling 0151 443 2600."
+      },
+      {
+        "url": "https://marf.knowsley.gov.uk/Home",
+        "text": "Multi-agency Referral Form (MARF)",
+        "context": "Professionals who work with children and who need to raise a concern should use theMulti-agency Referral Form (MARF). The form should be emailed to the MASH team when it is completed. If there is any sense of urgency regarding the concern being raised, the form should be sent, followed by a phone call to MASH to highlight the urgency of the case. If you need help in respect of filling in the form, you can also give the MASH a call for advice."
+      },
+      {
+        "url": "https://marf.knowsley.gov.uk/Home",
+        "text": "MARF",
+        "context": "There is no pre-requisite to complete an Early Help Assessment (EHA) before referring to Children’s Social Care. However, if the concerns do not require social work interventions, it will be expected that support is provided to the family via an Early Help Assessment. If an EHA has been completed at the point of referral, this should be sent with theMARFor sent separately if the referral is received via a telephone call."
+      }
+    ],
+    "department": "Children, young people and families",
+    "topics": [
+      "Child protection and safeguarding"
+    ],
+    "keywords": [
+      "child",
+      "mash",
+      "social"
+    ],
+    "tfidf_keywords": [
+      "children",
+      "mash",
+      "care"
+    ],
+    "bigrams": [
+      "social care",
+      "child social",
+      "early help"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/child-protection-and-safeguarding/early-help",
+    "title": "Early Help",
+    "source": "Early Help",
+    "summary": "Find out about what Early Help does including how they provide information, advice and guidance to practitioners and what an Early Help Assessment is.",
+    "intro": "Find out about what Early Help does including how they provide information, advice and guidance to practitioners and what an Early Help Assessment is.",
+    "text": "Early Help coordinators provide information, advice and guidance to practitioners when considering how to best assess a child’s needs. They support partner agencies by providing information on services and interventions in Knowsley and neighbouring boroughs, providing advice and guidance on Early Help Assessment processes and procedures and facilitating Team Around the Family (TAF) meetings.\nAn Early Help Assessment (EHA) is a tool for partner agencies to assess and document the needs of children when needs are first identified and to formulate a plan for how these needs are going to be met.\nThose agencies involved with the family will all contribute to the assessment and plan. They will meet to review progress as part of the TAF meeting.\nLocality Network meetings are held for all partner agencies to come together to discuss best practices, share information and collectively assess the quality of Early Help Assessments across the partnership.\nEarly Help coordinators can be contacted by telephone at 0151 443 2670.\nView the Early Help and Prevention strategy\nDocument\nEarly Help and Prevention Strategy 2021-2024.pdf\n(\nPDF\n,\n1.67MB\n)",
+    "alert": "",
+    "has_alert": false,
+    "phone": [
+      "0151 443 2670"
+    ],
+    "email": [],
+    "links": [
+      {
+        "url": "/sites/default/files/2024-06/Early%20Help%20and%20Prevention%20Strategy%202021-2024.pdf",
+        "text": "Early Help and Prevention Strategy 2021-2024.pdf(PDF,1.67MB)",
+        "context": "Early Help and Prevention Strategy 2021-2024.pdf(PDF,1.67MB)"
+      }
+    ],
+    "department": "Children, young people and families",
+    "topics": [
+      "Child protection and safeguarding"
+    ],
+    "keywords": [
+      "early",
+      "help",
+      "need"
+    ],
+    "tfidf_keywords": [
+      "early",
+      "help",
+      "agencies"
+    ],
+    "bigrams": [
+      "early help",
+      "partner agency",
+      "help assessment"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/child-protection-and-safeguarding/safeguarding-children/family",
+    "title": "Family First (0-18 years)",
+    "source": "Family First (0-18 years)",
+    "summary": "Find out about Family First: A pivotal resource providing interventions to families with complex needs, coordinating multi-agency support based on whole-family Early Help Assessment, and aiming to foster positive outcomes while minimizing the need for crisis intervention services.",
+    "intro": "Find out about Family First: A pivotal resource providing interventions to families with complex needs, coordinating multi-agency support based on whole-family Early Help Assessment, and aiming to foster positive outcomes while minimizing the need for crisis intervention services.",
+    "text": "Family First is one of the key resources delivering interventions to families with complex needs, supporting families to thrive in line with the expectations set out in the Early Help and Prevention Strategy and aligned to the expectations of the national Supporting Families programme.\nThe core offer of the service is the coordination and delivery of multi-agency interventions based on whole-family Early Help Assessment and action planning with families to help them achieve positive outcomes for themselves while reducing the likelihood of escalation to high-cost, statutory, crisis intervention services such as Children’s Social Care.\nFamilies engaging with the service can expect a wide range of support delivered directly by Family First Case Managers through a coordinated partnership approach.\nTo find out more about the service, call 0151 443 2670 and ask to speak to a team manager.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [
+      "0151 443 2670"
+    ],
+    "email": [],
+    "links": [],
+    "department": "Children, young people and families",
+    "topics": [
+      "Child protection and safeguarding",
+      "Safeguarding children"
+    ],
+    "keywords": [
+      "family",
+      "service",
+      "intervention"
+    ],
+    "tfidf_keywords": [
+      "families",
+      "family",
+      "help"
+    ],
+    "bigrams": [
+      "family first",
+      "support family",
+      "early help"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/adoption-and-fostering/private-fostering",
+    "title": "Private fostering",
+    "source": "Private fostering",
+    "summary": "Find out about what private fostering is, who can foster and what they must do.",
+    "intro": "Find out about what private fostering is, who can foster and what they must do.",
+    "text": "Private fostering is when a child under 16 (or under 18 if disabled) lives with someone who is not a close relative for 28 days or more. This might be a friend, a great aunt, a cousin or someone else known to the child. A close relative is defined as a grandparent, aunt, uncle, brother or step-parent by marriage. Many parents who have arranged for someone else to care for their child don’t realise that they have entered into a private fostering arrangement when they have made informal arrangements with friends or extended family.\nTo keep vulnerable children safe and support families, by law, parents and carers must notify their local authority if they have a private fostering arrangement in place. There are many reasons why children are privately fostered. Such examples include:\nparental ill health children or young people from overseas who visit this country for education or health care reasons\nchildren or young people who are living with a friend/boyfriend/girlfriend’s family as a result of parental separation, divorce or arguments at home\nchildren or young people whose parents work or study long or anti-social hours\nchildren or teenagers on school holiday exchanges that last more than 28 days\nchildren or teenagers on sports or music sponsorships live away from their families. A parent or an agency, such as a college or sports academy, would normally make such an arrangement\nEven though this is a private arrangement, the law says that the local authority must ensure your child is safe and well cared for.\nIf you are thinking of placing your child in a private fostering arrangement, you must tell the local authority at least six weeks beforehand or, in case of an emergency placement, within 48 hours of the placement beginning.\nIf the arrangement has already started, you must contact Knowsley Borough Council immediately on 0151 443 2929.\nSee leaflets for more information:\nDocument\nPrivate Fostering - A Guide for parents and carers_.pdf\n(\nPDF\n,\n356.58KB\n)\nDocument\nPrivate Fostering - Children YP.pdf\n(\nPDF\n,\n215.73KB\n)",
+    "alert": "",
+    "has_alert": false,
+    "phone": [
+      "0151 443 2929"
+    ],
+    "email": [],
+    "links": [
+      {
+        "url": "/sites/default/files/2023-10/Private%20Fostering%20-%20A%20Guide%20for%20parents%20and%20carers_.pdf",
+        "text": "Private Fostering - A Guide for parents and carers_.pdf(PDF,356.58KB)",
+        "context": "Private Fostering - A Guide for parents and carers_.pdf(PDF,356.58KB)"
+      },
+      {
+        "url": "/sites/default/files/2023-10/Private%20Fostering%20-%20Children%20YP.pdf",
+        "text": "Private Fostering - Children YP.pdf(PDF,215.73KB)",
+        "context": "Private Fostering - Children YP.pdf(PDF,215.73KB)"
+      }
+    ],
+    "department": "Children, young people and families",
+    "topics": [
+      "Adoption and fostering"
+    ],
+    "keywords": [
+      "child",
+      "private",
+      "arrangement"
+    ],
+    "tfidf_keywords": [
+      "children",
+      "private",
+      "arrangement"
+    ],
+    "bigrams": [
+      "private fostering",
+      "private foster",
+      "foster arrangement"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/care-experienced-people/local-offer-care-experienced-people",
+    "title": "Local Offer for care experienced people",
+    "source": "Local Offer for care experienced people",
+    "summary": "Find out more about support for young people aged between 18 and 25 who have previously been looked after.",
+    "intro": "Find out more about support for young people aged between 18 and 25 who have previously been looked after.",
+    "text": "The Local Offer for care leavers in Knowsley has been developed by the council, local partners and care experienced people. It identifies the important issues to care experienced people as they move away from care and toward independence.\nKnowsley’s revised Local Offer to our care experienced people was launched on 10 October 2023.\nIt provides Care Experienced People with essential information about the advice, support, and guidance available from a vast range of services and the many kinds of financial support available to make a successful transition to adult life.\nDocument\nKnowsleys-Local-Offer-to-Care-Experienced-People-2023.pdf\n(\nPDF\n,\n730.31KB\n)\nA range of advice and information is also available regarding employment and training opportunities, accommodation, social activities, health and wellbeing and financial management on the\nKnowsley Care Leavers Local Offer website\n.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "/sites/default/files/2023-10/Knowsleys-Local-Offer-to-Care-Experienced-People-2023.pdf",
+        "text": "Knowsleys-Local-Offer-to-Care-Experienced-People-2023.pdf(PDF,730.31KB)",
+        "context": "Knowsleys-Local-Offer-to-Care-Experienced-People-2023.pdf(PDF,730.31KB)"
+      },
+      {
+        "url": "http://knowsleycareleavers.co.uk/",
+        "text": "Knowsley Care Leavers Local Offer website",
+        "context": "A range of advice and information is also available regarding employment and training opportunities, accommodation, social activities, health and wellbeing and financial management on theKnowsley Care Leavers Local Offer website."
+      }
+    ],
+    "department": "Children, young people and families",
+    "topics": [
+      "Care experienced people"
+    ],
+    "keywords": [
+      "care",
+      "local",
+      "people"
+    ],
+    "tfidf_keywords": [
+      "care",
+      "experienced",
+      "local"
+    ],
+    "bigrams": [
+      "local offer",
+      "care experienced",
+      "experienced people"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/care-experienced-people/residential-care-children",
+    "title": "Residential care for children",
+    "source": "Residential care for children",
+    "summary": "We provide residential care for children to ensure their needs are met when they cannot live with their own family or need short-term support.",
+    "intro": "We provide residential care for children to ensure their needs are met when they cannot live with their own family or need short-term support.",
+    "text": "Residential care isn’t just about giving children a home but helping them develop and grow in a safe environment, no matter their needs.\nAccommodation\nThere are four houses in the Knowsley area – two in Huyton and two in Kirkby. Two of the houses accommodate young people who cannot stay with their family for a period of time.\nA further home in Huyton is a short break support service for children with a disability who are 6 – 17 years old. In Kirkby, the house is an edge-of-care short breaks service which offers weekend breaks and weekday bridging support for families.\nAll of the homes are subject to Ofsted inspections and in 2023, were all graded as ‘Good’.\nAccessing the service\nWe provide this service for children and young people who have been assessed as needing residential accommodation following a social worker's assessment. The assessment is conducted with the young person, their family or carers and social worker.\nMore information\nDocument\nKnowsley Sufficiency Position Statement 2022-2025.pdf\n(\nPDF\n,\n554.41KB\n)\nFor further information about this service, contact your assigned social worker or Children Services on 0151 443 2600.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [
+      "0151 443 2600"
+    ],
+    "email": [],
+    "links": [
+      {
+        "url": "/sites/default/files/2024-01/Knowsley%20Sufficiency%20Position%20Statement%202022-2025.pdf",
+        "text": "Knowsley Sufficiency Position Statement 2022-2025.pdf(PDF,554.41KB)",
+        "context": "Knowsley Sufficiency Position Statement 2022-2025.pdf(PDF,554.41KB)"
+      }
+    ],
+    "department": "Children, young people and families",
+    "topics": [
+      "Care experienced people"
+    ],
+    "keywords": [
+      "service",
+      "child",
+      "home"
+    ],
+    "tfidf_keywords": [
+      "service",
+      "children",
+      "social"
+    ],
+    "bigrams": [
+      "social worker",
+      "young people",
+      "people who"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/care-experienced-people/you-said-we-did",
+    "title": "You said, we did",
+    "source": "You said, we did",
+    "summary": "Find out how we respond to the valuable views, experiences and ideas raised by care for children and care experienced people.",
+    "intro": "Find out how we respond to the valuable views, experiences and ideas raised by care for children and care experienced people.",
+    "text": "Cared for children and care experienced people are valued by the adults who work with them within children’s social care and by the Knowsley Children in Care Council (MADE). Their views, experiences and ideas are listened to individually and collectively to ensure services are based on need and to also embed their views within the planning, design and delivery of services.\nKnowsley Children’s Social Care (CSC) are visited by Investing in Children (IIC) annually to assess participatory practice across the service. CSC has received two awards from IIC and will continue to conduct external assessments annually to keep participation high on the agenda.  This has supported us to focus more on a ‘you said, we did’ approach where we listen to our children, take on board their experiences, and react in response to their thoughts, wishes and feelings.\nHere are some examples of how we have responded to what children have said:\nThe Corporate Parenting Board works closely with Children’s Social Care to ensure targets set out in the Corporate Parenting Plan are met. It engages feedback from MADE Together to help improve the delivery of services and monitors a ‘you said, we did’ action plan linked to what children have asked decision-makers to consider.\nMADE Together is a new shadow board to the Corporate Parenting Board which brings together decision-makers, MADE and the care experienced people forum to hold council services to account.  This will help improve the care experiences of all cared-for children and the support offered for care-experienced people.\nMADE Together meets bi-annually with regular Keep in Touch (KIT) meetings with directors, heads of service and commissioned services to progress their agenda. (March and September)\nThe Corporate Parenting Board support the MADE agenda to reach other decision makers and related partners to progress their agenda, such as links with the health and wellbeing board and the Knowsley safeguarding children’s partnership.\nCommissioned service and voluntary and community service across Knowsley and beyond, link with the participation officer, MADE, young advisors from Knowsley Safeguarding Children Partnership (KSCP) and care experienced people to build on offers of support, including the\nLocal Offer for Care Experienced People\n, mental health support services and projects, creative arts projects, access to leisure and support for young parents.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.knowsley.gov.uk//sites/default/files/2023-10/Knowsleys-Local-Offer-to-Care-Experienced-People-2023.pdf",
+        "text": "Local Offer for Care Experienced People",
+        "context": "Commissioned service and voluntary and community service across Knowsley and beyond, link with the participation officer, MADE, young advisors from Knowsley Safeguarding Children Partnership (KSCP) and care experienced people to build on offers of support, including theLocal Offer for Care Experienced People, mental health support services and projects, creative arts projects, access to leisure and support for young parents."
+      }
+    ],
+    "department": "Children, young people and families",
+    "topics": [
+      "Care experienced people"
+    ],
+    "keywords": [
+      "care",
+      "child",
+      "service"
+    ],
+    "tfidf_keywords": [
+      "children",
+      "care",
+      "made"
+    ],
+    "bigrams": [
+      "care experience",
+      "corporate parenting",
+      "experience people"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/care-experienced-people/made-collective-making-difference",
+    "title": "MADE Collective (Making a Difference Everywhere)",
+    "source": "MADE Collective (Making a Difference Everywhere)",
+    "summary": "The views of care experienced children and young people in Knowsley are represented by the MADE Collective (Making a Difference Everywhere).",
+    "intro": "The views of care experienced children and young people in Knowsley are represented by the MADE Collective (Making a Difference Everywhere).",
+    "text": "This group represents Knowsley’s Child in Care Council and brings together children from across the service to discuss matters that affect them, children who are cared for as well as children who are residents of Knowsley.\nMADE meet twice a month to have meetings, work on team building and participate in activities. Group meeting agendas are organic and child-led with a youth focus to help create a relaxed and informal setting for those involved.\nStaff members and the participation and engagement officer help to facilitate a positive, solution-focused, safe space for the children to join in, grow in confidence and esteem and become empowered to share their views and to socialise with other children within the setting.\nParticipation and engagement of children and young adults across CSC also include:\nEnsuring that children have a clear voice in their reviews, including supporting young people to chair their own reviews\nEnsuring children are communicated with clearly and effectively through the revision of documentation and ensuring the correct communication methods are used, i.e., interpreters and the revision of child focussed care plans, etc\nMADE Together shapes strategic planning through focus groups, proofreading, surveys and sharing direct experiences\nParticipation standards self-assessments and actions are used by CSC teams through their participation champions to keep children and young adults’ participation and engagement high on the agenda\nCare experienced people co-delivering training, i.e., for commissioned services, across CSC and across university sites to social work students\nPartnership provision of free leisure passes for our cared-for children and cared experienced people (until the age of 21)\nCare experienced people sitting on planning groups for events and strategies to embed their voice in the planning of service opportunities and events\nCare experienced people sitting on interview panels for new staff wishing to work within children’s social care\nAdults who have experienced adoption and care experiences sit on the fostering panel to offer different perspectives to panel",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [],
+    "department": "Children, young people and families",
+    "topics": [
+      "Care experienced people"
+    ],
+    "keywords": [
+      "child",
+      "care",
+      "experience"
+    ],
+    "tfidf_keywords": [
+      "children",
+      "care",
+      "experienced"
+    ],
+    "bigrams": [
+      "care experience",
+      "participation engagement",
+      "experience people"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/young-carers-team",
+    "title": "The Young Carers Team",
+    "source": "The Young Carers Team",
+    "summary": "The Young Carers Team supports young people aged 6 to 18 years who are caring for a family member who, due to illness, disability, a mental health problem or an addiction and cannot cope without their support.",
+    "intro": "The Young Carers Team supports young people aged 6 to 18 years who are caring for a family member who, due to illness, disability, a mental health problem or an addiction and cannot cope without their support.",
+    "text": "Young carers are children and young people who look after someone in their family who has an illness, a disability, or is affected by mental ill-health or substance misuse. Young Carers often take on practical and/or emotional caring responsibilities that would normally be expected of an adult.\nIn partnership with Vibe, we take a whole family approach to assessing and supporting carers, providing support wherever possible. This may include a trip or activity for peer support or a one-to-one chat with trained workers.  We support families to ensure that they receive a full package of help that they require, making sure all the relevant services are involved.  This helps to ensure that young carers do not need to take on inappropriate levels of care that could be detrimental to their own health and well-being.\nThe young carer assessment is child-friendly and easily accessible and incorporates many elements of All About Me. Assessments often provide considerable insight into not only the wishes and feelings of children but also their perceptions, which can improve and inform current support plans.\nThe service also works alongside schools in Knowsley to promote and identify Young Carers. This involves raising awareness through assemblies, training with teaching staff and through the promotion of the Young Carers Schools Award.\nCriteria\nAll answers must be YES to meet the criteria for the young person:\nYoung person aged between 6-18 years old\nLives in Knowsley Borough\nIs aware of the referral, and parent/guardian consent has been given\nCares for a family member (parent/sibling/other relative)\nContact\nEmail:\nKnowsley.YoungCarers@knowsley.gov.uk\n‘Me Time’ programme - Help for young carers\nKnowsley Young Carers can access the 'Me Time' programme, which is a session for local young carers to take a break from caring for family members. The session runs Mondays and Wednesdays from various sites in Knowsley, providing opportunities for young carers to get involved in new and exciting activities such as Camp craft, orienteering, water sports and other outdoor education activities, Cultural trips such as visiting theatres and cinema or taking part in more mainstream sports such as football, netball etc. Or you can just come and chill with your friends and the youth workers and maybe try some generic youth activities.\nTo get involved, please contact Steven Blackhurst\nPhone: 07585 987 447\nEmail:\nsteven.blackhurst@vibeuk.org\nAlternatively – contact Sharon McGinnity\nPhone: 07775 221 879\nEmail:\nSharon.mcginnity@vibeuk.org",
+    "alert": "",
+    "has_alert": false,
+    "phone": [
+      "07585 987 447",
+      "07775 221 879"
+    ],
+    "email": [
+      "Knowsley.YoungCarers@knowsley.gov.uk",
+      "steven.blackhurst@vibeuk.org",
+      "Sharon.mcginnity@vibeuk.org"
+    ],
+    "links": [
+      {
+        "url": "mailto:Knowsley.YoungCarers@knowsley.gov.uk",
+        "text": "Knowsley.YoungCarers@knowsley.gov.uk",
+        "context": "Email:Knowsley.YoungCarers@knowsley.gov.uk"
+      },
+      {
+        "url": "mailto:steven.blackhurst@vibeuk.org",
+        "text": "steven.blackhurst@vibeuk.org",
+        "context": "Email:steven.blackhurst@vibeuk.org"
+      },
+      {
+        "url": "mailto:Sharon.mcginnity@vibeuk.org",
+        "text": "Sharon.mcginnity@vibeuk.org",
+        "context": "Email:Sharon.mcginnity@vibeuk.org"
+      }
+    ],
+    "department": "Children, young people and families",
+    "topics": [],
+    "keywords": [
+      "young",
+      "carer",
+      "family"
+    ],
+    "tfidf_keywords": [
+      "young",
+      "carers",
+      "knowsley"
+    ],
+    "bigrams": [
+      "young carer",
+      "young person",
+      "care family"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/reducing-parental-conflict-supporting-healthy-relationships",
+    "title": "Reducing parental conflict: Supporting healthy relationships in Knowsley",
+    "source": "Reducing parental conflict: Supporting healthy relationships in Knowsley",
+    "summary": "Disagreements are a normal part of life, and most couples argue from time to time. Find resources to help understand, communicate, and resolve your conflicts in effective ways.",
+    "intro": "Disagreements are a normal part of life, and most couples argue from time to time. Find resources to help understand, communicate, and resolve your conflicts in effective ways.",
+    "text": "Disagreements happen, even in strong relationships. What matters is how you talk things through. Healthy communication makes a big difference for you, your partner, and your children.\nKnowsley Council offers free online tools and resources to help families navigate relationship challenges. No matter if you're together, separated, or considering separation, we have resources available for you.\nAbout parental conflict\nIt's natural for families to have disagreements. Differences in ideas, opinions, and priorities are part of life. But when those disagreements become frequent, intense, or unresolved, they can take a toll on everyone, especially children.\nFrequent, intense, or poorly resolved conflict between parents can have serious consequences for children, both in the short and long term.\nIf harmful conflict is identified and supported earlier, it will lead to better outcomes for the whole family.\nFree resources available\nSee it Differently\nVideos, tips, and strategies to understand conflict and its impact.\nFind out more here\n.\nOne Plus One\nFour online courses on coping with conflict, communication, and raising kids together. There are four online courses that you can access if you are experiencing conflict and feel like you need further support. These courses can be accessed privately and are free to use.\nRegister online to access these resources here\n.\nMe, You and Baby Too\nPrepare parents for changes to their relationship, support them to develop skills to manage conflict constructively and help expectant and new parents cope with changes in their relationship.\nArguing better\nIncrease parents’ capacity to cope with stress, support parents to develop positive communication strategies to deal with conflict and raise awareness of the impact that parental conflict can have on children.\nGetting it Right for Children\nRaise parents’ awareness and understanding of how they are putting their child in the middle of their conflict, help parents to develop positive communication skills and support parents to co-operate and work out solutions together.\nDebt and relationships\nDebt and money troubles are one of the biggest causes of relationship stress, and the rising cost of living could mean this becomes a greater issue for many families. Helping parents to consider different ways they might find themselves in debt, the impact this can have on relationships and why it’s a good idea to talk to one another.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.seeitdifferently.org/",
+        "text": "Find out more here",
+        "context": "Find out more here."
+      },
+      {
+        "url": "https://www.oneplusone.org.uk/parents",
+        "text": "Register online to access these resources here",
+        "context": "Register online to access these resources here."
+      }
+    ],
+    "department": "Children, young people and families",
+    "topics": [],
+    "keywords": [
+      "conflict",
+      "parent",
+      "relationship"
+    ],
+    "tfidf_keywords": [
+      "conflict",
+      "parents",
+      "children"
+    ],
+    "bigrams": [
+      "resource available",
+      "parental conflict",
+      "frequent intense"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/early-years-and-childcare/wraparound-care",
+    "title": "Wraparound Care",
+    "source": "Wraparound Care",
+    "summary": "How to access wraparound care, a before and after school service for primary school children.",
+    "intro": "How to access wraparound care, a before and after school service for primary school children.",
+    "text": "We’re expanding wraparound care for primary school children across Knowsley by increasing the number of places available, to support working families.\nBut what exactly is wraparound childcare? We explain everything you need to know, from what it is to how you can access it.\nWhat is wraparound childcare?\nWraparound childcare is before and after school care for primary school aged children in England during term time.\nThis is different from out of school activities or school clubs, which are less frequent and can be a one-off activity.\nPrivate, voluntary, and independent providers, including childminders and early years settings, are also able to offer wraparound childcare.\nHow do I find wraparound childcare near me?\nParents looking for childcare options for their primary school child should speak to their child’s school or our\nFamily Information Service\nThere are no eligibility criteria for accessing new wraparound childcare places.\nHow much will it cost providers and is financial support available?\nProviders will set their own fees for wraparound places, so prices will vary.\nParents and guardians will pay their wraparound childcare provider directly for their child’s place.\nHouseholds eligible for\nTax-Free Childcare\nor\nUniversal Credit Childcare\nwill be able to use the support to help pay for wraparound care.\nTo check if you are eligible for Tax-Free Childcare or Universal Credit Childcare, visit\nChildcare Choices\n.\nWhat if wraparound childcare is not available in my area?\nAll parents in England have the right to request that the school their child attends, or is due to attend, consider setting up wraparound or holiday childcare if they don't already have it.\nFor more information on the right to request contact Knowsley Family Information Service.\nEmail:\nfis@knowsley.gov.uk\nTelephone: 0151 443 5633 (option 4)",
+    "alert": "",
+    "has_alert": false,
+    "phone": [
+      "0151 443 5633"
+    ],
+    "email": [
+      "fis@knowsley.gov.uk"
+    ],
+    "links": [
+      {
+        "url": "https://www.knowsley.gov.uk/children-young-people-and-families/early-years-and-childcare/family-information-service",
+        "text": "Family Information Service",
+        "context": "Parents looking for childcare options for their primary school child should speak to their child’s school or ourFamily Information Service"
+      },
+      {
+        "url": "https://www.gov.uk/tax-free-childcare",
+        "text": "Tax-Free Childcare",
+        "context": "Households eligible forTax-Free ChildcareorUniversal Credit Childcarewill be able to use the support to help pay for wraparound care."
+      },
+      {
+        "url": "https://www.gov.uk/guidance/universal-credit-childcare-costs#who-is-eligible-for-universal-credit-childcare-costs",
+        "text": "Universal Credit Childcare",
+        "context": "Households eligible forTax-Free ChildcareorUniversal Credit Childcarewill be able to use the support to help pay for wraparound care."
+      },
+      {
+        "url": "https://www.childcarechoices.gov.uk/",
+        "text": "Childcare Choices",
+        "context": "To check if you are eligible for Tax-Free Childcare or Universal Credit Childcare, visitChildcare Choices."
+      },
+      {
+        "url": "mailto:fis@knowsley.gov.uk",
+        "text": "fis@knowsley.gov.uk",
+        "context": "Email:fis@knowsley.gov.uk"
+      }
+    ],
+    "department": "Children, young people and families",
+    "topics": [
+      "Early years and childcare"
+    ],
+    "keywords": [
+      "childcare",
+      "wraparound",
+      "school"
+    ],
+    "tfidf_keywords": [
+      "childcare",
+      "wraparound",
+      "school"
+    ],
+    "bigrams": [
+      "wraparound childcare",
+      "primary school",
+      "school child"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/early-years-and-childcare",
+    "title": "Early years and childcare",
+    "source": "Early years and childcare",
+    "summary": "Find out about local services for families, including childcare and childcare funding information.",
+    "intro": "Find out about local services for families, including childcare and childcare funding information.",
+    "text": "Find out about local services for families, including childcare and childcare funding information.\nKnowsley Early Years Service\nThe service brings together a range of services that work in partnership to improve the lives of all young children aged 0-5 years and their families.\nChildcare\nFind out how to access childcare services, childminding and setting up a childcare business.\nWraparound care\nHow to access wraparound care, a before and after school service for primary school children.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "/children-young-people-and-families/early-years-and-childcare/knowsley-early-years-service",
+        "text": "Knowsley Early Years Service",
+        "context": "Knowsley Early Years Service"
+      },
+      {
+        "url": "/children-young-people-and-families/early-years-and-childcare/childcare",
+        "text": "Childcare",
+        "context": "Childcare"
+      },
+      {
+        "url": "/children-young-people-and-families/early-years-and-childcare/wraparound-care",
+        "text": "Wraparound care",
+        "context": "Wraparound care"
+      }
+    ],
+    "department": "Children, young people and families",
+    "topics": [],
+    "keywords": [
+      "service",
+      "childcare",
+      "find"
+    ],
+    "tfidf_keywords": [
+      "childcare",
+      "service",
+      "services"
+    ],
+    "bigrams": [
+      "find out",
+      "wraparound care",
+      "out about"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/early-years-and-childcare/childcare",
+    "title": "Childcare",
+    "source": "Childcare",
+    "summary": "Find out how to access childcare services, childminding and setting up a childcare business.",
+    "intro": "Find out how to access childcare services, childminding and setting up a childcare business.",
+    "text": "Knowsley Childcare Information Service\nFind out about the service, how to get support and how to make complaints about childcare and nurseries.\nChoosing childcare in Knowsley\nChoosing childcare, from day nurseries to childminders.\nFree childcare places for two-year-olds\nIf your child is approaching their 2nd birthday, they may be eligible for a free part-time place in a high-quality childcare setting (nursery or childminder) from the term following their 2nd birthday.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "/children-young-people-and-families/early-years-and-childcare/childcare/knowsley-childcare",
+        "text": "Knowsley Childcare Information Service",
+        "context": "Knowsley Childcare Information Service"
+      },
+      {
+        "url": "/children-young-people-and-families/early-years-and-childcare/childcare/choosing-childcare-knowsley",
+        "text": "Choosing childcare in Knowsley",
+        "context": "Choosing childcare in Knowsley"
+      },
+      {
+        "url": "/children-young-people-and-families/early-years-and-childcare/childcare/free-childcare-places-two",
+        "text": "Free childcare places for two-year-olds",
+        "context": "Free childcare places for two-year-olds"
+      }
+    ],
+    "department": "Children, young people and families",
+    "topics": [
+      "Early years and childcare"
+    ],
+    "keywords": [
+      "childcare",
+      "nursery",
+      "knowsley"
+    ],
+    "tfidf_keywords": [
+      "childcare",
+      "2nd",
+      "about"
+    ],
+    "bigrams": [
+      "nursery childminder",
+      "knowsley childcare",
+      "childcare information"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/adoption-and-fostering",
+    "title": "Adoption and fostering",
+    "source": "Adoption and fostering",
+    "summary": "Explore adoption options with AiM or become a foster carer. Learn about private fostering and navigate available support.",
+    "intro": "Explore adoption options with AiM or become a foster carer. Learn about private fostering and navigate available support.",
+    "text": "Find out about adoption and fostering services in Knowsley, including how to adopt or foster a child.\nAdoption\nAdoption in Merseyside (AiM)\nFind out about Adoption in Merseyside (AiM), the regional adoption agency.\nFostering\nFoster for Knowsley\nVisit the Foster for Knowsley website for more information about fostering and how to become a foster carer.\nPrivate fostering\nFind out about what private fostering is, who can foster and what they must do.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://adoptioninmerseyside.co.uk/",
+        "text": "Adoption in Merseyside (AiM)",
+        "context": "Adoption in Merseyside (AiM)"
+      },
+      {
+        "url": "https://fostering.knowsley.gov.uk/",
+        "text": "Foster for Knowsley",
+        "context": "Foster for Knowsley"
+      },
+      {
+        "url": "/children-young-people-and-families/adoption-and-fostering/private-fostering",
+        "text": "Private fostering",
+        "context": "Private fostering"
+      }
+    ],
+    "department": "Children, young people and families",
+    "topics": [],
+    "keywords": [
+      "foster",
+      "adoption",
+      "about"
+    ],
+    "tfidf_keywords": [
+      "adoption",
+      "foster",
+      "fostering"
+    ],
+    "bigrams": [
+      "find out",
+      "out about",
+      "about adoption"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/care-experienced-people",
+    "title": "Care experienced people",
+    "source": "Care experienced people",
+    "summary": "Find out what services are available for care experienced people.",
+    "intro": "Find out what services are available for care experienced people.",
+    "text": "Local Offer for care experienced people\nFind out more about support for young people aged between 18 and 25 who have previously been looked after.\nResidential care for children\nMADE Collective (Making a Difference Everywhere)\nYou said, we did",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "/children-young-people-and-families/care-experienced-people/local-offer-care-experienced-people",
+        "text": "Local Offer for care experienced people",
+        "context": "Local Offer for care experienced people"
+      },
+      {
+        "url": "/children-young-people-and-families/children-looked-after-and-care-leavers/residential-care-children",
+        "text": "Residential care for children",
+        "context": "Residential care for children"
+      },
+      {
+        "url": "/children-young-people-and-families/children-looked-after-and-care-leavers/made-collective-making",
+        "text": "MADE Collective (Making a Difference Everywhere)",
+        "context": "MADE Collective (Making a Difference Everywhere)"
+      },
+      {
+        "url": "/children-young-people-and-families/children-looked-after-and-care-leavers/you-said-we-did",
+        "text": "You said, we did",
+        "context": "You said, we did"
+      }
+    ],
+    "department": "Children, young people and families",
+    "topics": [],
+    "keywords": [
+      "care",
+      "people",
+      "make"
+    ],
+    "tfidf_keywords": [
+      "care",
+      "people",
+      "18"
+    ],
+    "bigrams": [
+      "local offer",
+      "offer care",
+      "care experienced"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/children-young-people-and-families/child-protection-and-safeguarding",
+    "title": "Child protection and safeguarding",
+    "source": "Child protection and safeguarding",
+    "summary": "Find out more about the child protection services in Knowsley. You can also report welfare concerns or a missing child here.",
+    "intro": "Find out more about the child protection services in Knowsley. You can also report welfare concerns or a missing child here.",
+    "text": "Report it\nReport a missing child\nIf you do not know the whereabouts of a child who is missing from home or local authority care, you should report this as soon as possible.\nRaise concerns about the welfare of a child\nFind out how to raise concerns if a child is at risk of harm or you may know of a family who could benefit from additional support and help to better look after a child.\nServices\nMulti Agency Safeguarding Hub (MASH)\nFind out about Knowsley MASH, a multi-agency team who coordinates with various agencies to ensure child welfare & safety.\nEarly Help\nFind out about what Early Help does including how they provide information, advice and guidance to practitioners and what an Early Help Assessment is.\nFamily First (0-18 years)\nFind out about Family First: A pivotal resource providing interventions to families with complex needs, coordinating multi-agency support based on whole-family Early Help Assessment, and aiming to foster positive outcomes while minimizing the need for crisis intervention services.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "/children-young-people-and-families/child-protection-and-safeguarding/report-missing-child",
+        "text": "Report a missing child",
+        "context": "Report a missing child"
+      },
+      {
+        "url": "/children-young-people-and-families/child-protection-and-safeguarding/safeguarding-children",
+        "text": "Raise concerns about the welfare of a child",
+        "context": "Raise concerns about the welfare of a child"
+      },
+      {
+        "url": "/children-young-people-and-families/child-protection-and-safeguarding/multi-agency-safeguarding-hub",
+        "text": "Multi Agency Safeguarding Hub (MASH)",
+        "context": "Multi Agency Safeguarding Hub (MASH)"
+      },
+      {
+        "url": "/children-young-people-and-families/child-protection-and-safeguarding/early-help",
+        "text": "Early Help",
+        "context": "Early Help"
+      },
+      {
+        "url": "/children-young-people-and-families/child-protection-and-safeguarding/safeguarding-children/family",
+        "text": "Family First (0-18 years)",
+        "context": "Family First (0-18 years)"
+      }
+    ],
+    "department": "Children, young people and families",
+    "topics": [],
+    "keywords": [
+      "child",
+      "family",
+      "help"
+    ],
+    "tfidf_keywords": [
+      "child",
+      "help",
+      "about"
+    ],
+    "bigrams": [
+      "find out",
+      "early help",
+      "multi agency"
+    ],
+    "crawl_version": "2025-04-23"
+  }
+]

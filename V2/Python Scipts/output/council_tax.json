@@ -1,0 +1,2276 @@
+[
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/ways-reduce-your-council-tax-bill/council-tax-reduction",
+    "title": "Council Tax reduction",
+    "source": "Council Tax reduction",
+    "summary": "Find out whether you may be entitled to support if you or your partner are on a low income.",
+    "intro": "Find out whether you may be entitled to support if you or your partner are on a low income.",
+    "text": "Overview\nYou can claim council tax reduction if you are liable to pay council tax for the property that you live at. The amount that you can claim is based on your family circumstances and income and capital for you and your partner if you have one.\nIf you or your partner are on a low income, you may be entitled to a reduction in the amount of council tax that you need to pay.\nIf you are working age you will have to pay at least 20% of your bill.\nIf you don't qualify for council tax benefit\nYou may be able to get a reduction on the council tax you need to pay\n.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "/council-tax/ways-reduce-your-council-tax-bill/eligibility-discounts-and-exemptions",
+        "text": "You may be able to get a reduction on the council tax you need to pay",
+        "context": "You may be able to get a reduction on the council tax you need to pay."
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [
+      "Ways to reduce your Council Tax bill"
+    ],
+    "keywords": [
+      "council",
+      "tax",
+      "pay"
+    ],
+    "tfidf_keywords": [
+      "council",
+      "tax",
+      "pay"
+    ],
+    "bigrams": [
+      "council tax",
+      "tax need",
+      "need pay"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/what-council-tax",
+    "title": "What is Council Tax",
+    "source": "What is Council Tax",
+    "summary": "Find out what Council Tax is, how much it is and how the money is used.",
+    "intro": "Find out what Council Tax is, how much it is and how the money is used.",
+    "text": "What is Council Tax\nCouncil Tax is a tax on residential properties, such as houses, flats and caravans. It's paid by the the property owners or occupiers.\nThe amount you pay is calculated according to the banding of your property based on the market value on 1 April 1991. Bands are set by the\nValuation Office Agency (VOA).\nCouncil tax is an annual charge that we charge for the services we provide, such as:\nadult social care, supporting independent living, mental health and dementia emergencies\nschools, school admissions and attendance\nsupport for families, children's centres and youth services\ncommunity safety orders and neighbourhood safety officers\nrefuse collection, recycling centres, noise pollution and fly tipping penalty notices\nplanning applications, building control, licensing, trading standards and food safety\nstreet maintenance, repairs, parking permits and fines, and the blue badge parking exemption scheme\ncouncil housing and maintenance, homelessness, housing benefit, council tax support and reductions\nleisure centres, museums, libraries and parks\nbirth, death and marriage registration and civil ceremonies, cemeteries and cremations\nIncluded in your bill are amounts we collect on behalf of Merseyside Police, Merseyside Fire and Rescue Service and the Local Town and Parish Councils.\nLiverpool City Region Mayoral Precept\nYour Council Tax will also contribute to the Liverpool City Region Combined Authority, which is working to promote further jobs, inclusive growth and investment across the area. The Liverpool City Region Mayoral Precept will be used to deliver projects for the city region, such as ultra-fast digital connectivity, a Mayoral Transport Plan and an apprenticeship portal. Further information can be found on the\nLiverpool City Region Combined Authority website\n.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.gov.uk/browse/housing-local-services/council-tax",
+        "text": "Valuation Office Agency (VOA).",
+        "context": "The amount you pay is calculated according to the banding of your property based on the market value on 1 April 1991. Bands are set by theValuation Office Agency (VOA)."
+      },
+      {
+        "url": "https://www.liverpoolcityregion-ca.gov.uk/",
+        "text": "Liverpool City Region Combined Authority website",
+        "context": "Your Council Tax will also contribute to the Liverpool City Region Combined Authority, which is working to promote further jobs, inclusive growth and investment across the area. The Liverpool City Region Mayoral Precept will be used to deliver projects for the city region, such as ultra-fast digital connectivity, a Mayoral Transport Plan and an apprenticeship portal. Further information can be found on theLiverpool City Region Combined Authority website."
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [],
+    "keywords": [
+      "council",
+      "tax",
+      "city"
+    ],
+    "tfidf_keywords": [
+      "council",
+      "tax",
+      "city"
+    ],
+    "bigrams": [
+      "council tax",
+      "city region",
+      "liverpool city"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/choose-how-pay-your-council-tax",
+    "title": "Choose how to pay your Council Tax",
+    "source": "Choose how to pay your Council Tax",
+    "summary": "Choose to pay your council tax bill by Direct Debit, online, by telephone, post or via your bank or building society.",
+    "intro": "Choose to pay your council tax bill by Direct Debit, online, by telephone, post or via your bank or building society.",
+    "text": "Pay online\nMake a payment directly\nStart Here\nPayment made during normal working hours will be credited the following day. Payments made overnight will be credited to your account within two working days.\nSecurity Information\nAll online card payments are protected by Transport Layer Security (TLS), as recommended by the Payment Card Industry Security Standards Council and are directly processed using the Pay360 by Capita service.\nCapita's online payment management solutions are independently and rigorously security assessed, and are certified by Visa and MasterCard as a Payment Card Industry Data Security Standard (PCI DSS) Level 1 payment processor.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://ip.e-paycapita.com/AIP/itemSelectionPage.do?link=showItemSelectionPage&siteId=63&languageCode=EN&source=AIP",
+        "text": "Start Here",
+        "context": "Start Here",
+        "important": true
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [],
+    "keywords": [
+      "payment",
+      "security",
+      "online"
+    ],
+    "tfidf_keywords": [
+      "payment",
+      "security",
+      "card"
+    ],
+    "bigrams": [
+      "payment make",
+      "payment card",
+      "card industry"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/council-tax-explanatory-notes",
+    "title": "Council Tax Explanatory Notes",
+    "source": "Council Tax Explanatory Notes",
+    "summary": "The following notes form part of your Council Tax demand and should be read carefully.",
+    "intro": "The following notes form part of your Council Tax demand and should be read carefully.",
+    "text": "Council Tax Valuation Bands\nCouncil Tax is charged on most homes. It does not matter whether the home is rented or owned, or whether it is lived in or not. Each home is placed in one of eight valuation bands by the Valuation Office Agency (VOA) based on the amount it would have sold for on 1 April 1991. Your property’s band is shown on the front of your bill. More information on valuation bands is available at\nwww.voa.gov.uk\nYou may be able to appeal against the valuation band, if you have become liable for the Council Tax for the property within the last six months; or, there has been a change in the building or physical state of the local area, which could affect the value of your home. For more information, you can call: 03000 501 501, visit:\ngov.uk/contact-voa\nor write to: Valuation Office Agency, Durham Customer Service Centre, Wycliffe House, Green Lane, Durham, DH1 3UW.\nYou must continue to pay your Council Tax in full pending any appeal decision.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "http://www.voa.gov.uk/",
+        "text": "www.voa.gov.uk",
+        "context": "Council Tax is charged on most homes. It does not matter whether the home is rented or owned, or whether it is lived in or not. Each home is placed in one of eight valuation bands by the Valuation Office Agency (VOA) based on the amount it would have sold for on 1 April 1991. Your property’s band is shown on the front of your bill. More information on valuation bands is available atwww.voa.gov.uk"
+      },
+      {
+        "url": "https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.gov.uk%2Fcontact-voa&data=04%7C01%7Csanjit.toot%40voa.gov.uk%7C09d3bfd90f5148d91ad308d8c916b03a%7Cac52f73cfd1a4a9a8e7a4a248f3139e1%7C0%7C0%7C637480446579986470%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=sd5isBHPo%2BbELZOKayAFgIhBZRQ1gKdE%2FjWQdWQpe1g%3D&reserved=0",
+        "text": "gov.uk/contact-voa",
+        "context": "You may be able to appeal against the valuation band, if you have become liable for the Council Tax for the property within the last six months; or, there has been a change in the building or physical state of the local area, which could affect the value of your home. For more information, you can call: 03000 501 501, visit:gov.uk/contact-voaor write to: Valuation Office Agency, Durham Customer Service Centre, Wycliffe House, Green Lane, Durham, DH1 3UW."
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [],
+    "keywords": [
+      "valuation",
+      "band",
+      "council"
+    ],
+    "tfidf_keywords": [
+      "valuation",
+      "council",
+      "tax"
+    ],
+    "bigrams": [
+      "council tax",
+      "valuation band",
+      "valuation office"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/ways-reduce-your-council-tax-bill/council-tax-reduction/you-make-your-claim",
+    "title": "Council Tax reduction",
+    "source": "Council Tax reduction",
+    "summary": "Find out whether you may be entitled to support if you or your partner are on a low income.",
+    "intro": "Find out whether you may be entitled to support if you or your partner are on a low income.",
+    "text": "Before you make your claim\nFor a new claim, we need to see proof of the following for you and your partner:\nProof of identity. You will need to provide two items, which may include a passport, birth certificate, driving licence, or a recent utility bill\nNational Insurance Number. You can find this on benefit books or letters from the Department of Work and Pensions, wage slips, P45 or P60 or a National Insurance card or letters from the tax office.\nSavings and investments. If the total value of your savings and investments is over £6,000.00 (or £10,000.00 if you are a pensioner), we will need to see up-to-date proof. We will normally need to see two consecutive months of bank statements for each account. We also need to see proof of any stocks, unit trusts, shares, national savings or any other savings or investments that you have.\nIncome and benefits. We need to see five consecutive wage slips if you are paid weekly, or two if you are paid monthly. If you have just started work, do not wait until you have these before claiming benefits. You can send us your first wage slip or ask your employer for a letter confirming what your wage will be. We can estimate your entitlement and revise the calculation when your payslips are available. If you can't find your payslips, ask us for a certificate of earnings to send to your employer.\nWe may need to see proof of any benefits you receive. This could include child benefits or tax credits. If we can, we will confirm the details with the Department for Work and Pensions, but we may need you to provide proof if we cannot confirm the amount that you receive.\nWe need to see proof of any other income that you receive and the income of anyone else who lives with you, for example, a relative or friend. If you need advice, please contact us for advice on 0151 443 4042.\nIf you need to provide any supporting documents, you can\nupload your evidence online\nor using the self-service stations in our libraries.\nPlease do not send valuable documents through the post.\nIf you cannot provide the information, please get in touch with us. You mustn't delay in returning your claim for benefit.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [
+      "0151 443 4042"
+    ],
+    "email": [],
+    "links": [
+      {
+        "url": "https://backofficereports.mendixcloud.com/link/evidenceupload",
+        "text": "upload your evidence online",
+        "context": "If you need to provide any supporting documents, you canupload your evidence onlineor using the self-service stations in our libraries."
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [
+      "Ways to reduce your Council Tax bill",
+      "Council Tax reduction"
+    ],
+    "keywords": [
+      "need",
+      "see",
+      "proof"
+    ],
+    "tfidf_keywords": [
+      "need",
+      "proof",
+      "see"
+    ],
+    "bigrams": [
+      "need see",
+      "see proof",
+      "need provide"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/ways-reduce-your-council-tax-bill/council-tax-reduction/how-apply",
+    "title": "Council Tax reduction",
+    "source": "Council Tax reduction",
+    "summary": "Find out whether you may be entitled to support if you or your partner are on a low income.",
+    "intro": "Find out whether you may be entitled to support if you or your partner are on a low income.",
+    "text": "How to apply\nIf you think you may be entitled to a reduction in your Council Tax, you need to complete an application form.\nStart Here\nThe application is in two parts. The first is a calculator which can give you an idea of what you may be entitled to; the second part allows you to make a claim.\nFind out more about Council Tax reductions in the Council Tax Levy 2024-25 document below.\nDocument\nCouncil Tax Levy 2425 - Appendix G.pdf\n(\nPDF\n,\n1.5MB\n)\nSupporting documents\nProvide your supporting documents online\nor using the self-service stations in our libraries.\nPlease do not send valuable items in the post.\nIf you would like to know how much council tax you should pay while you are waiting for us to assess your claim, then you can use our benefits calculator or contact us on 0151 443 4042 to work out a trial calculation.\nIt does not guarantee the exact amount but it will give you an idea until your claim is processed.\nIf you are elderly or have mobility problems, we can arrange to visit you in your own home. Please get in touch with us on 0151 443 4042 to arrange a visit.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [
+      "0151 443 4042"
+    ],
+    "email": [],
+    "links": [
+      {
+        "url": "https://knowsleyclaims.teamnetsol.com/",
+        "text": "Start Here",
+        "context": "Start Here",
+        "important": true
+      },
+      {
+        "url": "/sites/default/files/2024-03/Council%20Tax%20Levy%202425%20-%20Appendix%20G.pdf",
+        "text": "Council Tax Levy 2425 - Appendix G.pdf(PDF,1.5MB)",
+        "context": "Council Tax Levy 2425 - Appendix G.pdf(PDF,1.5MB)"
+      },
+      {
+        "url": "https://backofficereports.mendixcloud.com/link/evidenceupload",
+        "text": "Provide your supporting documents online",
+        "context": "Provide your supporting documents onlineor using the self-service stations in our libraries."
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [
+      "Ways to reduce your Council Tax bill",
+      "Council Tax reduction"
+    ],
+    "keywords": [
+      "council",
+      "tax",
+      "document"
+    ],
+    "tfidf_keywords": [
+      "council",
+      "tax",
+      "claim"
+    ],
+    "bigrams": [
+      "council tax",
+      "may entitle",
+      "reduction council"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/ways-reduce-your-council-tax-bill/council-tax-reduction/how-council-tax-reductions-are",
+    "title": "Council Tax reduction",
+    "source": "Council Tax reduction",
+    "summary": "Find out whether you may be entitled to support if you or your partner are on a low income.",
+    "intro": "Find out whether you may be entitled to support if you or your partner are on a low income.",
+    "text": "How Council Tax reductions are paid\nIt will be credited to your council tax account and you will receive a revised bill and a notification of how your reduction has been worked out.\nWe normally calculate the amount of reduction from the Monday after the date we receive your claim form.\nPensioners will be entitled to have their reduction backdated for up to 3 months.\nWe can backdate claims for working-age people for the same period if you have a good reason for not claiming earlier. You must ask us to backdate your claim in writing and give us the reason why you were unable to claim earlier.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [],
+    "department": "Council Tax",
+    "topics": [
+      "Ways to reduce your Council Tax bill",
+      "Council Tax reduction"
+    ],
+    "keywords": [
+      "claim",
+      "reduction",
+      "backdate"
+    ],
+    "tfidf_keywords": [
+      "claim",
+      "reduction",
+      "backdate"
+    ],
+    "bigrams": [
+      "council tax",
+      "backdate claim",
+      "claim early"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/what-council-tax/council-tax-bands",
+    "title": "What is Council Tax",
+    "source": "What is Council Tax",
+    "summary": "Find out what Council Tax is, how much it is and how the money is used.",
+    "intro": "Find out what Council Tax is, how much it is and how the money is used.",
+    "text": "Council Tax bands\nCouncil Tax is charged on most homes. It does not matter whether the home is rented or owned, or whether it is lived in or not.\nEach home is placed in one of eight valuation bands by the\nValuation Office Agency (VOA)\nbased on the amount it would have sold for on 1 April 1991, not what it would be worth today.\nYour property’s band is shown on the front of your bill. If you want further details about your banding, please visit the\nVOA website,\ncall them on 03000 501501 or email\nctnorth@voa.gsi.gov.uk\n.\nThe bands are:\nBand A – Up to and including £40,000\nBand B - £40,001 - £52,000\nBand C - £52,001 - £68,000\nBand D - £68,001 - £88,000\nBand E - £88,001 - £120,000\nBand F - £120,001 - £160,000\nBand G - £160,001 - £320,000\nBand H – More than £320,000\nCharges for 1 April 2025 to 31 March 2026\nProperty Band\nA\n6/9\nB\n7/9\nC\n8/9\nD\n9/9\nE\n11/9\nF\n13/9\nG\n15/9\nH\n18/9\n£\n£\n£\n£\n£\n£\n£\n£\nCronton\n1,598.75\n1,865.21\n2,131.65\n2,398.12\n2,931.03\n3,463.96\n3,996.87\n4,796.24\nHalewood\n1,619.59\n1,889.52\n2,159.44\n2,429.38\n2,969.24\n3,509.11\n4,048.97\n4,858.76\nKnowsley\n1,633.50\n1,905.75\n2,177.99\n2,450.25\n2,994.75\n3,539.26\n4,083.75\n4,900.50\nPrescot\n1,607.68\n1,875.63\n2,143.56\n2,411.52\n2,947.41\n3,483.31\n4,019.20\n4,823.04\nWhiston\n1,613.44\n1,882.35\n2,151.24\n2,420.16\n2,957.97\n3,495.79\n4,033.60\n4,840.32\nAll Other Areas\n1,554.49\n1,813.57\n2,072.64\n2,331.73\n2,849.89\n3,368.06\n3,886.22\n4,663.46\nAppealing a valuation band\nYou may be able to appeal against the valuation band if you have become liable for the Council Tax for the property within the last six months or if there has been a change in the building or physical state of the local area, which could affect the value of your home.\nFor more information, please visit the\nVOA website,\ncall them on 03000 501501, or email\nctnorth@voa.gsi.gov.uk\n. Or write to Valuation Office Agency, Durham Customer Service Centre, Wycliffe House, Green Lane, Durham, DH1 3UW.\nYou must continue to pay your Council Tax in full pending any appeal decision.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [
+      "ctnorth@voa.gsi.gov.uk"
+    ],
+    "links": [
+      {
+        "url": "https://www.gov.uk/browse/housing-local-services/council-tax",
+        "text": "Valuation Office Agency (VOA)",
+        "context": "Each home is placed in one of eight valuation bands by theValuation Office Agency (VOA)based on the amount it would have sold for on 1 April 1991, not what it would be worth today."
+      },
+      {
+        "url": "http://www.voa.gov.uk/",
+        "text": "VOA website,",
+        "context": "Your property’s band is shown on the front of your bill. If you want further details about your banding, please visit theVOA website,call them on 03000 501501 or emailctnorth@voa.gsi.gov.uk."
+      },
+      {
+        "url": "mailto:ctnorth@voa.gsi.gov.uk",
+        "text": "ctnorth@voa.gsi.gov.uk",
+        "context": "Your property’s band is shown on the front of your bill. If you want further details about your banding, please visit theVOA website,call them on 03000 501501 or emailctnorth@voa.gsi.gov.uk."
+      },
+      {
+        "url": "https://www.gov.uk/council-tax-appeals",
+        "text": "VOA website,",
+        "context": "For more information, please visit theVOA website,call them on 03000 501501, or emailctnorth@voa.gsi.gov.uk. Or write to Valuation Office Agency, Durham Customer Service Centre, Wycliffe House, Green Lane, Durham, DH1 3UW."
+      },
+      {
+        "url": "http://www.voa.gov.uk/",
+        "text": "",
+        "context": "For more information, please visit theVOA website,call them on 03000 501501, or emailctnorth@voa.gsi.gov.uk. Or write to Valuation Office Agency, Durham Customer Service Centre, Wycliffe House, Green Lane, Durham, DH1 3UW."
+      },
+      {
+        "url": "mailto:ctnorth@voa.gsi.gov.uk",
+        "text": "ctnorth@voa.gsi.gov.uk",
+        "context": "For more information, please visit theVOA website,call them on 03000 501501, or emailctnorth@voa.gsi.gov.uk. Or write to Valuation Office Agency, Durham Customer Service Centre, Wycliffe House, Green Lane, Durham, DH1 3UW."
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [
+      "What is Council Tax"
+    ],
+    "keywords": [
+      "band",
+      "valuation",
+      "council"
+    ],
+    "tfidf_keywords": [
+      "band",
+      "000",
+      "001"
+    ],
+    "bigrams": [
+      "band band",
+      "council tax",
+      "valuation band"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/what-council-tax/how-council-tax-used",
+    "title": "What is Council Tax",
+    "source": "What is Council Tax",
+    "summary": "Find out what Council Tax is, how much it is and how the money is used.",
+    "intro": "Find out what Council Tax is, how much it is and how the money is used.",
+    "text": "How Council Tax is used\nCouncil tax is paid by every home and helps to pay for essential services like schools and emergency services.\nWe have produced a number of advice leaflets. If you prefer to read them in hard copy,\nplease contact us\n.\nDocument\nBudget-Summary-23-24.pdf\n(\nPDF\n,\n1.32MB\n)\nDocument\nBudget-Summary-22-23.pdf\n(\nPDF\n,\n885KB\n)\nDocument\nBudget-Summary-2021-22.pdf\n(\nPDF\n,\n687.13KB\n)\nDocument\nBudget_Summary-2020-21.pdf\n(\nPDF\n,\n1.05MB\n)\nDocument\nBudget-Summary-2019-20_1.pdf\n(\nPDF\n,\n679.93KB\n)\nDocument\nBudget-Summary-2018-19.pdf\n(\nPDF\n,\n629.1KB\n)",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "/contact-us",
+        "text": "please contact us",
+        "context": "We have produced a number of advice leaflets. If you prefer to read them in hard copy,please contact us."
+      },
+      {
+        "url": "/sites/default/files/2024-01/Budget-Summary-23-24.pdf",
+        "text": "Budget-Summary-23-24.pdf(PDF,1.32MB)",
+        "context": "Budget-Summary-23-24.pdf(PDF,1.32MB)"
+      },
+      {
+        "url": "/sites/default/files/2024-01/Budget-Summary-22-23_0.pdf",
+        "text": "Budget-Summary-22-23.pdf(PDF,885KB)",
+        "context": "Budget-Summary-22-23.pdf(PDF,885KB)"
+      },
+      {
+        "url": "/sites/default/files/2024-01/Budget-Summary-2021-22_0.pdf",
+        "text": "Budget-Summary-2021-22.pdf(PDF,687.13KB)",
+        "context": "Budget-Summary-2021-22.pdf(PDF,687.13KB)"
+      },
+      {
+        "url": "/sites/default/files/2024-01/Budget_Summary-2020-21_0.pdf",
+        "text": "Budget_Summary-2020-21.pdf(PDF,1.05MB)",
+        "context": "Budget_Summary-2020-21.pdf(PDF,1.05MB)"
+      },
+      {
+        "url": "/sites/default/files/2024-01/Budget-Summary-2019-20_1.pdf",
+        "text": "Budget-Summary-2019-20_1.pdf(PDF,679.93KB)",
+        "context": "Budget-Summary-2019-20_1.pdf(PDF,679.93KB)"
+      },
+      {
+        "url": "/sites/default/files/2024-01/Budget-Summary-2018-19.pdf",
+        "text": "Budget-Summary-2018-19.pdf(PDF,629.1KB)",
+        "context": "Budget-Summary-2018-19.pdf(PDF,629.1KB)"
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [
+      "What is Council Tax"
+    ],
+    "keywords": [
+      "document",
+      "pdf",
+      "council"
+    ],
+    "tfidf_keywords": [
+      "pdf",
+      "document",
+      "budget"
+    ],
+    "bigrams": [
+      "document pdf",
+      "pdf document",
+      "council tax"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/choose-how-pay-your-council-tax/other-ways-pay",
+    "title": "Choose how to pay your Council Tax",
+    "source": "Choose how to pay your Council Tax",
+    "summary": "Choose to pay your council tax bill by Direct Debit, online, by telephone, post or via your bank or building society.",
+    "intro": "Choose to pay your council tax bill by Direct Debit, online, by telephone, post or via your bank or building society.",
+    "text": "Other ways to pay\nIf you don’t pay your council tax by direct debit your bill will show the method of payment\nas\ncash.\nYou can also pay by debit/credit card/cheque using one of the methods below.\nCall our 24-hour payment line on 0151 443 4476, and select option 1\nAt any shop displaying the\nPaypoint\nsymbol. Please be aware that it can take up to 10 days for the payment to appear on your Council Tax account\nBy cheque and postal order to: The Executive Director (Resources), Municipal Buildings, Archway Road, Huyton, L36 9YU. Cross cheques and postal orders and make them payable to ‘Metropolitan Borough of Knowsley’. Please quote your council tax account number on the back of your cheque or postal order.\nSingle or regular payment from your bank account. When using this method please make sure the payment is made at least 7 days prior to the instalment due date.\nOur bank account details are:\nBarclays Bank\nSort code: 20-51-02\nAccount number: 73951685.\nQuote your council tax number, including the ‘CT’ prefix.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [
+      "0151 443 4476"
+    ],
+    "email": [],
+    "links": [
+      {
+        "url": "http://www.paypoint.co.uk/",
+        "text": "Paypoint",
+        "context": "At any shop displaying thePaypointsymbol. Please be aware that it can take up to 10 days for the payment to appear on your Council Tax account"
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [
+      "Choose how to pay your Council Tax"
+    ],
+    "keywords": [
+      "payment",
+      "account",
+      "council"
+    ],
+    "tfidf_keywords": [
+      "account",
+      "payment",
+      "council"
+    ],
+    "bigrams": [
+      "council tax",
+      "cheque postal",
+      "postal order"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/ways-reduce-your-council-tax-bill/council-tax-reduction/if-you-claim-universal-credit",
+    "title": "Council Tax reduction",
+    "source": "Council Tax reduction",
+    "summary": "Find out whether you may be entitled to support if you or your partner are on a low income.",
+    "intro": "Find out whether you may be entitled to support if you or your partner are on a low income.",
+    "text": "If you claim Universal Credit\nIf you are a Universal Credit claimant,\napply here for Council Tax Reduction\n.\nPlease note that your Universal Credit claim is not a claim for Council Tax Reduction, and it must be claimed separately.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://knowsleytransaction.mendixcloud.com/link/youarebeingredirected?target=universalcreditreduction",
+        "text": "apply here for Council Tax Reduction",
+        "context": "If you are a Universal Credit claimant,apply here for Council Tax Reduction."
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [
+      "Ways to reduce your Council Tax bill",
+      "Council Tax reduction"
+    ],
+    "keywords": [
+      "claim",
+      "universal",
+      "credit"
+    ],
+    "tfidf_keywords": [
+      "claim",
+      "credit",
+      "universal"
+    ],
+    "bigrams": [
+      "universal credit",
+      "council tax",
+      "tax reduction"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/council-tax-explanatory-notes/discounts-and-status-discount-disregards",
+    "title": "Council Tax Explanatory Notes",
+    "source": "Council Tax Explanatory Notes",
+    "summary": "The following notes form part of your Council Tax demand and should be read carefully.",
+    "intro": "The following notes form part of your Council Tax demand and should be read carefully.",
+    "text": "Discounts and Status Discount Disregards\nThe full Council Tax charge assumes two adults are living in the property. If only one adult lives in a property, a Single Person Discount of 25% may be awarded. This discount is not based on your income. When considering the number of adults living in a property, we do not count certain people. These are known as discount disregards and include:\nFull-time students, student nurses, apprentices and youth-training trainees;\nPatients living in hospital;\nPeople who are being looked after in care homes;\nPeople who are severely mentally impaired;\nPeople staying in certain hostels or night shelters;\n18 and 19-year-olds who are at, or have just left school;\nCare workers working for low pay, usually for charities;\nPeople caring for someone with a disability who is not their husband or wife, partner or child under 18;\nMembers of visiting forces and certain international institutions;\nForeign diplomats and certain members of international organisations;\nMembers of religious communities (for example, monks and nuns);\nPeople in prison (except those in prison for not paying their Council Tax or a fine).",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [],
+    "department": "Council Tax",
+    "topics": [
+      "Council Tax Explanatory Notes"
+    ],
+    "keywords": [
+      "people",
+      "discount",
+      "live"
+    ],
+    "tfidf_keywords": [
+      "people",
+      "certain",
+      "discount"
+    ],
+    "bigrams": [
+      "adult live",
+      "live property",
+      "discount disregard"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/council-tax-explanatory-notes/annexes",
+    "title": "Council Tax Explanatory Notes",
+    "source": "Council Tax Explanatory Notes",
+    "summary": "The following notes form part of your Council Tax demand and should be read carefully.",
+    "intro": "The following notes form part of your Council Tax demand and should be read carefully.",
+    "text": "Annexes\nFrom 1 April 2014, a 50% reduction in the amount of Council Tax payable is available for people living in annexes provided they are related to the person liable to pay the Council Tax of the main dwelling (or the person who would be so liable were it not for an exemption or 100% discount or reduction).  This reduction is also available for people living in dwellings with unoccupied annexes, provided they are using those annexes as part of their main residence.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [],
+    "department": "Council Tax",
+    "topics": [
+      "Council Tax Explanatory Notes"
+    ],
+    "keywords": [
+      "annexe",
+      "reduction",
+      "council"
+    ],
+    "tfidf_keywords": [
+      "annexes",
+      "reduction",
+      "available"
+    ],
+    "bigrams": [
+      "council tax",
+      "available people",
+      "people live"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/council-tax-explanatory-notes/vacant-properties-unoccupied-and-unfurnished",
+    "title": "Council Tax Explanatory Notes",
+    "source": "Council Tax Explanatory Notes",
+    "summary": "The following notes form part of your Council Tax demand and should be read carefully.",
+    "intro": "The following notes form part of your Council Tax demand and should be read carefully.",
+    "text": "Vacant Properties (Unoccupied and Unfurnished)\nFor unoccupied and unfurnished properties, a 100% discount is available for one calendar month from the date the property first became unoccupied and unfurnished. After this date, the full Council Tax charge becomes due.\nProperties that require major repairs will be charged at the full Council Tax level from the date they become vacant;\nWith effect from 1 April 2024, properties which have been unoccupied and unfurnished for one year or more will be subject to an additional premium charge of 100%. Properties which have been unoccupied and unfurnished for more than five years will be subject to a premium charge of 200%. Properties which have been unoccupied and unfurnished for more than ten years will be subject to a premium charge of 300%. You must notify us within 21 days if you believe the premium charge does not apply. If you do not do this, you may be required to pay a penalty.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [],
+    "department": "Council Tax",
+    "topics": [
+      "Council Tax Explanatory Notes"
+    ],
+    "keywords": [
+      "property",
+      "unoccupied",
+      "charge"
+    ],
+    "tfidf_keywords": [
+      "properties",
+      "unfurnished",
+      "unoccupied"
+    ],
+    "bigrams": [
+      "property unoccupied",
+      "premium charge",
+      "unoccupied unfurnished"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/council-tax-explanatory-notes/second-homes-and-unoccupied-furnished-property",
+    "title": "Council Tax Explanatory Notes",
+    "source": "Council Tax Explanatory Notes",
+    "summary": "The following notes form part of your Council Tax demand and should be read carefully.",
+    "intro": "The following notes form part of your Council Tax demand and should be read carefully.",
+    "text": "Second Homes and Unoccupied Furnished Property\nFrom 1 April 2025, if a property is not your main residence and is substantially furnished, you will be charged double the amount of Council Tax that you would normally pay. The second home premium will be levied at an additional 100% of the Council Tax charge. This applies to unoccupied properties (which are substantially furnished) and second homes (furnished properties that are not used as main residences). Second homes could have their Council Tax reduced by 50%, in the following situations:\nThe Council Tax payer is required to live elsewhere in job-related accommodation because of the terms and conditions of their employment, such as being a caretaker, minister of religion, or member of the armed services. (This does not apply to a second home that you are renting because living there is convenient for work);\nThe second home is a pitch occupied by a caravan or a mooring occupied by a boat;\nA planning restriction on the second home prevents occupancy for a continuous period of at least 28 days in a year",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [],
+    "department": "Council Tax",
+    "topics": [
+      "Council Tax Explanatory Notes"
+    ],
+    "keywords": [
+      "second",
+      "home",
+      "property"
+    ],
+    "tfidf_keywords": [
+      "second",
+      "council",
+      "furnished"
+    ],
+    "bigrams": [
+      "second home",
+      "council tax",
+      "main residence"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/council-tax-explanatory-notes/property-exempt-council-tax",
+    "title": "Council Tax Explanatory Notes",
+    "source": "Council Tax Explanatory Notes",
+    "summary": "The following notes form part of your Council Tax demand and should be read carefully.",
+    "intro": "The following notes form part of your Council Tax demand and should be read carefully.",
+    "text": "Property Exempt from Council Tax\nCouncil Tax is not charged on properties which fall under certain classes of exemption. The list below provides a general description of the most common exemptions. See\nhere\nfor a full list and detailed descriptions.\nClass B - The property is unoccupied (furnished or unfurnished), was last occupied by, and is owned by, a charity (exempt for up to six months);\nClass D - The property is unoccupied (can be furnished) because the liable person is in prison;\nClass E - The property is unoccupied (can be furnished) because the liable person is a permanent patient in a hospital or a care home;\nClass F - The property is unoccupied (can be furnished) because the liable person has died and probate or letters of administration have not yet been granted. The exemption may continue for up to six months after probate or letters of administration have been granted, as long as the property remains unoccupied and has not been sold or transferred to someone else (including a beneficiary);\nClass I - The property is unoccupied (can be furnished) because the liable person is receiving care elsewhere;\nClass J - The property is unoccupied (can be furnished) because the liable person is caring for someone elsewhere;\nClass L - The property is unoccupied (can be furnished) because it has been repossessed;\nClass N - The property is lived in only by students, the foreign spouses of students, or school and college leavers;\nClass S - The property is lived in only by a person or persons who are under 18;\nClass U - The property is lived in only by people who are severely mentally impaired.\nClaims for unoccupied property exemptions or discounts must be made at the time the property becomes unoccupied so that we can verify the claim.\nIf your bill shows that you have an exemption or discount, you must tell us about any change in circumstance that affects your entitlement within 21 days. If you do not do this, you may be required to pay a penalty.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "/council-tax/what-council-tax/council-tax-bands",
+        "text": "here",
+        "context": "Council Tax is not charged on properties which fall under certain classes of exemption. The list below provides a general description of the most common exemptions. Seeherefor a full list and detailed descriptions."
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [
+      "Council Tax Explanatory Notes"
+    ],
+    "keywords": [
+      "property",
+      "class",
+      "unoccupied"
+    ],
+    "tfidf_keywords": [
+      "property",
+      "class",
+      "unoccupied"
+    ],
+    "bigrams": [
+      "class property",
+      "property unoccupied",
+      "unoccupied furnish"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/council-tax-explanatory-notes/council-tax-reduction-scheme",
+    "title": "Council Tax Explanatory Notes",
+    "source": "Council Tax Explanatory Notes",
+    "summary": "The following notes form part of your Council Tax demand and should be read carefully.",
+    "intro": "The following notes form part of your Council Tax demand and should be read carefully.",
+    "text": "Council Tax Reduction Scheme\nIf you or your partner are on a low income, you may be entitled to a reduction in the amount of Council Tax that you need to pay.  The reduction will depend on your Council Tax liability, your income and savings, the size of your household, and your household’s income and savings. For more information and to make an application, see\nhere\n.\nIf you are receiving a Council Tax reduction, you must tell us immediately, in writing, about any changes in your circumstances which might affect your entitlement. This could include changes to your income, changes to the people living in your household or changes to their income. You must tell us within one calendar month of the change.\nThe Council also has discretionary powers to reduce liability for Council Tax in relation to individual cases, or class(es) of cases, that it may determine and where national discounts and exemptions cannot be applied.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "/council-tax",
+        "text": "here",
+        "context": "If you or your partner are on a low income, you may be entitled to a reduction in the amount of Council Tax that you need to pay.  The reduction will depend on your Council Tax liability, your income and savings, the size of your household, and your household’s income and savings. For more information and to make an application, seehere."
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [
+      "Council Tax Explanatory Notes"
+    ],
+    "keywords": [
+      "council",
+      "tax",
+      "income"
+    ],
+    "tfidf_keywords": [
+      "council",
+      "income",
+      "tax"
+    ],
+    "bigrams": [
+      "council tax",
+      "tax reduction",
+      "income saving"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/council-tax-explanatory-notes/people-disabilities",
+    "title": "Council Tax Explanatory Notes",
+    "source": "Council Tax Explanatory Notes",
+    "summary": "The following notes form part of your Council Tax demand and should be read carefully.",
+    "intro": "The following notes form part of your Council Tax demand and should be read carefully.",
+    "text": "People with Disabilities\nIf you, or someone who lives with you, needs a room, an additional kitchen or bathroom, or extra space to meet special needs arising from a disability, you may be entitled to a reduced Council Tax charge.  The charge may be reduced to that of a property in the band immediately below the band for your property shown on the valuation list.  See\nhere\nfor more information or to apply for a disabled reduction.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "/council-tax/ways-reduce-your-council-tax-bill/eligibility-discounts-and-exemptions",
+        "text": "here",
+        "context": "If you, or someone who lives with you, needs a room, an additional kitchen or bathroom, or extra space to meet special needs arising from a disability, you may be entitled to a reduced Council Tax charge.  The charge may be reduced to that of a property in the band immediately below the band for your property shown on the valuation list.  Seeherefor more information or to apply for a disabled reduction."
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [
+      "Council Tax Explanatory Notes"
+    ],
+    "keywords": [
+      "disability",
+      "need",
+      "may"
+    ],
+    "tfidf_keywords": [
+      "band",
+      "charge",
+      "may"
+    ],
+    "bigrams": [
+      "people disability",
+      "disability someone",
+      "someone who"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/council-tax-explanatory-notes/appeals-against-your-council-tax-liability",
+    "title": "Council Tax Explanatory Notes",
+    "source": "Council Tax Explanatory Notes",
+    "summary": "The following notes form part of your Council Tax demand and should be read carefully.",
+    "intro": "The following notes form part of your Council Tax demand and should be read carefully.",
+    "text": "Appeals against your Council Tax Liability\nYou can appeal if you consider that you are not liable to pay the bill issued to you because you are not the resident or the owner, or because you believe the property is exempt, or because you believe a mistake has been made in calculating your bill.  This appeal should be made in writing to Knowsley Metropolitan Borough Council, Council Tax Team, Municipal Buildings, Archway Road, Huyton, L36 9YU.\nYou must continue to pay Council Tax while your appeal is being considered.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [],
+    "department": "Council Tax",
+    "topics": [
+      "Council Tax Explanatory Notes"
+    ],
+    "keywords": [
+      "appeal",
+      "council",
+      "tax"
+    ],
+    "tfidf_keywords": [
+      "council",
+      "appeal",
+      "because"
+    ],
+    "bigrams": [
+      "council tax",
+      "appeal consider",
+      "because believe"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/council-tax-explanatory-notes/adult-social-care",
+    "title": "Council Tax Explanatory Notes",
+    "source": "Council Tax Explanatory Notes",
+    "summary": "The following notes form part of your Council Tax demand and should be read carefully.",
+    "intro": "The following notes form part of your Council Tax demand and should be read carefully.",
+    "text": "Adult Social Care\nFor Adult Social Care Authorities, Council Tax demand notices show two percentage changes: one for the part of the overall change attributable to the Adult Social Care precept and one for the part attributable to general expenditure.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [],
+    "department": "Council Tax",
+    "topics": [
+      "Council Tax Explanatory Notes"
+    ],
+    "keywords": [
+      "adult",
+      "social",
+      "care"
+    ],
+    "tfidf_keywords": [
+      "adult",
+      "care",
+      "social"
+    ],
+    "bigrams": [
+      "adult social",
+      "social care",
+      "one part"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/council-tax-explanatory-notes/liverpool-city-region-mayoral-precept",
+    "title": "Council Tax Explanatory Notes",
+    "source": "Council Tax Explanatory Notes",
+    "summary": "The following notes form part of your Council Tax demand and should be read carefully.",
+    "intro": "The following notes form part of your Council Tax demand and should be read carefully.",
+    "text": "Liverpool City Region Mayoral Precept\nYour Council Tax will also contribute to the Liverpool City Region Combined Authority, which is working to promote further jobs, inclusive growth and investment across the area. The Liverpool City Region Mayoral Precept will be used to deliver projects for the city region, such as ultra-fast digital connectivity, a Mayoral Transport Plan and an apprenticeship portal. Further information can be found\nhere\n.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "http://www.liverpoolcityregion-ca.gov.uk/",
+        "text": "here",
+        "context": "Your Council Tax will also contribute to the Liverpool City Region Combined Authority, which is working to promote further jobs, inclusive growth and investment across the area. The Liverpool City Region Mayoral Precept will be used to deliver projects for the city region, such as ultra-fast digital connectivity, a Mayoral Transport Plan and an apprenticeship portal. Further information can be foundhere."
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [
+      "Council Tax Explanatory Notes"
+    ],
+    "keywords": [
+      "city",
+      "region",
+      "liverpool"
+    ],
+    "tfidf_keywords": [
+      "city",
+      "region",
+      "liverpool"
+    ],
+    "bigrams": [
+      "city region",
+      "liverpool city",
+      "region mayoral"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/council-tax-explanatory-notes/information-supplied-demand-notices",
+    "title": "Council Tax Explanatory Notes",
+    "source": "Council Tax Explanatory Notes",
+    "summary": "The following notes form part of your Council Tax demand and should be read carefully.",
+    "intro": "The following notes form part of your Council Tax demand and should be read carefully.",
+    "text": "Information Supplied with Demand Notices\nAdditional information about Council Tax, including details of the budget for the Council, Precepting Authorities (including Parish Councils) and levying bodies, is available\nhere\n.\nIf you wish to receive this information in hard copy or other format, you can request it free of charge by writing to the Council Tax Service or by telephone at 0151 443 4476.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [
+      "0151 443 4476"
+    ],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.knowsley.gov.uk/council-and-elections/accounts-budgets-and-spending/councils-budget",
+        "text": "here",
+        "context": "Additional information about Council Tax, including details of the budget for the Council, Precepting Authorities (including Parish Councils) and levying bodies, is availablehere."
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [
+      "Council Tax Explanatory Notes"
+    ],
+    "keywords": [
+      "council",
+      "information",
+      "tax"
+    ],
+    "tfidf_keywords": [
+      "council",
+      "information",
+      "including"
+    ],
+    "bigrams": [
+      "council tax",
+      "information supply",
+      "supply demand"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/choose-how-pay-your-council-tax/direct-debit",
+    "title": "Choose how to pay your Council Tax",
+    "source": "Choose how to pay your Council Tax",
+    "summary": "Choose to pay your council tax bill by Direct Debit, online, by telephone, post or via your bank or building society.",
+    "intro": "Choose to pay your council tax bill by Direct Debit, online, by telephone, post or via your bank or building society.",
+    "text": "Direct Debit\nWe recommend that you pay your Council Tax by Direct Debit because it is the quickest, easiest and safest way to pay your council tax bill.\nFind out how to set up a Direct Debit payment here.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.knowsley.gov.uk/council-tax/set-direct-debit",
+        "text": "Find out how to set up a Direct Debit payment here.",
+        "context": "Find out how to set up a Direct Debit payment here."
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [
+      "Choose how to pay your Council Tax"
+    ],
+    "keywords": [
+      "direct",
+      "debit",
+      "pay"
+    ],
+    "tfidf_keywords": [
+      "debit",
+      "direct",
+      "council"
+    ],
+    "bigrams": [
+      "direct debit",
+      "pay council",
+      "council tax"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/what-council-tax/council-tax-reductions-exceptional-circumstances-section-13a",
+    "title": "What is Council Tax",
+    "source": "What is Council Tax",
+    "summary": "Find out what Council Tax is, how much it is and how the money is used.",
+    "intro": "Find out what Council Tax is, how much it is and how the money is used.",
+    "text": "Council Tax reductions in exceptional circumstances (Section 13A)\nIn exceptional circumstances, we can provide a short-term discretionary council tax reduction to alleviate hardship. This is called a Section 13A reduction because it is provided under Section 13A of the Local Government Finance Act.\nSection 13A reductions are for short-term periods only. The amount and period of any reduction awarded are entirely discretionary.\nThe financial burden of awarding a Section 13A discount must be met through an increase in the general level of council tax for other payers; therefore, Section 13A discounts will only be granted in exceptional circumstances.\nBefore applying, you must be able to demonstrate you have taken all reasonable steps to resolve the problems that are causing you to apply for the reduction.\nPlease see our policy below for full details.\nDocument\nCouncil Tax - Section 13a Hardship Policy.pdf\n(\nPDF\n,\n258.91KB\n)\nTo apply, please get in touch with our\nContact Centre\n, which can assess your situation and send you the application form if appropriate.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "/sites/default/files/2025-01/Council%20Tax%20-%20Section%2013a%20Hardship%20Policy.pdf",
+        "text": "Council Tax - Section 13a Hardship Policy.pdf(PDF,258.91KB)",
+        "context": "Council Tax - Section 13a Hardship Policy.pdf(PDF,258.91KB)"
+      },
+      {
+        "url": "/contact-us",
+        "text": "Contact Centre",
+        "context": "To apply, please get in touch with ourContact Centre, which can assess your situation and send you the application form if appropriate."
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [
+      "What is Council Tax"
+    ],
+    "keywords": [
+      "section",
+      "reduction",
+      "council"
+    ],
+    "tfidf_keywords": [
+      "13a",
+      "section",
+      "council"
+    ],
+    "bigrams": [
+      "council tax",
+      "exceptional circumstance",
+      "tax reduction"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/paying-your-council-tax",
+    "title": "Paying your Council Tax",
+    "source": "Paying your Council Tax",
+    "summary": "Find out about the different ways you can pay your Council Tax bill.",
+    "intro": "Find out about the different ways you can pay your Council Tax bill.",
+    "text": "You can pay your council tax in several ways:\nPay online\nSet up a\nDirect Debit request\nCall our 24-hour payment line on 0151 443 4476, and select option 1\nAt any shop displaying the\nPaypoint\nsymbol\nBy cheque and postal order to: The Executive Director (Resources), Municipal Buildings, Archway Road, Huyton, L36 9YU. Cross cheques and postal orders and make them payable to ‘Metropolitan Borough of Knowsley’. Please quote your council tax account number on the back of your cheque or postal order.\nSet up a standing order. Our bank account details are:\nKnowsley Metropolitan Borough Council,\nSort code: 20-51-02\n,\nAccount number: 73951685\n. Quote your council tax number, including the ‘\nCT\n’ prefix.\nYou must be the account holder to set up any of these payment methods.\nPaying online\nWhat may I pay?\nYou may pay for any of the accounts listed within our payments service.\nPayment made during normal working hours will be credited the following day. Payments made overnight will be credited to your account within two working days.\nSecurity Information\nAll online card payments are protected by Transport Layer Security (TLS), as recommended by the Payment Card Industry Security Standards Council and are directly processed using the Pay360 by Capita service.\nCapita's online payment management solutions are independently and rigorously security assessed, and are certified by Visa and MasterCard as a Payment Card Industry Data Security Standard (PCI DSS) Level 1 payment processor.\nGet money off your Council Tax bill\nDepending on your circumstances, you may be entitled to a\nCouncil Tax reduction\nor other\ndiscounts and exemptions.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [
+      "0151 443 4476"
+    ],
+    "email": [],
+    "links": [
+      {
+        "url": "https://ip.e-paycapita.com/AIP/itemSelectionPage.do?link=showItemSelectionPage&siteId=63&languageCode=EN&source=AIP",
+        "text": "Pay online",
+        "context": "Pay online"
+      },
+      {
+        "url": "https://knowsleytransaction.mendixcloud.com/link/youarebeingredirected?target=revsandbens",
+        "text": "Direct Debit request",
+        "context": "Set up aDirect Debit request"
+      },
+      {
+        "url": "http://www.paypoint.co.uk/",
+        "text": "Paypoint",
+        "context": "At any shop displaying thePaypointsymbol"
+      },
+      {
+        "url": "/council-tax/ways-reduce-your-council-tax-bill/council-tax-reduction",
+        "text": "Council Tax reduction",
+        "context": "Depending on your circumstances, you may be entitled to aCouncil Tax reductionor otherdiscounts and exemptions."
+      },
+      {
+        "url": "/council-tax/ways-reduce-your-council-tax-bill/eligibility-discounts-and-exemptions",
+        "text": "discounts and exemptions.",
+        "context": "Depending on your circumstances, you may be entitled to aCouncil Tax reductionor otherdiscounts and exemptions."
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [],
+    "keywords": [
+      "payment",
+      "council",
+      "account"
+    ],
+    "tfidf_keywords": [
+      "council",
+      "payment",
+      "account"
+    ],
+    "bigrams": [
+      "council tax",
+      "cheque postal",
+      "postal order"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/tell-us-about-change-address/landlordagent-change-address",
+    "title": "Landlord/agent change of address",
+    "source": "Landlord/agent change of address",
+    "summary": "If you are a landlord or agent, tell us of a change in tenant or if you have bought or sold a property.",
+    "intro": "If you are a landlord or agent, tell us of a change in tenant or if you have bought or sold a property.",
+    "text": "If you have bought a property but have not yet secured a tenant, then please fill in the standard moving into Knowsley form below.\nYou can use this form to inform us of the following:\nTenant moving in\nTenant moving out\nBoth\nProperty sold\nInformation you may need\nA phone number and e-mail address\nLandlord and or agent details\nThe date you purchased the property\nTenants name, tenancy start date, term of tenancy\nWhether the property is furnished\nThe date you sold the property or tenancy ended\nWhether the property has been left furnished or unfurnished\nName of new occupier, landlord or owner\nStart here",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://knowsleytransaction.mendixcloud.com/link/youarebeingredirected?target=landlordcoa",
+        "text": "Start here",
+        "context": "Start here",
+        "important": true
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [
+      "Tell us about a change of address"
+    ],
+    "keywords": [
+      "property",
+      "tenant",
+      "move"
+    ],
+    "tfidf_keywords": [
+      "property",
+      "date",
+      "moving"
+    ],
+    "bigrams": [
+      "tenant move",
+      "whether property",
+      "buy property"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/ways-reduce-your-council-tax-bill/eligibility-discounts-and-exemptions",
+    "title": "Eligibility for discounts and exemptions",
+    "source": "Eligibility for discounts and exemptions",
+    "summary": "Find out if you're eligible for a discount or exempt from paying and how to apply here.",
+    "intro": "Find out if you're eligible for a discount or exempt from paying and how to apply here.",
+    "text": "Exemptions relating to your personal circumstances\nCertain people can be disregarded for council tax purposes.\nThese are:\nPatients living in hospital\nPeople looked after in care homes\nPeople who are severely mentally impaired\nPeople staying in certain hostels or night shelters\nCare workers working for low pay, usually for charities\nPeople caring for someone with a disability who is not a husband or wife, partner or child under 18 years old -\napply online for the Carers Disregard.\nMembers of visiting forces and certain international institutions\nForeign diplomats and certain members of international organisations\nMembers of religious communities (for example, monks and nuns)\nPeople in prison (except those in prison for not paying their council tax or a fine) -\napply online for the Persons in Detention Disregard\nIf you've already applied and are now exempt we will automatically apply the exemption to your Council Tax bill for the next year.\nIf all occupants are disregarded, you will be entitled to a 50% discount or possibly an exemption.\nOther discount and exemption forms you can download\nDocument\nannexe-discount-form_2.pdf\n(\nPDF\n,\n112.41KB\n)\nDocument\ndisabled-reduction-form_1.pdf\n(\nPDF\n,\n147.48KB\n)\nDocument\ngranny-annexe-exemption-form_2.pdf\n(\nPDF\n,\n112.41KB\n)\nDocument\nJob-related-second-home-discount-form_1-(1).pdf\n(\nPDF\n,\n124.01KB\n)\nDocument\nnursing-home-hospital-disregard-form_2.pdf\n(\nPDF\n,\n115.88KB\n)\nDocument\nproviding-care-elsewhere-form_3.pdf\n(\nPDF\n,\n115.02KB\n)\nDocument\nreceiving-care-elsewhere-exemption-form_3.pdf\n(\nPDF\n,\n117.94KB\n)\nDocument\nreligious-community-disregard-form_2.pdf\n(\nPDF\n,\n133.85KB\n)\nDocument\ncouncil-tax-mentally-impaired-disregard-(13).pdf\n(\nPDF\n,\n180.12KB\n)\nIf you need these forms in another format, please\ncontact us\n.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://knowsleytransaction.mendixcloud.com/link/youarebeingredirected?target=carersdisregard",
+        "text": "apply online for the Carers Disregard.",
+        "context": "People caring for someone with a disability who is not a husband or wife, partner or child under 18 years old -apply online for the Carers Disregard."
+      },
+      {
+        "url": "https://knowsleytransaction.mendixcloud.com/link/youarebeingredirected?target=personsindetention",
+        "text": "apply online for the Persons in Detention Disregard",
+        "context": "People in prison (except those in prison for not paying their council tax or a fine) -apply online for the Persons in Detention Disregard"
+      },
+      {
+        "url": "/sites/default/files/2023-09/annexe-discount-form_2.pdf",
+        "text": "annexe-discount-form_2.pdf(PDF,112.41KB)",
+        "context": "annexe-discount-form_2.pdf(PDF,112.41KB)"
+      },
+      {
+        "url": "/sites/default/files/2023-09/disabled-reduction-form_1.pdf",
+        "text": "disabled-reduction-form_1.pdf(PDF,147.48KB)",
+        "context": "disabled-reduction-form_1.pdf(PDF,147.48KB)"
+      },
+      {
+        "url": "/sites/default/files/2023-09/granny-annexe-exemption-form_2.pdf",
+        "text": "granny-annexe-exemption-form_2.pdf(PDF,112.41KB)",
+        "context": "granny-annexe-exemption-form_2.pdf(PDF,112.41KB)"
+      },
+      {
+        "url": "/sites/default/files/2023-09/Job-related-second-home-discount-form_1-%281%29.pdf",
+        "text": "Job-related-second-home-discount-form_1-(1).pdf(PDF,124.01KB)",
+        "context": "Job-related-second-home-discount-form_1-(1).pdf(PDF,124.01KB)"
+      },
+      {
+        "url": "/sites/default/files/2023-09/nursing-home-hospital-disregard-form_2.pdf",
+        "text": "nursing-home-hospital-disregard-form_2.pdf(PDF,115.88KB)",
+        "context": "nursing-home-hospital-disregard-form_2.pdf(PDF,115.88KB)"
+      },
+      {
+        "url": "/sites/default/files/2023-09/providing-care-elsewhere-form_3.pdf",
+        "text": "providing-care-elsewhere-form_3.pdf(PDF,115.02KB)",
+        "context": "providing-care-elsewhere-form_3.pdf(PDF,115.02KB)"
+      },
+      {
+        "url": "/sites/default/files/2023-09/receiving-care-elsewhere-exemption-form_3.pdf",
+        "text": "receiving-care-elsewhere-exemption-form_3.pdf(PDF,117.94KB)",
+        "context": "receiving-care-elsewhere-exemption-form_3.pdf(PDF,117.94KB)"
+      },
+      {
+        "url": "/sites/default/files/2023-09/religious-community-disregard-form_2.pdf",
+        "text": "religious-community-disregard-form_2.pdf(PDF,133.85KB)",
+        "context": "religious-community-disregard-form_2.pdf(PDF,133.85KB)"
+      },
+      {
+        "url": "/sites/default/files/2023-09/council-tax-mentally-impaired-disregard-%2813%29.pdf",
+        "text": "council-tax-mentally-impaired-disregard-(13).pdf(PDF,180.12KB)",
+        "context": "council-tax-mentally-impaired-disregard-(13).pdf(PDF,180.12KB)"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/contact-us",
+        "text": "contact us",
+        "context": "If you need these forms in another format, pleasecontact us."
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [
+      "Ways to reduce your Council Tax bill"
+    ],
+    "keywords": [
+      "document",
+      "pdf",
+      "people"
+    ],
+    "tfidf_keywords": [
+      "pdf",
+      "document",
+      "people"
+    ],
+    "bigrams": [
+      "pdf document",
+      "document pdf",
+      "council tax"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/empty-properties-and-second-homes",
+    "title": "Empty properties and second homes",
+    "source": "Empty properties and second homes",
+    "summary": "Council tax is payable on properties that are empty, including second homes.",
+    "intro": "Council tax is payable on properties that are empty, including second homes.",
+    "text": "For unoccupied and unfurnished properties, a discount of 100% is available for one calendar month from the date that the property first became unoccupied and unfurnished. After this date, the full Council Tax charge becomes due.\nProperties that require major repairs will be charged at the full Council Tax level from when they become vacant.\nWith effect from 1 April, 2024, properties which have been unoccupied and unfurnished for 1 year or more will be subject to an additional premium charge of 100%. Properties which have been unoccupied and unfurnished for over two years will be subject to an additional premium charge of 100%.\nProperties which have been unoccupied and unfurnished for more than five years will be subject to a premium charge of 200%.\nProperties which have been unoccupied and unfurnished for more than ten years will be subject to a premium charge of 300%.\nYou must notify us within 21 days if you believe that the premium charge does not apply.\nFrom 1 April 2025, if a property is not your main residence and is substantially furnished, you will be charged double the amount of Council Tax that you would normally pay. The second home premium will be levied at an additional 100% of the Council Tax charge. This applies to unoccupied properties (which are substantially furnished) and second homes (furnished properties that are not used as main residences). Second homes could have their Council Tax reduced by 50%, in the following situations:\nThe Council Taxpayer is required to live elsewhere in job-related accommodation because of the terms and conditions of their employment, for example, a caretaker, minister of religion or a member of the armed services. (This does not apply to a second home that you are renting because living there is convenient for work).\nThe second home is a pitch occupied by a caravan or a mooring occupied by a boat.\nA planning restriction on the second home prevents occupancy for a continuous period of at least 28 days in a year.\nPlease contact us via online chat if you think you may qualify for any of these discounts.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [],
+    "department": "Council Tax",
+    "topics": [],
+    "keywords": [
+      "property",
+      "charge",
+      "unoccupied"
+    ],
+    "tfidf_keywords": [
+      "properties",
+      "charge",
+      "unoccupied"
+    ],
+    "bigrams": [
+      "second home",
+      "council tax",
+      "premium charge"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/ways-reduce-your-council-tax-bill/sole-occupier-discount",
+    "title": "Sole occupier discount",
+    "source": "Sole occupier discount",
+    "summary": "You are entitled to a discount of 25% if only one adult lives in your property. Find out more here.",
+    "intro": "You are entitled to a discount of 25% if only one adult lives in your property. Find out more here.",
+    "text": "The sole occupier discount can be awarded where there is only one adult over the age of 18 living at the property. This will give a council tax reduction of 25%.\nWho is eligible for this discount\nThere is usually no discount if two or more adults live in your home. However, certain people are classed as 'disregarded'.\nFor example grown up children that live with you, if they are aged 18 or over, are in full time education or training, and you are no longer receiving child benefit for. You will need to apply for a\nstudent disregard.\nIf only one adult lives in the property after we have excluded the 'disregarded' people, you will be entitled to a discount of 25%.\nYou can only get this discount based on your normal living situation. You can not get it if other people usually live with you but are away on a temporary basis. For example, you can not get this discount for the times when the other residents are on holiday or are working away from home.\nHow to apply\nWe will process your application as soon as possible.\nLog in to your My Account\nIf you don't have a My Account\nComplete this form to apply for a Sole Occupier Discount\nCancel Sole Occupier Discount because another adult is now living in your home\nCancel your Sole Occupier Discount online\nIf you don't have a My Account\nComplete this form to cancel your Sole Occupier Discount\nIf this person has moved from a Knowsley address to your home, they will also need to\nnotify us of their change of circumstances\n.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.knowsley.gov.uk/council-tax/ways-reduce-your-council-tax-bill/eligibility-discounts-and-exemptions",
+        "text": "student disregard.",
+        "context": "For example grown up children that live with you, if they are aged 18 or over, are in full time education or training, and you are no longer receiving child benefit for. You will need to apply for astudent disregard."
+      },
+      {
+        "url": "https://knowsleytransaction.mendixcloud.com/index.html",
+        "text": "Log in to your My Account",
+        "context": "Log in to your My Account",
+        "important": true
+      },
+      {
+        "url": "https://knowsleytransaction.mendixcloud.com/link/youarebeingredirected?target=singlepersondiscount",
+        "text": "Complete this form to apply for a Sole Occupier Discount",
+        "context": "Complete this form to apply for a Sole Occupier Discount",
+        "important": true
+      },
+      {
+        "url": "http://knowsleytransaction.mendixcloud.com/link/youarebeingredirected?target=revsandbens",
+        "text": "Cancel your Sole Occupier Discount online",
+        "context": "Cancel your Sole Occupier Discount online",
+        "important": true
+      },
+      {
+        "url": "https://knowsleytransaction.mendixcloud.com/link/youarebeingredirected?target=singlepersondiscount",
+        "text": "Complete this form to cancel your Sole Occupier Discount",
+        "context": "Complete this form to cancel your Sole Occupier Discount",
+        "important": true
+      },
+      {
+        "url": "/council-tax/tell-us-about-change-address",
+        "text": "notify us of their change of circumstances",
+        "context": "If this person has moved from a Knowsley address to your home, they will also need tonotify us of their change of circumstances."
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [
+      "Ways to reduce your Council Tax bill"
+    ],
+    "keywords": [
+      "discount",
+      "live",
+      "sole"
+    ],
+    "tfidf_keywords": [
+      "discount",
+      "occupier",
+      "sole"
+    ],
+    "bigrams": [
+      "sole occupier",
+      "occupier discount",
+      "cancel sole"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/ways-reduce-your-council-tax-bill/properties-exempt-paying-council-tax",
+    "title": "Properties exempt from paying Council Tax",
+    "source": "Properties exempt from paying Council Tax",
+    "summary": "Find out which properties are exempt from paying Council Tax.",
+    "intro": "Find out which properties are exempt from paying Council Tax.",
+    "text": "You may be exempt from paying council tax if your property is:\nClass B\nOwned by a charity, vacant and was last occupied by a charity (exempt for up to six months)\nClass D\nVacant because the liable person is in prison\nClass E\nVacant because the liable person is a permanent patient in a hospital or a care home\nClass F\nVacant because the liable person has died and probate or letters of administration have not yet been granted. Exempt for up to six months after probate or letters of administration granted\nClass G\nVacant because nobody is allowed to live there by law\nClass H\nHeld vacant for occupation by a minister of religion\nClass I\nVacant because the liable person is receiving care elsewhere (but not in a residential care home which would come under class E)\nClass K\nVacant because the liable person is a student living elsewhere to study\nClass L\nVacant because it has been repossessed\nClass M\nA hall of residence for students\nClass N\nLived in only by students\nClass O\nOwned by the Ministry of Defence and lived in only by members of the armed services\nClass P\nLived in only by visiting service personnel\nClass Q\nLeft vacant by a bankruptcy trustee\nClass R\nAn empty caravan pitch or a boat mooring\nClass S\nLived in only by people who are under 18-years-old\nClass T\nA vacant part of another property and may not be let separately due to planning restrictions\nClass U\nLived in only by people who are severely mentally impaired\nClass V\nLived in by at least one foreign diplomat or specified member of an international organisation\nClass W\nPart of a property is lived in separately (as a self-contained flat or house) by a dependent elderly or disabled relative of the family\nCouncil Tax discretionary relief\nUnder Section 13A of the Local Government Finance Act 1992 (as inserted by Section 76 of the Local Government Act 2003), the council has the power to reduce liability for council tax in relation to individual cases or class(es) of cases that it may determine and where national discounts and exemptions cannot be applied.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [],
+    "department": "Council Tax",
+    "topics": [
+      "Ways to reduce your Council Tax bill"
+    ],
+    "keywords": [
+      "class",
+      "vacant",
+      "live"
+    ],
+    "tfidf_keywords": [
+      "class",
+      "vacant",
+      "because"
+    ],
+    "bigrams": [
+      "class vacant",
+      "vacant because",
+      "because liable"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/ways-reduce-your-council-tax-bill/appealing-council-tax-reduction-decisions",
+    "title": "Appealing Council Tax reduction decisions",
+    "source": "Appealing Council Tax reduction decisions",
+    "summary": "Find out how to appeal against Council Tax reduction decisions.",
+    "intro": "Find out how to appeal against Council Tax reduction decisions.",
+    "text": "If you do not understand our decision you can ask us to explain how we have made the decision. We can also send you a statement of reasons which shows how the decision has been made. You can ask us to look at the decision again by writing to us and telling us why you think the decision is wrong. If you have any more information that you believe is relevant to the decision you can bring it or send it to us and it may help us to reconsider your application.\nYou can appeal if you disagree with a decision about your entitlement to a council tax discount or exemption or the amount your bill has been reduced.\nIn the first instance, this appeal should be made in writing to the council tax office at: Knowsley Metropolitan Borough Council, Municipal Buildings, Archway Road, Huyton, L36 9YU\nYou can appeal against:\nYour entitlement to a reduction under our scheme\nThe amount of reduction that you have been awarded\nYour appeal must be in writing and you must tell us why you disagree with our decision.\nWe will consider your appeal and notify you in writing that either:\nThe grounds for your appeal are not well founded and our reasons for that decision; or\nThat steps have been taken to deal with your grievance and what those steps were.\nShould the matter not be resolved to your satisfaction, you have a further right of\nappeal to the valuation tribunal service.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.valuationtribunal.gov.uk/",
+        "text": "appeal to the valuation tribunal service.",
+        "context": "Should the matter not be resolved to your satisfaction, you have a further right ofappeal to the valuation tribunal service."
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [
+      "Ways to reduce your Council Tax bill"
+    ],
+    "keywords": [
+      "decision",
+      "appeal",
+      "make"
+    ],
+    "tfidf_keywords": [
+      "decision",
+      "appeal",
+      "us"
+    ],
+    "bigrams": [
+      "tell why",
+      "disagree decision",
+      "council tax"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/your-council-tax-bill",
+    "title": "Your Council Tax bill",
+    "source": "Your Council Tax bill",
+    "summary": "We send out Council Tax bills for the year ahead by the end of March. Here, we explain how your bill is broken down and what it means.",
+    "intro": "We send out Council Tax bills for the year ahead by the end of March. Here, we explain how your bill is broken down and what it means.",
+    "text": "What your bill means\n1. Date of issue\nThis is the date your Council Tax bill was produced.\n2. Council Tax account number\nThis is your Council Tax account number. You must quote this number if you want to speak to us about your bill.\n3. Band of property\nThis tells you which Council Tax band the property is in. The band affects how much Council Tax you are charged.\n4. Property reference\nThis is the unique reference of the property that you live in. Each property has its own reference.\n5. Name and address\nThe name of the person(s) registered/responsible for paying the bill, and their contact address. The address shown here may differ from the property address on the left-hand side of the bill (number 6). For example, if the property is unoccupied and the bill is issued to the person registered for Council Tax instead of the property address.\n6. Address of property (if different from the account holder's address)\nThis is the address of the property that the Council Tax bill is for.\n7. Breakdown of annual charge\nThe annual charge for the property for the financial year shown, and also the percentage change from the previous year's charges.\nIt includes your contribution towards council services, Merseyside Police, Merseyside Fire & Rescue Service and the Local Town and Parish Councils.\nRead a full breakdown of how the council's services are funded.\n8. Charge for period\nThe annual charge for the property for the financial year shown. You must tell us if your circumstances change by using the contact details on the back of your bill. You can also\ntell us about a change online\n.\n9. Discounts or reductions\nThis shows any discounts we've granted for the property, including exemptions, disregards or Council Tax Support.\nYou can\ncheck eligibility and apply for discounts and exemptions online\n.\nGet money off your Council Tax bill\nincludes further information about discounts, exemptions and disregards.\n10. Amount due\nThe total amount you have to pay for the year after any discounts, exemptions, disregards or Council Tax Support have been applied to your Council Tax account.\n11. Payment instructions\nHow you pay your bill, for example by direct debit or cash instalments.\nIf you pay by direct debit, payments are collected automatically from your bank or building society on the dates shown.\nIf you make cash payments you must do so by the dates shown.\n12. Council Taxed owed from previous years\nIf you owe Council Tax from previous years, the balance will be shown here. This will not take into account any payment you have made towards a previous bill after the issue date of this bill.\nIf you need to speak to us about making payments you can use the contact details on the back of your bill or\ncontact us\n.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "/council-tax/what-council-tax/how-council-tax-used",
+        "text": "Read a full breakdown of how the council's services are funded.",
+        "context": "It includes your contribution towards council services, Merseyside Police, Merseyside Fire & Rescue Service and the Local Town and Parish Councils.Read a full breakdown of how the council's services are funded."
+      },
+      {
+        "url": "/council-tax/tell-us-about-change-address",
+        "text": "tell us about a change online",
+        "context": "The annual charge for the property for the financial year shown. You must tell us if your circumstances change by using the contact details on the back of your bill. You can alsotell us about a change online."
+      },
+      {
+        "url": "/council-tax/ways-reduce-your-council-tax-bill/eligibility-discounts-and-exemptions",
+        "text": "check eligibility and apply for discounts and exemptions online",
+        "context": "You cancheck eligibility and apply for discounts and exemptions online."
+      },
+      {
+        "url": "/council-tax/ways-reduce-your-council-tax-bill",
+        "text": "Get money off your Council Tax bill",
+        "context": "Get money off your Council Tax billincludes further information about discounts, exemptions and disregards."
+      },
+      {
+        "url": "/contact-us",
+        "text": "contact us",
+        "context": "If you need to speak to us about making payments you can use the contact details on the back of your bill orcontact us."
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [],
+    "keywords": [
+      "council",
+      "bill",
+      "tax"
+    ],
+    "tfidf_keywords": [
+      "council",
+      "bill",
+      "property"
+    ],
+    "bigrams": [
+      "council tax",
+      "tax bill",
+      "tax account"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/register-council-tax",
+    "title": "Register for Council Tax",
+    "source": "Register for Council Tax",
+    "summary": "If you are moving into Knowsley from outside the borough or setting up Council Tax for the first time (for example, moving from family or friends and previously not liable for Council Tax), you can let us know here.",
+    "intro": "If you are moving into Knowsley from outside the borough or setting up Council Tax for the first time (for example, moving from family or friends and previously not liable for Council Tax), you can let us know here.",
+    "text": "If you are moving into Knowsley from another area, let us know by completing this form. You can tell us either before or after you move.\nStart here\nInformation you will need to provide\nWe’ll ask a series of questions about your new address to set up your account.\nWe’ll also need an email address and contact number in case we need to get in touch.\nYou’ll also be able to apply for\nsingle person discount\nat the same time, if this is applicable to you.\nWhen we have completed the change of address, you will receive a bill that shows the balance due and instalments.\nWe charge you from the date the sale is completed on your property. If you are renting, you will be charged when your tenancy begins.\nDon’t forget you may need to tell your previous council that you have moved.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://knowsleytransaction.mendixcloud.com/link/youarebeingredirected?target=movingin",
+        "text": "Start here",
+        "context": "Start here",
+        "important": true
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/council-tax/ways-reduce-your-council-tax-bill/sole-occupier-discount-and-disregarded-persons",
+        "text": "single person discount",
+        "context": "You’ll also be able to apply forsingle person discountat the same time, if this is applicable to you."
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [],
+    "keywords": [
+      "need",
+      "move",
+      "complete"
+    ],
+    "tfidf_keywords": [
+      "need",
+      "address",
+      "ll"
+    ],
+    "bigrams": [
+      "move into",
+      "into knowsley",
+      "knowsley another"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/who-should-pay-council-tax",
+    "title": "Who should pay Council Tax?",
+    "source": "Who should pay Council Tax?",
+    "summary": "If you occupy a property as your main home, you are responsible for paying Council Tax.  If you’re under 18 you do not need to pay Council Tax.",
+    "intro": "If you occupy a property as your main home, you are responsible for paying Council Tax.  If you’re under 18 you do not need to pay Council Tax.",
+    "text": "The person liable to pay Council Tax\nGenerally, the person who is highest in the following list is liable to pay the Council Tax:\nResident freeholder, e.g. an owner occupier.\nResident leaseholder, e.g. an owner occupier who is paying a ground rent.\nResident statutory or secure tenant, e.g. a council or private tenant.\nResident licensee, e.g. the landlord of a public house who lives on the premises.\nOther resident, e.g. a squatter.\nNon-resident owner.\nJoint and several liability\nIf there is more than one person fitting the description of the person liable, each person will be liable for the whole amount – not just a share of it.  This is called joint and several liability.\nFor example, if you rent a property with a friend, you may each decide to pay half the Council Tax. But if one of you fails to pay, the other person is liable to pay the full amount.\nMarried and unmarried couples\nHusbands and wives and unmarried couples living together are liable to pay Council Tax even if only one of them owns or rents the property.  The bill will show all the names, although only one bill may be sent.\nEmpty homes discount\nFor unoccupied and unfurnished properties, a discount of 100% is available for one calendar month from the date that the property first became unoccupied and unfurnished. After this date, the full Council Tax charge becomes due.\nIf you buy or rent a property that is already empty and unfurnished, then the previous owner or landlord may have already been granted the discount, so you may not be eligible for the 1 month discount.\nProperties that require major repairs will be charged at the full Council Tax level from the date they become vacant.\nProperties which have been unoccupied and unfurnished in excess of two years will be subject to an additional premium charge of 100%. Properties which have been unoccupied and unfurnished for more than 5 years will be subject to a premium charge of 200%. Properties which have been unoccupied and unfurnished for more than 10 years will be subject to a premium charge of 300%.\nYou must notify us within 21 days if you believe that the premium charge does not apply.\nSecond home reductions\nCertain second homes are eligible for a 50% reduction on their Council Tax bill.\nThe council tax payer lives elsewhere in job-related accommodation specified by the terms and conditions of their contract, for example: caretakers, ministers of religion or members of the armed forces.  This does not apply to second homes that are rented because they are convenient for work.\nHomes that are pitches or moorings occupied by caravans or boats\nA planning restriction means you’re unable to occupy the property for at least 28 continuous days a year\nPlease contact us via online chat if you think you may qualify for any of these discounts.\nWhen the owner should pay the Council Tax\nThe owner, rather than the occupier, is liable to pay the Council Tax in the following special cases:\nHouses in multiple occupation, e.g. groups of bedsits which share washing and cooking facilities.\nCare and nursing homes together with some hostels.\nProperties occupied only be religious communities.\nSome second homes.\nSome vicarages.\nProperties occupied by asylum seekers.\nDepending on your circumstances and those who live with you, you may be entitled to a\nCouncil Tax discount or exemption\n.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "/council-tax/ways-reduce-your-council-tax-bill/eligibility-discounts-and-exemptions",
+        "text": "Council Tax discount or exemption",
+        "context": "Depending on your circumstances and those who live with you, you may be entitled to aCouncil Tax discount or exemption."
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [],
+    "keywords": [
+      "council",
+      "property",
+      "tax"
+    ],
+    "tfidf_keywords": [
+      "council",
+      "tax",
+      "pay"
+    ],
+    "bigrams": [
+      "council tax",
+      "liable pay",
+      "pay council"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/set-direct-debit",
+    "title": "Set up a direct debit",
+    "source": "Set up a direct debit",
+    "summary": "Find out more about the easiest way to pay your council tax online.",
+    "intro": "Find out more about the easiest way to pay your council tax online.",
+    "text": "We recommend that you pay your Council Tax by Direct Debit because it is the quickest, easiest and safest way to pay your council tax bill.\nSetting up a Direct allows you to\nChoose from four dates each month of when you can pay - 1st, 5th, 15th or 24th\nExtend your payments over 12 months instead of the usual 10\nPay us automatically, avoiding reminders.\nHow to set up a direct debit\nTo set up a Direct Debit, you will need to log in or create an online My account and provide your Council Tax account reference number (as shown on your Council Tax bill), bank account number, and sort code.\nLogin or create a My Account\nChange the date of your Direct Debit\nIf you want to change the date of your Direct Debit, you can do this by logging into your online\nMy Account\n.\nDirect debits can be set up for 1st, 5th, 15th or 24th of the month.\nChange your bank details\nTo change the bank details on your existing Direct Debit, you can do this by logging into your online\nMy Account\n.\nPlease allow at least 16 clear days for your new or amended Direct Debit to be processed by your bank. This means your first payment might not be collected until the following month. You may need to make your initial payment by another method.\nIf you've already set up a Direct Debit\nYou do not need to tell us each year if you are currently paying your Council Tax by Direct Debit. We will continue to take Debit Debits until you tell us otherwise.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.knowsley.gov.uk/my-account",
+        "text": "Login or create a My Account",
+        "context": "Login or create a My Account"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/my-account",
+        "text": "My Account",
+        "context": "If you want to change the date of your Direct Debit, you can do this by logging into your onlineMy Account."
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/my-account",
+        "text": "My Account",
+        "context": "To change the bank details on your existing Direct Debit, you can do this by logging into your onlineMy Account."
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [],
+    "keywords": [
+      "debit",
+      "direct",
+      "account"
+    ],
+    "tfidf_keywords": [
+      "direct",
+      "debit",
+      "account"
+    ],
+    "bigrams": [
+      "direct debit",
+      "council tax",
+      "set direct"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/tell-us-about-change-address/moving-out-knowsley",
+    "title": "Moving out of Knowsley",
+    "source": "Moving out of Knowsley",
+    "summary": "If you are moving out of Knowsley follow these steps to let us know.",
+    "intro": "If you are moving out of Knowsley follow these steps to let us know.",
+    "text": "If you are moving out of Knowsley into another area, let us know by completing this form. You can tell us either before or no more than 14 days after you have moved.\nYou will need:\nA phone number and e-mail address\nThe date you sold the property or tenancy ended\nThe actual date you vacated\nWhether the property has been left furnished or unfurnished\nName of the new occupier, landlord or owner\nWhen we have completed the change of address, you will be issued a final paper bill which will advise of any outstanding balance and the date this needs to be paid.\nIf the account is in any credit and you paid by direct debit, this will be refunded directly to the bank the direct debit came from. If you paid by any other method, you will need to contact council tax when you receive the closed account bill.\nStart here",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://knowsleytransaction.mendixcloud.com/link/youarebeingredirected?target=movingwithinorout",
+        "text": "Start here",
+        "context": "Start here",
+        "important": true
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [
+      "Tell us about a change of address"
+    ],
+    "keywords": [
+      "need",
+      "date",
+      "pay"
+    ],
+    "tfidf_keywords": [
+      "date",
+      "paid",
+      "account"
+    ],
+    "bigrams": [
+      "direct debit",
+      "move out",
+      "out knowsley"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/tell-us-about-change-address/moving-one-knowsley-address-another",
+    "title": "Moving from one Knowsley address to another",
+    "source": "Moving from one Knowsley address to another",
+    "summary": "​If you are moving from one Knowsley address to another Knowsley address, let us know by completing these steps.",
+    "intro": "​If you are moving from one Knowsley address to another Knowsley address, let us know by completing these steps.",
+    "text": "​If you are moving from one Knowsley address to another Knowsley address, let us know by completing this form. You can tell us either before or after you move.\nWe'll ask a series of questions about your new address to set up your account.\nWe'll also need an email address and contact number in case we need to get in touch.\nYou'll also be able to apply for\nsingle person discount\nat the same time, if this is applicable to you.\nWhen we have completed the change of address, you will receive a closed account paper bill for the old address and an opening paper bill for the new address.\nIf you have overpaid for your old address, we will usually use the credit to reduce your balance at the new address.\nDo not forget, every time you move you must reapply to be on the\nelectoral register\n.\nStart here",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.knowsley.gov.uk/council-tax/ways-reduce-your-council-tax-bill/sole-occupier-discount-and-disregarded-persons",
+        "text": "single person discount",
+        "context": "You'll also be able to apply forsingle person discountat the same time, if this is applicable to you."
+      },
+      {
+        "url": "https://www.gov.uk/register-to-vote",
+        "text": "electoral register",
+        "context": "Do not forget, every time you move you must reapply to be on theelectoral register."
+      },
+      {
+        "url": "https://knowsleytransaction.mendixcloud.com/link/youarebeingredirected?target=movingwithinorout",
+        "text": "Start here",
+        "context": "Start here",
+        "important": true
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [
+      "Tell us about a change of address"
+    ],
+    "keywords": [
+      "address",
+      "move",
+      "new"
+    ],
+    "tfidf_keywords": [
+      "address",
+      "ll",
+      "new"
+    ],
+    "bigrams": [
+      "new address",
+      "knowsley address",
+      "paper bill"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/tell-us-about-change-address/moving-home",
+    "title": "Moving home",
+    "source": "Moving home",
+    "summary": "Tell us as soon as possible if you're moving into Knowsley, out of Knowsley or within Knowsley, so we can make sure you receive the correct council tax bill.",
+    "intro": "Tell us as soon as possible if you're moving into Knowsley, out of Knowsley or within Knowsley, so we can make sure you receive the correct council tax bill.",
+    "text": "Moving house is already a stressful time, but please do not forget to inform the council of your change of address no more than 14 days before or after you have moved; it could affect things like Housing Benefit, Council Tax Support or any other support you require.\nIt has never been easier to tell us that you are moving house – you can do this all online.\nMoving into Knowsley\nMoving out of Knowsley\nMoving from one Knowsley address to another\nBefore starting,\ncheck if your property is within the Knowsley Council area\n. If your address is not listed as you are moving into a newly built property, the developer will be able to advise you.\nThe amount you pay is calculated according to the banding of your property based on the market value on 1st April 1991. Bands are set by the\nValuation Office Agency\n(VOA).\nYou can\ncheck the amount payable for your Council Tax band for your new address\n. Please note if you are moving into a newly built property, your address may not have a property banding as this needs to be decided by the Valuation Office.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "/council-tax/register-council-tax",
+        "text": "Moving into Knowsley",
+        "context": "Moving into Knowsley"
+      },
+      {
+        "url": "/council-tax/tell-us-about-change-address/moving-out-knowsley",
+        "text": "Moving out of Knowsley",
+        "context": "Moving out of Knowsley"
+      },
+      {
+        "url": "/council-tax/tell-us-about-change-address/moving-one-knowsley-address-another",
+        "text": "Moving from one Knowsley address to another",
+        "context": "Moving from one Knowsley address to another"
+      },
+      {
+        "url": "https://www.gov.uk/find-local-council",
+        "text": "check if your property is within the Knowsley Council area",
+        "context": "Before starting,check if your property is within the Knowsley Council area. If your address is not listed as you are moving into a newly built property, the developer will be able to advise you."
+      },
+      {
+        "url": "https://www.gov.uk/council-tax-bands",
+        "text": "Valuation Office Agency",
+        "context": "The amount you pay is calculated according to the banding of your property based on the market value on 1st April 1991. Bands are set by theValuation Office Agency(VOA)."
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/council-tax/what-council-tax/council-tax-bands",
+        "text": "check the amount payable for your Council Tax band for your new address",
+        "context": "You cancheck the amount payable for your Council Tax band for your new address. Please note if you are moving into a newly built property, your address may not have a property banding as this needs to be decided by the Valuation Office."
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [
+      "Tell us about a change of address"
+    ],
+    "keywords": [
+      "move",
+      "address",
+      "property"
+    ],
+    "tfidf_keywords": [
+      "moving",
+      "address",
+      "property"
+    ],
+    "bigrams": [
+      "move into",
+      "move house",
+      "council tax"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/e-billing",
+    "title": "E-billing",
+    "source": "E-billing",
+    "summary": "Find out how to sign up for E-billing here.",
+    "intro": "Find out how to sign up for E-billing here.",
+    "text": "About E-billing\nBy signing up to E-billing you are confirming that you no longer wish to receive a paper bill.\nInstead, when a bill is produced, we will email you and let you know that you have a new bill. You can then log into your My Account and view the bill.\nPlease note\nAny notices related to non-payment such as reminder notices will be sent by post as this is a legal requirement.\nYour first bill and the last closing bill for your property will also be sent by post.\nSign up for E-billing\nTo sign up for e-billing you will need to have an online My Account and registered your Council Tax account to your online account.\nHow to sign up for E-billing\nOnce logged into your account you can sign up for E-billing by following these steps:\nClick View your council tax account information-\nUnder Quick actions click on Bills and payment\nSelect Sign up for E-billing.\nSign up here",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.knowsley.gov.uk/my-account",
+        "text": "Sign up here",
+        "context": "Sign up here",
+        "important": true
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [],
+    "keywords": [
+      "billing",
+      "sign",
+      "bill"
+    ],
+    "tfidf_keywords": [
+      "billing",
+      "up",
+      "account"
+    ],
+    "bigrams": [
+      "sign billing",
+      "billing sign",
+      "log into"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/tell-us-about-change-name",
+    "title": "Tell us about a change of name",
+    "source": "Tell us about a change of name",
+    "summary": "Tell us about a change of name or amendment to the name on your account/bill.",
+    "intro": "Tell us about a change of name or amendment to the name on your account/bill.",
+    "text": "Use the form below to update your Council Tax if you changed your name or identified a mistake, missing title or incomplete name on your bill.\nSupporting documents\nEvidence must be uploaded with the form if you have recently been married, divorced or changed your name by deed poll. We will need to see official proof to update your council tax account.\nmarriage certificate\ndivorce absolute paperwork or letter from a solicitor\ndeed poll paperwork\nYou will not be able to submit the form without evidence.\nProcess\nWe aim to process the change within 30 days, but if we need further information from you the timescale will be longer.\nWhen processed all changes can be viewed online via your\nMy Account\n. If you haven’t already registered for an online account,\nyou can register here\n.\nAn updated Council Tax demand notice will be issued showing the change of name.\nTell us about a change or amendment of name here",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.knowsley.gov.uk/my-account",
+        "text": "My Account",
+        "context": "When processed all changes can be viewed online via yourMy Account. If you haven’t already registered for an online account,you can register here."
+      },
+      {
+        "url": "https://knowsleytransaction.mendixcloud.com/index.html",
+        "text": "you can register here",
+        "context": "When processed all changes can be viewed online via yourMy Account. If you haven’t already registered for an online account,you can register here."
+      },
+      {
+        "url": "https://knowsleytransaction.mendixcloud.com/link/changeofname",
+        "text": "Tell us about a change or amendment of name here",
+        "context": "Tell us about a change or amendment of name here",
+        "important": true
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [],
+    "keywords": [
+      "change",
+      "name",
+      "form"
+    ],
+    "tfidf_keywords": [
+      "name",
+      "account",
+      "change"
+    ],
+    "bigrams": [
+      "update council",
+      "council tax",
+      "change name"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/ways-reduce-your-council-tax-bill/full-time-student-council-tax-discount-and-exemption",
+    "title": "Full-time student Council Tax discount and exemption",
+    "source": "Full-time student Council Tax discount and exemption",
+    "summary": "Find out if you're eligible for a full-time student discount or exempt from paying and how to apply here.",
+    "intro": "Find out if you're eligible for a full-time student discount or exempt from paying and how to apply here.",
+    "text": "You are allowed to apply for one of these disregards if you are any of the following:\nFull-time student\nStudent nurse\nApprentice\nYouth-training trainee\nAged 18 or 19 years old and still at school\nAged 18 or 19 years old and have just left school\nYou can apply for these disregards online:\nApply through the My Account portal\nIf you don't have a Knowsley Council services account - you can complete a separate Student Disregard Form.\nComplete a Student Disregard Form here",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://knowsleytransaction.mendixcloud.com/link/youarebeingredirected?target=revsandbens",
+        "text": "Apply through the My Account portal",
+        "context": "Apply through the My Account portal",
+        "important": true
+      },
+      {
+        "url": "https://knowsleytransaction.mendixcloud.com/link/youarebeingredirected?target=studentdisregard",
+        "text": "Complete a Student Disregard Form here",
+        "context": "Complete a Student Disregard Form here",
+        "important": true
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [
+      "Ways to reduce your Council Tax bill"
+    ],
+    "keywords": [
+      "disregard",
+      "student",
+      "apply"
+    ],
+    "tfidf_keywords": [
+      "student",
+      "apply",
+      "18"
+    ],
+    "bigrams": [
+      "these disregard",
+      "age year",
+      "year old"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/tell-us-about-change-address",
+    "title": "Tell us about a change of address",
+    "source": "Tell us about a change of address",
+    "summary": "If you're an existing Knowsley resident or landlord, and already liable for council tax, you can let us know about a change of address here.",
+    "intro": "If you're an existing Knowsley resident or landlord, and already liable for council tax, you can let us know about a change of address here.",
+    "text": "Moving home\nTell us as soon as possible if you're moving into Knowsley, out of Knowsley or within Knowsley, so we can make sure you receive the correct council tax bill.\nMoving into Knowsley\nIf you are moving into Knowsley from outside the borough or setting up Council Tax for the first time (for example, moving from family or friends and previously not liable for Council Tax), you can let us know here.\nMoving out of Knowsley\nIf you are moving out of Knowsley follow these steps to let us know.\nMoving from one Knowsley address to another\n​If you are moving from one Knowsley address to another Knowsley address, let us know by completing these steps.\nLandlord/agent change of address\nIf you are a landlord or agent, tell us of a change in tenant or if you have bought or sold a property.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "/council-tax/tell-us-about-change-address/moving-home",
+        "text": "Moving home",
+        "context": "Moving home"
+      },
+      {
+        "url": "/council-tax/register-council-tax",
+        "text": "Moving into Knowsley",
+        "context": "Moving into Knowsley"
+      },
+      {
+        "url": "/council-tax/tell-us-about-change-address/moving-out-knowsley",
+        "text": "Moving out of Knowsley",
+        "context": "Moving out of Knowsley"
+      },
+      {
+        "url": "/council-tax/tell-us-about-change-address/moving-one-knowsley-address-another",
+        "text": "Moving from one Knowsley address to another",
+        "context": "Moving from one Knowsley address to another"
+      },
+      {
+        "url": "/council-tax/tell-us-about-change-address/landlordagent-change-address",
+        "text": "Landlord/agent change of address",
+        "context": "Landlord/agent change of address"
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [],
+    "keywords": [
+      "knowsley",
+      "move",
+      "address"
+    ],
+    "tfidf_keywords": [
+      "knowsley",
+      "moving",
+      "us"
+    ],
+    "bigrams": [
+      "move into",
+      "into knowsley",
+      "out knowsley"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/ways-reduce-your-council-tax-bill",
+    "title": "Ways to reduce your Council Tax bill",
+    "source": "Ways to reduce your Council Tax bill",
+    "summary": "Check if you're eligible for a discount or reduction on your Council Tax bill. Examples include if you're a full-time student or a sole occupier.",
+    "intro": "Check if you're eligible for a discount or reduction on your Council Tax bill. Examples include if you're a full-time student or a sole occupier.",
+    "text": "Apply for a Council Tax reduction\nFind out whether you may be entitled to support if you or your partner are on a low income.\nEligibility for discounts and exemptions\nFind out if you're eligible for a discount or exempt from paying and how to apply here.\nApply for a Sole Occupier Discount for Council Tax\nYou are entitled to a discount of 25% if only one adult lives in your property. Find out more here.\nProperties exempt from paying Council Tax\nFind out which properties are exempt from paying Council Tax.\nAppealing Council Tax reduction decisions\nFind out how to appeal against Council Tax reduction decisions.\nFull-time student Council Tax discount and exemption\nFind out if you're eligible for a full-time student discount or exempt from paying and how to apply here.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "/council-tax/ways-reduce-your-council-tax-bill/council-tax-reduction",
+        "text": "Apply for a Council Tax reduction",
+        "context": "Apply for a Council Tax reduction"
+      },
+      {
+        "url": "/council-tax/ways-reduce-your-council-tax-bill/eligibility-discounts-and-exemptions",
+        "text": "Eligibility for discounts and exemptions",
+        "context": "Eligibility for discounts and exemptions"
+      },
+      {
+        "url": "/council-tax/ways-reduce-your-council-tax-bill/sole-occupier-discount",
+        "text": "Apply for a Sole Occupier Discount for Council Tax",
+        "context": "Apply for a Sole Occupier Discount for Council Tax"
+      },
+      {
+        "url": "/council-tax/ways-reduce-your-council-tax-bill/properties-exempt-paying-council-tax",
+        "text": "Properties exempt from paying Council Tax",
+        "context": "Properties exempt from paying Council Tax"
+      },
+      {
+        "url": "/council-tax/ways-reduce-your-council-tax-bill/appealing-council-tax-reduction-decisions",
+        "text": "Appealing Council Tax reduction decisions",
+        "context": "Appealing Council Tax reduction decisions"
+      },
+      {
+        "url": "/council-tax/ways-reduce-your-council-tax-bill/full-time-student-council-tax-discount-and-exemption",
+        "text": "Full-time student Council Tax discount and exemption",
+        "context": "Full-time student Council Tax discount and exemption"
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [],
+    "keywords": [
+      "council",
+      "tax",
+      "find"
+    ],
+    "tfidf_keywords": [
+      "council",
+      "tax",
+      "find"
+    ],
+    "bigrams": [
+      "council tax",
+      "find out",
+      "exempt pay"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/step-by-step/what-do-if-you-cant-pay-step-step",
+    "title": "What to do if you can't pay step-by-step",
+    "source": "What to do if you can't pay step-by-step",
+    "summary": "If you do not pay your Council Tax bill instalments, you could face legal action and a fine.",
+    "intro": "If you do not pay your Council Tax bill instalments, you could face legal action and a fine.",
+    "text": "If you are struggling to pay your Council Tax contact us straight away, don't let the problem get worse.\nMake sure you have received any reductions that you are entitled to that could help reduce the amount of Council Tax that you have to pay.\nHow we can help\nWe may be able to offer you an alternative repayment scheme.\nPlease get in touch with us as soon as possible about this\n.\nIf you can’t afford to pay the amount requested, because your earnings are low or you are in receipt of state benefits, use our\nonline calculator\nto check if you are eligible to claim and apply for\nCouncil tax reduction\n.\nReminders and final notices\nIf you have received a reminder or final notice for forgetting to pay your instalment, you can set up a\ndirect debit.\nAround 30,000 of our customers already use this convenient way to make their regular Council Tax payments.\nIf you are experiencing financial difficulties, our\nfinancial advice pages\nhave some useful contact points for organisations that may be able to help give you independent advice.\nThe process step-by-step",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "/node/1481",
+        "text": "Please get in touch with us as soon as possible about this",
+        "context": "We may be able to offer you an alternative repayment scheme.Please get in touch with us as soon as possible about this."
+      },
+      {
+        "url": "/contact-us",
+        "text": ".",
+        "context": "We may be able to offer you an alternative repayment scheme.Please get in touch with us as soon as possible about this."
+      },
+      {
+        "url": "https://knowsleyclaims.teamnetsol.com/",
+        "text": "online calculator",
+        "context": "If you can’t afford to pay the amount requested, because your earnings are low or you are in receipt of state benefits, use ouronline calculatorto check if you are eligible to claim and apply forCouncil tax reduction."
+      },
+      {
+        "url": "https://www.knowsley.gov.uk//council-tax/get-money-your-council-tax-bill/council-tax-reductions-0",
+        "text": "Council tax reduction",
+        "context": "If you can’t afford to pay the amount requested, because your earnings are low or you are in receipt of state benefits, use ouronline calculatorto check if you are eligible to claim and apply forCouncil tax reduction."
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/council-tax/set-direct-debit",
+        "text": "direct debit.",
+        "context": "If you have received a reminder or final notice for forgetting to pay your instalment, you can set up adirect debit.Around 30,000 of our customers already use this convenient way to make their regular Council Tax payments."
+      },
+      {
+        "url": "https://www.knowsley.gov.uk//benefits-and-support/financial-advice-and-support",
+        "text": "financial advice pages",
+        "context": "If you are experiencing financial difficulties, ourfinancial advice pageshave some useful contact points for organisations that may be able to help give you independent advice."
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [],
+    "keywords": [
+      "pay",
+      "council",
+      "tax"
+    ],
+    "tfidf_keywords": [
+      "council",
+      "pay",
+      "tax"
+    ],
+    "bigrams": [
+      "council tax",
+      "may able",
+      "reminder final"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/step-by-step/what-do-if-you-cant-pay-step-step/reminder-notice",
+    "title": "Reminder notice",
+    "source": "Reminder notice",
+    "summary": "",
+    "intro": "",
+    "text": "Part of\nWhat to do if you can't pay step-by-step\nYour latest bill will tell you how much your Council Tax payments are and when they are due.\nWe will send you a reminder notice if you do not pay on time. This will show you how much is overdue, and you will need to pay this within ten days if you wish to continue to pay by instalments as shown on your bill.\nIf you do not pay this, or contact us, within ten days to make an arrangement, you will lose your right to pay in instalments. This means the amount outstanding for the financial year will be due in full. A Magistrates Court Summons will be issued, the costs for which are £60 and an additional £18 if a Liability Order is obtained from the Magistrate’s Court. These costs are payable by you.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "/council-tax/step-by-step/what-do-if-you-cant-pay-step-step",
+        "text": "What to do if you can't pay step-by-step",
+        "context": "What to do if you can't pay step-by-step"
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [
+      "What to do if you can't pay step-by-step"
+    ],
+    "keywords": [
+      "pay",
+      "step",
+      "bill"
+    ],
+    "tfidf_keywords": [
+      "pay",
+      "bill",
+      "costs"
+    ],
+    "bigrams": [
+      "within ten",
+      "ten day",
+      "pay instalment"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/step-by-step/what-do-if-you-cant-pay/second-reminder-notice",
+    "title": "Second reminder notice",
+    "source": "Second reminder notice",
+    "summary": "",
+    "intro": "",
+    "text": "Part of\nWhat to do if you can't pay step-by-step\nIf you have already been sent a reminder notice and brought your instalment payments up to date but have fallen behind again, we will send you a second reminder notice. If you do not pay this or contact us within ten days to make an arrangement, you will lose your right to pay in instalments. This means the amount outstanding for the financial year will be due in full.\nA Magistrates Court Summons will be issued, the costs for which are £50 and an additional £15 if a Liability Order is obtained from the Magistrate’s Court. These costs are payable by you.\nWe will only send you a maximum of two statutory reminder notices in each financial year, so it is important to keep your payments up to date once you have received a second reminder.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "/council-tax/step-by-step/what-do-if-you-cant-pay-step-step",
+        "text": "What to do if you can't pay step-by-step",
+        "context": "What to do if you can't pay step-by-step"
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [],
+    "keywords": [
+      "reminder",
+      "pay",
+      "send"
+    ],
+    "tfidf_keywords": [
+      "reminder",
+      "pay",
+      "costs"
+    ],
+    "bigrams": [
+      "reminder notice",
+      "payment date",
+      "second reminder"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/step-by-step/what-do-if-you-cant-pay-step-step/final-notice",
+    "title": "Final notice",
+    "source": "Final notice",
+    "summary": "",
+    "intro": "",
+    "text": "Part of\nWhat to do if you can't pay step-by-step\nA final notice will be sent where:\nYou have been previously sent a second reminder notice, which you have paid, but your instalment payments have fallen behind again, or\nYour account has been closed, or the date for the last instalment has passed, and there is an amount outstanding\nThe total amount due must now be paid in full, and you have lost your right to pay in instalments. If you do not pay in full, or contact us, within ten days, you could be sent a Magistrates Court Summons, the costs for which are £60 and an additional £18 if a Liability Order is obtained from the Magistrate’s Court. These costs are payable by you.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "/council-tax/step-by-step/what-do-if-you-cant-pay-step-step",
+        "text": "What to do if you can't pay step-by-step",
+        "context": "What to do if you can't pay step-by-step"
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [
+      "What to do if you can't pay step-by-step"
+    ],
+    "keywords": [
+      "pay",
+      "send",
+      "instalment"
+    ],
+    "tfidf_keywords": [
+      "pay",
+      "sent",
+      "amount"
+    ],
+    "bigrams": [
+      "pay instalment",
+      "pay full",
+      "magistrate court"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/step-by-step/what-do-if-you-cant-pay/magistrates-court-summons",
+    "title": "Magistrate’s Court Summons",
+    "source": "Magistrate’s Court Summons",
+    "summary": "",
+    "intro": "",
+    "text": "Part of\nWhat to do if you can't pay step-by-step\nA summons will be sent if you have not paid your Council Tax after you have received a reminder or a final notice. The Magistrate’s Court issues the summons and will include costs now payable by you.\nIf your Council Tax bill account is in joint names, each party to the bill will receive a summons. This means that each party is jointly and severally liable for the amount shown on the summons, not just an equal share of it.\nIt is up to all the persons named on the summons to decide who should pay the debt. If payment is not received, the council can recover the full amount from any party issued with a summons.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "/council-tax/step-by-step/what-do-if-you-cant-pay-step-step",
+        "text": "What to do if you can't pay step-by-step",
+        "context": "What to do if you can't pay step-by-step"
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [],
+    "keywords": [
+      "summon",
+      "pay",
+      "council"
+    ],
+    "tfidf_keywords": [
+      "summons",
+      "council",
+      "party"
+    ],
+    "bigrams": [
+      "council tax",
+      "issue summon",
+      "each party"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/step-by-step/what-do-if-you-cant-pay/court-hearing",
+    "title": "The court hearing",
+    "source": "The court hearing",
+    "summary": "",
+    "intro": "",
+    "text": "Part of\nWhat to do if you can't pay step-by-step\nThe court is being asked to say that you are liable to pay the Council Tax and to issue a Liability Order against you. The council will provide evidence to this effect, and if the court is satisfied with this, it will issue the Order.\nYou can contact the council to make a payment arrangement at any time. You do not have to attend court. If you do decide to attend, please note that the court cannot, at this stage, consider why you have not paid your Council Tax or any personal or financial difficulties you may be having.\nThere are limited valid defences against the award of a Liability Order for Council Tax. Realistically, there is little chance of you successfully defending the application if your defence falls outside those listed here.\nThe property is not entered in the appropriate Valuation List\nThe Council Tax has not been properly set\nThe Council Tax has not been billed per the legislation\nThe amount demanded has been paid in full (including summons costs). Please note that provided the council has received fully cleared payment, then no further application will be made by the council\nMore than six years have passed since the balance became due\nBankruptcy proceedings have been initiated\nIf you disagree with the amount you have received the summons for, or if you wish to discuss any discounts, reductions or exemptions, please phone 0151 443 4476.\nYou should pay what you can before the court date, although if we do not receive payment in full, we will still ask the court to issue a Liability Order.\nYour credit rating\nThe issue of a Magistrate’s Court Summons for Council Tax will not affect your credit rating. It is a private matter between you and the council, and we will not pass details onto any credit agencies.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [
+      "0151 443 4476"
+    ],
+    "email": [],
+    "links": [
+      {
+        "url": "/council-tax/step-by-step/what-do-if-you-cant-pay-step-step",
+        "text": "What to do if you can't pay step-by-step",
+        "context": "What to do if you can't pay step-by-step"
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [],
+    "keywords": [
+      "council",
+      "court",
+      "tax"
+    ],
+    "tfidf_keywords": [
+      "council",
+      "court",
+      "tax"
+    ],
+    "bigrams": [
+      "council tax",
+      "liability order",
+      "pay council"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/step-by-step/what-do-if-you-cant-pay/outcome",
+    "title": "The outcome",
+    "source": "The outcome",
+    "summary": "",
+    "intro": "",
+    "text": "Part of\nWhat to do if you can't pay step-by-step\nLiability Order (court order)\nA Liability Order is a court order which provides the council further powers to recover Council Tax, including:\nUsing Enforcement Agents, which may involve the sale of some of your property and will incur considerable costs\nObtaining information from you about your employment, earnings or benefit\nDeductions from your earnings, Income Support, Jobseekers Allowance, Pension Credit, Employment Support Allowance or Universal Credit.\nIf you are unable to pay the full balance plus the court cost a letter will be sent to you after the court date with a form called a request for financial information asking for further information. This must be completed within 14 days.\nYou can submit your request for financial information form and your payment offer either online through your\nMy Account\nor post your completed form to the council.\nIf you'd like to discuss your debt you can\ncontact us\n.\nThe council will inform you if your offer is not accepted, but you should pay as offered.\nWe may not accept your payment offer if we consider it will take too long for you to clear the debt.\nDeduction of benefits order\nIf the Magistrate’s Court grants a Liability Order for non-payment of Council Tax, the council can issue a deduction of benefits order if you are in receipt of Income Support, Job Seekers Allowance, Pension Credit, Employment Support Allowance or Universal Credit.\nThis order requires that a set amount be deducted from each payment you receive. The amount to be deducted will be advised to you by the DWP.\nAttachment of earnings\nIf the Magistrate’s Court grants a Liability Order for non-payment of Council Tax, the council can issue an attachment of earnings order. This legal document is sent to your employer, requiring them to take money from your wage and send it to the council to pay your Council Tax. They can also take an extra £1 for each deduction for their administration costs.\nWe will send a copy of the order to you as well as to your employer.\nThe amount deducted is a percentage of your net pay, and details of this will be sent to you with the attachment of earnings order.\nOvertime and sick pay are also included as net pay.\nIf you leave your current employment, you must tell us immediately.\nDeductions to be made under an attachment of earnings order\nTable 1\nDeductions from weekly earnings\nNet earnings\nDeduction rate\n(\n%\n)\nNot exceeding £75\n0\nExceeding £75 but not exceeding £135\n3\nExceeding £135 but not exceeding £185\n5\nExceeding £185 but not exceeding £225\n7\nExceeding £225 but not exceeding £355\n12\nExceeding £355 but not exceeding £505\n17\nExceeding £505\n17 in respect of the first £505 and 50 in respect of the remainder\nTable 2\nDeductions from monthly earnings\nNet earnings\nDeduction rate\n(\n%\n)\nNot exceeding £300\n0\nExceeding £300 but not exceeding £550\n3\nExceeding £550 but not exceeding £740\n5\nExceeding £740 but not exceeding £900\n7\nExceeding £900 but not exceeding £1,420\n12\nExceeding £1,420 but not exceeding £2,020\n17\nExceeding £2,020\n17 in respect of the first £2,020 and 50 in respect of the remainder\nTable 3\nDeductions from daily earnings\nNet earnings\nDeduction rate\n(\n%\n)\nNot exceeding £11\n0\nExceeding £11 but not exceeding £20\n3\nExceeding £20 but not exceeding £27\n5\nExceeding £27 but not exceeding £33\n7\nExceeding £33 but not exceeding £52\n12\nExceeding £52 but not exceeding £72\n17\nExceeding £72\n17 in respect of the first £72 and 50 in respect of the remainder",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "/council-tax/step-by-step/what-do-if-you-cant-pay-step-step",
+        "text": "What to do if you can't pay step-by-step",
+        "context": "What to do if you can't pay step-by-step"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk//my-account",
+        "text": "My Account",
+        "context": "You can submit your request for financial information form and your payment offer either online through yourMy Accountor post your completed form to the council."
+      },
+      {
+        "url": "https://www.knowsley.gov.uk//contact-us",
+        "text": "contact us",
+        "context": "If you'd like to discuss your debt you cancontact us."
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [],
+    "keywords": [
+      "exceed",
+      "order",
+      "earning"
+    ],
+    "tfidf_keywords": [
+      "exceeding",
+      "order",
+      "earnings"
+    ],
+    "bigrams": [
+      "exceed exceed",
+      "liability order",
+      "council tax"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/council-tax/step-by-step/what-do-if-you-cant-pay/enforcement-agent-fees",
+    "title": "Enforcement Agent fees",
+    "source": "Enforcement Agent fees",
+    "summary": "",
+    "intro": "",
+    "text": "Part of\nWhat to do if you can't pay step-by-step\nFrom 6 April 2014, new regulations apply, and the council can instruct an Enforcement Agent (formerly known as a bailiff) to collect the outstanding Council Tax debt from you if a Liability Order has been issued in your name. We may do this if you have not made or kept to an agreed repayment plan or have not completed and returned the request for financial information form.\nBefore we ask the Enforcement Agent to visit you, we will have sent you details once the court have issued a Liability Order of the fees, which may be charged to you if an enforcement agent is instructed.\nIf your debt has been passed to an Enforcement Agent, you will incur a fixed fee of £75 upon them issuing a letter to you by post.  Any payments or offers of repayment should be made to the Enforcement Agents and not the Council.\nIf the Enforcement Agent visits you, there is a fixed fee of £235 plus 7.5% for any balance due above £1,500.\nThe Enforcement Agent will normally ask you for payment in full; however, if you cannot meet this request, the Enforcement Agent will normally make a repayment arrangement with you. The Enforcement Agent may enter into a Controlled Goods Agreement, where the agent lists your possessions equal in value to your debt.\nIf your possessions are subject to a Controlled Goods Agreement, you cannot dispose or sell them without the Enforcement Agent's permission.\nIf you do not pay as agreed and have signed a Controlled Goods Agreement, the Enforcement Agent may enter your property by force if necessary, to take the goods listed. You will be charged for the removal and sale of them. The fee for this is £110 plus 7.5% for any balance due above £1,500.\nIf the Enforcement Agent believes that there are insufficient items to clear the debt, we will then consider other recovery options such as committal action, bankruptcy, imprisonment or a charging order against your property.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "/council-tax/step-by-step/what-do-if-you-cant-pay-step-step",
+        "text": "What to do if you can't pay step-by-step",
+        "context": "What to do if you can't pay step-by-step"
+      }
+    ],
+    "department": "Council Tax",
+    "topics": [],
+    "keywords": [
+      "agent",
+      "enforcement",
+      "debt"
+    ],
+    "tfidf_keywords": [
+      "agent",
+      "enforcement",
+      "debt"
+    ],
+    "bigrams": [
+      "enforcement agent",
+      "control good",
+      "good agreement"
+    ],
+    "crawl_version": "2025-04-23"
+  }
+]

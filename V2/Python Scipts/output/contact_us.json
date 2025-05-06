@@ -1,0 +1,725 @@
+[
+  {
+    "url": "https://www.knowsley.gov.uk/contact-us/key-services-and-emergency-contacts",
+    "title": "Key Services and Emergency Contacts",
+    "source": "Key Services and Emergency Contacts",
+    "summary": "You can contact a range of services across the council during office hours as well as out of hours.",
+    "intro": "You can contact a range of services across the council during office hours as well as out of hours.",
+    "text": "Getting in touch\nThe best way to contact the council is by using the online services available.\nMy Account\nApply for it\nBook it\nPay it\nReport it\nAccess to these services is available online 24/7, there are no queues, and it’s free.\nIf you need access to a computer or Wi-Fi, you can visit your\nlocal library\nand use our scan stations to provide evidence for council tax, benefits and blue badges.\nIf you can’t find what you’re looking for online and wish to speak to someone on the phone, you can find the council’s key service contacts below. Lines are open Monday to Friday from 9am to 4:45pm. We are not open on bank holidays.\nFor customers who require a face-to-face enquiry, an appointment can be made, and you will be seen in a local library. Please use our online chat service or call 0151 489 6000 and ask our advisors for more information.\nTo make a payment, call our 24-hour payment line (Accepting payments for Council Tax, Business Rates, Sundry Debts, Overpaid Housing Benefits & Fixed Penalty Notices) at 0151 443 4476.\nAlternatively,\nmake an online payment\n.\nAre you worried about the cost of living? Call 0151 443 3300 to speak to an advisor for support\nService contact numbers\nService\nContact number\nBuilding control and dangerous buildings\n0151 443 2380\nCar parking, street lighting, traffic management and highway enquiries\n0151 443 3100\nCouncil Tax and 24-hour payment line\n0151 443 4476\nEducation\n0151 443 3232\nElections\n0151 443 2222\nEnvironmental Health (includes fly-tipping, Environmental permits, and food safety)\n0151 443 4712\nEnvironmental services (includes  pest control, bin collections, street cleaning, Bulky item collections, clinical waste collections)\n0151 443 2400\nFurnished tenancies\n0151 443 2225\nCost of living support helpline\n0151 443 3300\nHome-to-School Transport\n0151 443 2500\nHousing advice and homelessness\n0151 443 2333\nHousing benefits\n0151 443 4042\nKnowsley emergency support scheme\n0151 443 3200\nLeisure\n0151 443 2200\nLicensing\n0151 443 2300\nDog wardens\n0151 443 4712\nPayments from the council\n0151 443 4371\nPayments to the Sundry Debtor Team\n0151 443 4455\nParking permit enquiries (APCOA)\n0345 319 0430\nPlanning enquiries\n0151 443 2381\nPress and media enquiries\n07771 542415\nProperty Pool Plus\n0151 443 2220\nRegeneration projects\n0151 443 4031\nRegistrars\n0151 443 2900\nSocial Services\n0151 443 2600\nIf you can’t find a number for the service you require, please call General Enquiries on 0151 489 6000\n24-hour emergency contacts\nService\nContact number\nHighways (including footways and street lighting)\n0151 443 3100\nHomelessness\n0151 443 2333\nLivv Housing repairs\n0800 561 0007\nSocial services\n0151 443 2600",
+    "alert": "",
+    "has_alert": false,
+    "phone": [
+      "0151 443 4031",
+      "0151 443 2400",
+      "0151 443 4042",
+      "0151 443 3100",
+      "0151 443 2333",
+      "0151 489 6000",
+      "0151 443 4712",
+      "0151 443 2380",
+      "0151 443 3300",
+      "0151 443 2225",
+      "0151 443 4455",
+      "0151 443 2300",
+      "0151 443 2222",
+      "0151 443 2381",
+      "0151 443 3200",
+      "0151 443 2600",
+      "0151 443 2200",
+      "0151 443 2900",
+      "0151 443 4476",
+      "0151 443 2500",
+      "0151 443 3232",
+      "0800 561 0007",
+      "0151 443 2220",
+      "0151 443 4371"
+    ],
+    "email": [],
+    "links": [
+      {
+        "url": "/my-account",
+        "text": "My Account",
+        "context": "My Account"
+      },
+      {
+        "url": "/apply-it",
+        "text": "Apply for it",
+        "context": "Apply for it"
+      },
+      {
+        "url": "/book-it",
+        "text": "Book it",
+        "context": "Book it"
+      },
+      {
+        "url": "https://ip.e-paycapita.com/AIP/itemSelectionPage.do?link=showItemSelectionPage&siteId=63&languageCode=EN&source=AIP",
+        "text": "Pay it",
+        "context": "Pay it"
+      },
+      {
+        "url": "/report-it",
+        "text": "Report it",
+        "context": "Report it"
+      },
+      {
+        "url": "/libraries-leisure-and-culture/libraries/discover-knowsleys-libraries",
+        "text": "local library",
+        "context": "If you need access to a computer or Wi-Fi, you can visit yourlocal libraryand use our scan stations to provide evidence for council tax, benefits and blue badges."
+      },
+      {
+        "url": "https://ip.e-paycapita.com/AIP/itemSelectionPage.do?link=showItemSelectionPage&siteId=63&languageCode=EN&source=AIP",
+        "text": "make an online payment",
+        "context": "Alternatively,make an online payment."
+      }
+    ],
+    "department": "Contact us",
+    "topics": [],
+    "keywords": [
+      "service",
+      "payment",
+      "contact"
+    ],
+    "tfidf_keywords": [
+      "0151",
+      "443",
+      "council"
+    ],
+    "bigrams": [
+      "service contact",
+      "council tax",
+      "contact number"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/contact-us/face-face-appointments",
+    "title": "Face-to-face appointments",
+    "source": "Face-to-face appointments",
+    "summary": "Find out the best way for us to deal with your enquiry.",
+    "intro": "Find out the best way for us to deal with your enquiry.",
+    "text": "Most of our enquiries can be dealt with online or by contacting customer service using\nonline chat\nor by phone.\nHowever, if you would prefer a face-to-face appointment, these take place in our libraries by appointment only.\nAppointment locations\nKirkby Library\nPrescot Library\nHalewood Library\nHuyton Library\nContact\nTo discuss making an appointment call 0151 489 6000.\nPlease be aware you will only be seen with an appointment.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "?openConversation",
+        "text": "online chat",
+        "context": "Most of our enquiries can be dealt with online or by contacting customer service usingonline chator by phone."
+      },
+      {
+        "url": "https://yourlibrary.knowsley.gov.uk/branches/kirkby/",
+        "text": "Kirkby Library",
+        "context": "Kirkby Library"
+      },
+      {
+        "url": "https://yourlibrary.knowsley.gov.uk/branches/prescot/",
+        "text": "Prescot Library",
+        "context": "Prescot Library"
+      },
+      {
+        "url": "https://yourlibrary.knowsley.gov.uk/branches/halewood/",
+        "text": "Halewood Library",
+        "context": "Halewood Library"
+      },
+      {
+        "url": "https://yourlibrary.knowsley.gov.uk/branches/huyton/",
+        "text": "Huyton Library",
+        "context": "Huyton Library"
+      }
+    ],
+    "department": "Contact us",
+    "topics": [],
+    "keywords": [
+      "appointment",
+      "library",
+      "online"
+    ],
+    "tfidf_keywords": [
+      "appointment",
+      "library",
+      "face"
+    ],
+    "bigrams": [
+      "most enquiry",
+      "enquiry deal",
+      "deal online"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/contact-us/have-your-say/comments-and-complaints-about-landlord",
+    "title": "Comments and complaints about a landlord",
+    "source": "Comments and complaints about a landlord",
+    "summary": "Find more information on private housing rentals. Including resources for tenant rights and responsibilities, and dealing with landlord issues.",
+    "intro": "Find more information on private housing rentals. Including resources for tenant rights and responsibilities, and dealing with landlord issues.",
+    "text": "Social housing\nKnowsley Council does not own any housing. If you wish to make a comment or complaint, please contact the relevant housing association.\nLivv Housing\nLivv Housing Group contact\nPrivate housing\nYour landlord, or their agent, has legal responsibilities to manage your tenancy fairly and to keep your home up to a decent standard. As a private tenant you also have rights and responsibilities too.\nLandlords can sign up to our Knowsley Landlord Accreditation Scheme (KLAS) to achieve and maintain high standards of accommodation across Knowsley.\nGet advice\nIf your landlord or agent doesn't come up to the standards, get advice straight away from out resources linked below.\nYour deposit is not protected,\nfind out more here\n.\nYou don't have a tenancy agreement, or you don't understand it,\nfind out more here\n.\nYour landlord hasn't completed a repair you have requested,\nfind out more here\n.\nYour landlord is not meeting safety standards,\nfind out more here\n.\nYour landlord or their agent is bothering you at home or harassing you,\nfind our more here\n.\nYour landlord is trying to evict you;\nfind out more here\n.\nYou asked your landlord for repairs or complained about conditions in your home,\nfind out more here\n.\nYou rent from a letting or managing agent you can\ncontact their managing redress scheme\nYou are worried about becoming homeless,\nfind out more here\n.\nRights and responsibilities\nSee more about private renting rights and responsibilities, and dealing with landlord and agent problems:\nShelter website: private renting\nGovernment website: private renting\n.\nMake a complaint\nIf you want to make a complaint about a private landlord or agent, you should get in touch with them directly.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://livvhousinggroup.com/contact-us/",
+        "text": "Livv Housing Group contact",
+        "context": "Livv Housing Group contact"
+      },
+      {
+        "url": "https://england.shelter.org.uk/housing_advice/tenancy_deposits",
+        "text": "find out more here",
+        "context": "Your deposit is not protected,find out more here."
+      },
+      {
+        "url": "https://england.shelter.org.uk/housing_advice/private_renting/types_of_renting_agreement",
+        "text": "find out more here",
+        "context": "You don't have a tenancy agreement, or you don't understand it,find out more here."
+      },
+      {
+        "url": "https://england.shelter.org.uk/housing_advice/repairs/what_to_do_if_your_private_landlord_wont_do_repairs",
+        "text": "find out more here",
+        "context": "Your landlord hasn't completed a repair you have requested,find out more here."
+      },
+      {
+        "url": "https://www.gov.uk/private-renting/your-landlords-safety-responsibilities",
+        "text": "find out more here",
+        "context": "Your landlord is not meeting safety standards,find out more here."
+      },
+      {
+        "url": "https://england.shelter.org.uk/housing_advice/eviction/harassment_by_a_private_landlord",
+        "text": "find our more here",
+        "context": "Your landlord or their agent is bothering you at home or harassing you,find our more here."
+      },
+      {
+        "url": "https://england.shelter.org.uk/housing_advice/eviction",
+        "text": "find out more here",
+        "context": "Your landlord is trying to evict you;find out more here."
+      },
+      {
+        "url": "https://england.shelter.org.uk/housing_advice/repairs/revenge_eviction_if_you_ask_for_repairs",
+        "text": "find out more here",
+        "context": "You asked your landlord for repairs or complained about conditions in your home,find out more here."
+      },
+      {
+        "url": "https://england.shelter.org.uk/housing_advice/private_renting/letting_agent_redress_schemes",
+        "text": "contact their managing redress scheme",
+        "context": "You rent from a letting or managing agent you cancontact their managing redress scheme"
+      },
+      {
+        "url": "/housing/homelessness/knowsley-housing-solutions-team/homelessness-and-homelessness-prevention",
+        "text": "find out more here",
+        "context": "You are worried about becoming homeless,find out more here."
+      },
+      {
+        "url": "https://england.shelter.org.uk/housing_advice/private_renting",
+        "text": "Shelter website: private renting",
+        "context": "Shelter website: private renting"
+      },
+      {
+        "url": "https://www.gov.uk/private-renting",
+        "text": "Government website: private renting",
+        "context": "Government website: private renting."
+      }
+    ],
+    "department": "Contact us",
+    "topics": [],
+    "keywords": [
+      "landlord",
+      "out",
+      "find"
+    ],
+    "tfidf_keywords": [
+      "landlord",
+      "find",
+      "here"
+    ],
+    "bigrams": [
+      "find out",
+      "out here",
+      "landlord agent"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/contact-us/compliments-complaints-and-feedback/council-compliments-complaints-and-feedback",
+    "title": "Council compliments, complaints and feedback",
+    "source": "Council compliments, complaints and feedback",
+    "summary": "Find out about Council compliments, complaints and feedback procedure",
+    "intro": "Find out about Council compliments, complaints and feedback procedure",
+    "text": "A compliment is an expression of satisfaction about the standard of service we provide. We are always glad to hear from people who are satisfied with the services we offer.\nAll compliments are recorded, and a copy is sent to the relevant service manager to provide feedback to the member of staff or service.\nWe deal with complaints in line with the Local Government and Social Care Ombudsman’s complaint code.\nWhen you complain to us, we should put right what has gone wrong and learn from it.\nIf you have submitted a request for a service, your form will be passed to the service area for action. If necessary, they will contact you directly with any updates.\nIf your complaint relates to Children or Adult Social Care Services, you can also telephone\n0151 443 3231\n.\nFurther information can be found below.\nCompliments, complaints and feedback procedure\nCompliments, complaints and feedback procedure\nMost common Report It issues\nThe most common ‘report it’ issues are:\nReport a missed bin collection\nReport dog fouling\nReport a problem with a road or pavement\nReport a faulty or broken streetlight\nReport fly-tipping\nReport noise\nReport another problem\nIf you have not already reported your issue to the service, we may treat it as a first-time service request, such as a missed bin collection.\nWhat cannot be considered under the complaint procedure\nThe complaint procedure does not include issues where there is a right of appeal, such as refusal of planning permission, a damage or injury claim, issue of a penalty charge or fixed penalty notice and blue badge, housing benefit or council tax reduction appeals. However, the complaint may be considered if it relates to the way the matter has been administered.\nThere are certain matters the Council do not deal with through the complaint process and stages in this procedure. The council offers a variety of services, and there may be more suitable methods for addressing certain issues.\nService requests\nInitial service requests are not part of the complaints process. Service requests are defined as \"a request that the organisation provides or improves a service, fixes a problem or reconsiders a decision\". This could be you alerting us for the first time that action is required i.e. reporting a missed bin or a broken streetlight.\nThese requests may however become a complaint if we do not deal with them appropriately, as referenced in the Local Government and Social Care Ombudsman's complaint handling code:\nService requests are not complaints but may contain expressions of dissatisfaction. Organisations should have the opportunity to deal with a service request before a complaint is made. A complaint may be raised when the individual expresses dissatisfaction with the response to their service request, even if the handling of the service request remains ongoing.\nIf the Council receives a request for a service via the Have Your Say process, the service request will be sent to the relevant Team for the request to be responded to.\nRepeat Complaints\nAny complaint that has been fully responded to previously.\nComplaints regarding issues that occurred over twelve months ago\nWe would not normally investigate complaints about something that happened more than a year ago, unless there are exceptional circumstances.\nComplaints about councillors or MPs\nIf you believe an elected member or co-opted member has breached the Council’s code of conduct, further information and how to submit a complaint can be found\nhere\n.\nFor MPs contact:\nOffice of the Parliamentary Commissioner for Standards\nHouse of Commons\nLondon\nSW1A 0AA\nEmail:\nstandardscommissioner@parliament.uk\nPhone:\n020 7219 1883\nMaking an insurance claim against the Council\nInsurance claims are not covered under this policy. If you wish to make a claim, please write to;\nInsurance Claims\nWestmorland Road\n2nd Floor Nutgrove Villa\nHuyton\nL36 6GA\nEmail:\ninsurance@knowsley.gov.uk\nAppeals and Tribunals\nIf there is a more appropriate individual or organisation to deal with your complaint such as a tribunal, ombudsman or court it will be used to handle your concerns.\nAppeals processes are in place for various areas, such as school admissions, benefit claims, and planning applications. To make sure you are following the appropriate path for your concerns, please refer to the guidance below regarding matters that we cannot address.\nIf an appeals procedure applies to your complaint, we will refer you to this and notify you of our actions at the start.\nAppeals procedures must be completed before we can investigate any other issues you raise with us.\nThe following are examples of complaints where there is an appeals process and so we will not deal with them under this policy.\nThis list is not exhaustive:\nFixed Penalty or Parking Charge Notices\nThere are legal procedures that must be followed when challenging a fixed penalty or parking charge notice. An appeal must be made using the contact details on the notice.\nFurther information can be found on the website using the below links.\nFixed penalties for environmental crimes\nCivil parking enforcement\nPlanning decisions or enforcement\nComplaints relating to a planning application decision or an enforcement notice must follow a separate procedure. If you suspect a planning violation you must submit a written complaint to the service. Further information can be found on the website using the links below.\nPlanning enforcement\nHow to appeal a planning decision\nComplaints about schools and education\nIf your complaint is about a school, you must make it directly to the school. Further information can be found on the Knowsley website\nhere\n.\nFollowing the outcome of a school admissions appeal by an admissions appeals panel, complaints about the process should be sent directly to the Local Government and Social Care Ombudsman. The ombudsman is independent of Knowsley Metropolitan Borough Council and has the authority to investigate these types of complaints on your behalf.\nThey can be contacted as follows:\nLocal Government and Social Care Ombudsman\nPO Box 4771\nCoventry\nCV4 0EH\nWebsite:\nhttps://www.lgo.org.uk/\nPhone:\n0300 061 0614\nHousing Benefit of Universal Credit\nIf your complaint is regarding a decision about your entitlement to housing benefit you should contact the service. In certain circumstances you can appeal to an independent tribunal. Further information can be found on the\nKnowsley housing benefit claim web page\n.\nIf you disagree with the decision about your Universal Credit you would need to contact the\nDepartment for Work and pensions\n.\nBlue Badge\nIf your complaint is relating to a decision to refuse a Blue Badge following an assessment, you have the right to appeal. Appeals can be made in writing to;\nThe Blue Badge Team\nCentre for Independent Living\nUnit 11, Brickfields\nHuyton\nL36 6HY\nIf you are unhappy due to having a blue badge confiscated, you should contact\n0151 489 6000\n.\nCouncil Tax support\nIf your complaint is regarding a decision about your entitlement to council tax reduction or other council tax support, you should contact the service to request explain and request a reconsideration. Following this, you can appeal if you disagree with the decision.\nFurther information can be found on the Appealing Council tax reduction decisions page on the\nKnowsley Council Appealing Council Tax reductions web page\n.\nNoise complaints\nKnowsley Councils Environmental Health team investigate noise nuisance issues. Further information about how to report a noise nuisance can be found on the Knowsley website\nhere\n.\nAntisocial behaviour\nTo report instances of antisocial behaviour, please find information and who to contact on the\nKnowsley website Anti-social behaviour page\n.\nFly Tipping\nIf you would like to report fly tipping to Knowsley Council, please visit the\nfly tipping page on the Knowsley website\n.\nComplaints about another Council or Local Authority\nSometimes it is unclear which Council or Local Authority is responsible for the service or issue. If Knowsley Council receive a complaint relating to another Council, we will send the complaint to the relevant Council or organisation and advise you accordingly.\nLandlords including LIVV Housing\nIf you want to make a complaint about a private landlord or housing association, please contact them directly.\nIf your comment or complaint relates to LIVV Knowsley (formerly known as Knowsley Housing Trust), you must contact them directly.\nFurther information can be found on the\nComments and complaints about a landlord page\non the Knowsley website.\nEmail address for making a complaint is:\ncontactcentre@livvhousinggroup.com\nTelephone number\n0151 290 7000\nFreephone number:\n0800 561 0007\nLegal Proceedings\nIf a complaint includes a legal challenge questioning the legality of a decision, action or inaction, it will follow a separate process from the Ombudsman and will not be addressed under the complaint policy.\nAllegations of fraud, theft, or corruption by a member of our staff\nWe are committed to being open and accountable for our staff. If you have serious concerns about our staff, please come forward and let us know. All concerns will be treated in the strictest of confidence. Whilst these will not be dealt with as a complaint, they will be forwarded to the relevant service who will respond to you directly.\nA ban from or restriction on entering council premises or contacting the council\nIf you disagree with restrictions we will review if the restrictions have been applied appropriately. Following the review, if you remain unhappy, you will need to ask the Local Government and Social Care Ombudsman to consider whether or not our decision has been reasonable.\nYou can write to the Ombudsman at;\nLocal Government and Social Care Ombudsman\nPO Box 4771\nCoventry\nCV4 0EH\nWebsite:\nhttps://www.lgo.org.uk/\nPhone:\n0300 061 0614\nEmployment Issues\nComplaints made by employees concerning their employment will be referred to Human Resources to be considered in line with internal HR procedures.\nComplaints made by job applicants who wish to complain about the recruitment and selection process will be dealt with by the relevant recruitment manager.\nComplaints about social care services\nThere are two acts of parliament that require local authority social care services to have a procedure for considering representations (including complaints) by an individual or anyone acting on their behalf in relation to the discharge of, or any failure to discharge, any of their social services functions.\nThe two acts are:\nThe Children Act 1989 Representations Procedure (England) Regulations 2006\nThe Local Authority Social Services and National Health Service Complaints (England)Regulations 2009\nComplaints about either adult or children’s social care issues are dealt with under separate statutory timescales and are outside this policy.\nComplaints relating to Freedom of Information Requests (FOI’S) / Environmental Information Regulation Requests (EIR’s)\nIf you are not satisfied with the response to your freedom of information request or environmental information regulation request the matter can be escalated with a request for an internal review.\nInternal review requests should be made within 40 working days of the initial response. Knowsley Council are not obliged to provide a review if it is requested after more than 40 working days. We will acknowledge an internal review request and provide a target date for response, which should usually be within 20 working days.\nThere may be circumstances where we may require more time to complete an internal review, for example if we need to address complex issues, consult with third parties, or consider substantial amounts of information.\nIn these circumstances we will inform the requestor that we will need more time and provide a reasonable target date. This should be no more than an additional 20 working days unless there are legitimate reasons why a longer extension is necessary.\nAs with requests for information, if we require clarification for your internal review request then the timescale to respond does not start until the clarification is provided by you.\nProviding an internal review within a maximum of 40 working days matches the timescales for internal reviews in the Environmental Information Regulations 2004 (EIR) - in which internal reviews are a statutory requirement.\nThe\nFreedom of Information code of practice can be viewed here\n.\nStage One\nThis is the first stage, and we will acknowledge receipt of your complaint within 3 working days. Our acknowledgement can be made verbally or in writing and will include confirmation that your complaint has been received and the date or timeframe by which you can expect to receive a response.\nThe complaint will be passed to the service area, who will arrange for the investigation and a response within 15 working days from the date of the complaint. If the complaint is going to take longer than 15 working days, you will be notified by the Customer Liaison Team and provided with the new expected response time\nA response will be provided to you by email or letter depending on your preference. On some occasions a complaint may be resolved by telephone however, you will receive a follow-up email or letter confirming the details of the conversation.\nEvery effort will be made to resolve your complaint at stage one.\nStage Two\nIf you remain dissatisfied following our initial investigation, you can ask for your complaint to be looked at again by a senior officer. There may be instances when the council will advise you to refer your concerns directly to the Local Government and Social Care Ombudsman (LGO) following the Stage One response. This will be clearly explained to you and will only occur when the council is satisfied that you have had an opportunity to have your queries considered and all issues raised by you have been addressed.\nWe ask that that this is done within a reasonable timescale. We would expect a complaint to be progressed within 20 working days of a stage one response, however, this this can be extended in exceptional circumstances.\nWhen requesting a review of your complaint, it is helpful for you to be clear in your reasons for progressing your complaint and what your desired outcome is.\nWe will appoint a senior officer to review your complaint independent of the service area you have complained about. The complaint will be acknowledged within 3 working days as at the initial stage.\nIn the review, we will look at how we dealt with your original complaint, and we will also respond to any further related issues that you have raised with us (although not new complaints). Our policy is to respond in full to you within 20 working days of receipt of your complaint, wherever possible.\nIf we cannot respond in full within the acknowledged timescale, we will provide you with a holding response providing you with the date you should expect a response.\nNext steps\nThere is no further right of appeal to the council following completion of a review at stage two of this policy. Within our final response, we will inform you of your right to take your complaint further if you remain dissatisfied.\nLocal Government and Social Care Ombudsman\nThe Local Government and Social Care Ombudsman look at individual complaints about councils, all adult social care providers (including care homes and home care agencies) and some other organisations providing public services. They are the final stage for complaints about councils and they are a free service. The LGO will not usually investigate a complaint until the council has had an opportunity to investigate and answer it first.\nThe Local Government and Social Care Ombudsman\nPO Box 4771\nCoventry\nCV4 0EH\nPhone:\n0300 061 0614\nLocal Government and social care ombudsman website\nPolicy for Managing Unreasonable Actions by Complainants\nSome customers act in ways we consider unreasonable when trying to resolve their complaints.\nWe take all complaints seriously and aim to resolve them fairly. Usually, we can work with complainants to reach a solution that works for both sides. However, if communication becomes difficult, we may need to take appropriate steps.\nThe Local Government and Social Care Ombudsman defines unreasonable actions as:\nUnreasonable actions are those which, because of the nature or frequency of contact with an organisation, hinder the organisation’s delivery of services or consideration of complaints.\nWe have a specific policy to address these situations and outline our approach, which can be found\nhere\n.\nSubmit a compliment, complaint or provide feedback\nSubmit your compliment, complaint or provide feedback online via the link below. If you have supporting documents, you can upload them at the bottom of the form.\nStart here\nAlternatively, you can write to;\nCustomer Liaison Team\nKnowsley Council\nNutgrove Villa\nWestmorland Road\nL36 6GA\nEmail:\nhaveyoursay@knowsley.gov.uk",
+    "alert": "",
+    "has_alert": false,
+    "phone": [
+      "0300 061 0614",
+      "0151 443 3231",
+      "0800 561 0007",
+      "0151 290 7000",
+      "0151 489 6000"
+    ],
+    "email": [
+      "insurance@knowsley.gov.uk",
+      "haveyoursay@knowsley.gov.uk",
+      "contactcentre@livvhousinggroup.com",
+      "standardscommissioner@parliament.uk"
+    ],
+    "links": [
+      {
+        "url": "callto:+441514433231",
+        "text": "0151 443 3231",
+        "context": "If your complaint relates to Children or Adult Social Care Services, you can also telephone0151 443 3231."
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/bins-waste-and-recycling/your-household-bins/report-missed-bin-collection",
+        "text": "Report a missed bin collection",
+        "context": "Report a missed bin collection"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/environment/environmental-health/dogs/dog-fouling",
+        "text": "Report dog fouling",
+        "context": "Report dog fouling"
+      },
+      {
+        "url": "https://knowsleytransaction.mendixcloud.com/index.html",
+        "text": "Report a problem with a road or pavement",
+        "context": "Report a problem with a road or pavement"
+      },
+      {
+        "url": "https://www.lightsoninknowsley.co.uk/Public/ReportAccessible.aspx",
+        "text": "Report a faulty or broken streetlight",
+        "context": "Report a faulty or broken streetlight"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/bins-waste-and-recycling/fly-tipping",
+        "text": "Report fly-tipping",
+        "context": "Report fly-tipping"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/environment/environmental-health/noise-complaints",
+        "text": "Report noise",
+        "context": "Report noise"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/report-it",
+        "text": "Report another problem",
+        "context": "Report another problem"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/council-and-elections/councillors-and-elected-representatives/making-complaint-about-elected-or-co",
+        "text": "here",
+        "context": "If you believe an elected member or co-opted member has breached the Council’s code of conduct, further information and how to submit a complaint can be foundhere."
+      },
+      {
+        "url": "mailto:standardscommissioner@parliament.uk",
+        "text": "standardscommissioner@parliament.uk",
+        "context": "Email:standardscommissioner@parliament.uk"
+      },
+      {
+        "url": "callto:+442072191883",
+        "text": "020 7219 1883",
+        "context": "Phone:020 7219 1883"
+      },
+      {
+        "url": "mailto:insurance@knowsley.gov.uk",
+        "text": "insurance@knowsley.gov.uk",
+        "context": "Email:insurance@knowsley.gov.uk"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/bins-waste-and-recycling/fixed-penalties-environmental-crimes",
+        "text": "Fixed penalties for environmental crimes",
+        "context": "Fixed penalties for environmental crimes"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/streets-roads-and-transport/parking/civil-parking-enforcement",
+        "text": "Civil parking enforcement",
+        "context": "Civil parking enforcement"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/planning-and-development/planning-enforcement",
+        "text": "Planning enforcement",
+        "context": "Planning enforcement"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/planning-and-development/planning-permission/how-appeal-planning-decision",
+        "text": "How to appeal a planning decision",
+        "context": "How to appeal a planning decision"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/education-and-schools/make-complaint-about-school",
+        "text": "here",
+        "context": "If your complaint is about a school, you must make it directly to the school. Further information can be found on the Knowsley websitehere."
+      },
+      {
+        "url": "https://www.lgo.org.uk/",
+        "text": "https://www.lgo.org.uk/",
+        "context": "Website:https://www.lgo.org.uk/"
+      },
+      {
+        "url": "callto:+443000610614",
+        "text": "0300 061 0614",
+        "context": "Phone:0300 061 0614"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/benefits-and-support/benefits-you-may-be-entitled/housing-benefit/make-housing-benefit-claim-0",
+        "text": "Knowsley housing benefit claim web page",
+        "context": "If your complaint is regarding a decision about your entitlement to housing benefit you should contact the service. In certain circumstances you can appeal to an independent tribunal. Further information can be found on theKnowsley housing benefit claim web page."
+      },
+      {
+        "url": "https://www.gov.uk/appeal-benefit-decision",
+        "text": "Department for Work and pensions",
+        "context": "If you disagree with the decision about your Universal Credit you would need to contact theDepartment for Work and pensions."
+      },
+      {
+        "url": "callto:+441514896000",
+        "text": "0151 489 6000",
+        "context": "If you are unhappy due to having a blue badge confiscated, you should contact0151 489 6000."
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/council-tax/ways-reduce-your-council-tax-bill/appealing-council-tax-reduction-decisions",
+        "text": "Knowsley Council Appealing Council Tax reductions web page",
+        "context": "Further information can be found on the Appealing Council tax reduction decisions page on theKnowsley Council Appealing Council Tax reductions web page."
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/environment/environmental-health/noise-complaints",
+        "text": "here",
+        "context": "Knowsley Councils Environmental Health team investigate noise nuisance issues. Further information about how to report a noise nuisance can be found on the Knowsley websitehere."
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/crime-and-safety/anti-social-behaviour",
+        "text": "Knowsley website Anti-social behaviour page",
+        "context": "To report instances of antisocial behaviour, please find information and who to contact on theKnowsley website Anti-social behaviour page."
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/bins-waste-and-recycling/fly-tipping",
+        "text": "fly tipping page on the Knowsley website",
+        "context": "If you would like to report fly tipping to Knowsley Council, please visit thefly tipping page on the Knowsley website."
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/contact-us/have-your-say/comments-and-complaints-about-landlord",
+        "text": "Comments and complaints about a landlord page",
+        "context": "Further information can be found on theComments and complaints about a landlord pageon the Knowsley website."
+      },
+      {
+        "url": "mailto:contactcentre@livvhousinggroup.com",
+        "text": "contactcentre@livvhousinggroup.com",
+        "context": "Email address for making a complaint is:contactcentre@livvhousinggroup.com"
+      },
+      {
+        "url": "callto:+441512907000",
+        "text": "0151 290 7000",
+        "context": "Telephone number0151 290 7000"
+      },
+      {
+        "url": "callto:+448005610007",
+        "text": "0800 561 0007",
+        "context": "Freephone number:0800 561 0007"
+      },
+      {
+        "url": "https://www.lgo.org.uk/",
+        "text": "https://www.lgo.org.uk/",
+        "context": "Website:https://www.lgo.org.uk/"
+      },
+      {
+        "url": "callto:+443000610614",
+        "text": "0300 061 0614",
+        "context": "Phone:0300 061 0614"
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/5bacc7eb40f0b62dbe5321ba/CoP_FOI_Code_of_Practice_-_Minor_Amendments_20180926_.pdf",
+        "text": "Freedom of Information code of practice can be viewed here",
+        "context": "TheFreedom of Information code of practice can be viewed here."
+      },
+      {
+        "url": "callto:+443000610614",
+        "text": "0300 061 0614",
+        "context": "Phone:0300 061 0614"
+      },
+      {
+        "url": "https://www.lgo.org.uk/",
+        "text": "Local Government and social care ombudsman website",
+        "context": "Local Government and social care ombudsman website"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/contact-us/have-your-say/policy-managing-unreasonable-actions-complainants",
+        "text": "here",
+        "context": "We have a specific policy to address these situations and outline our approach, which can be foundhere."
+      },
+      {
+        "url": "https://knowsleytransaction.mendixcloud.com/link/haveyoursay ",
+        "text": "Start here",
+        "context": "Start here",
+        "important": true
+      },
+      {
+        "url": "mailto:haveyoursay@knowsley.gov.uk",
+        "text": "haveyoursay@knowsley.gov.uk",
+        "context": "Email:haveyoursay@knowsley.gov.uk"
+      }
+    ],
+    "department": "Contact us",
+    "topics": [
+      "Compliments, complaints and feedback"
+    ],
+    "keywords": [
+      "complaint",
+      "service",
+      "council"
+    ],
+    "tfidf_keywords": [
+      "complaint",
+      "complaints",
+      "council"
+    ],
+    "bigrams": [
+      "social care",
+      "local government",
+      "government social"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/contact-us/compliments-complaints-and-feedback/adult-social-care-statutory-compliments-complaints",
+    "title": "Adult social care statutory compliments, complaints and feedback",
+    "source": "Adult social care statutory compliments, complaints and feedback",
+    "summary": "Find out about Adult social care statutory compliments, complaints and feedback",
+    "intro": "Find out about Adult social care statutory compliments, complaints and feedback",
+    "text": "A compliment is an expression of satisfaction about the standard of service we provide. We are always glad to hear from people who are satisfied with the services we offer.\nAll compliments are recorded, and a copy is sent to the relevant service manager to provide feedback to the member of staff or service.\nBefore making a complaint\nIf you are contacting us for the first time to request a service or report a problem, please allow us to sort out the issue. You can tell us that we need to review or investigate something\nhere\n. We hope to resolve most complaints this way, as it lets us put things right quickly so that you receive the service you deserve.\nComplaints about Adult Social Care Services are dealt with under the Adult Social Care Complaints Procedure, which complies with the statutory requirement set out in the Local Authority Social Services and National Health Complaints (England) Regulations 2009. This can be viewed\nhere\n.\nAdult social care complaints procedure\nAdult Social Care compliments, complaints and feedback procedure\nWho can make a complaint\nA complaint is defined as an expression of dissatisfaction about the actions, decisions or apparent failings of the council’s adult social care provision which requires a response.\nSometimes, customers report ‘concerns’ regarding a social care service. This should be done by contacting the appropriate service, and concerns should be resolved informally and quickly without using the formal complaints procedure.\nIf a complaint is received and resolved to the complainant’s satisfaction no later than the third working day, there is no need to engage the complaints process. For example, if a complaint was received from a customer who had not received a telephone call when agreed, immediate corrective action can be taken, the call is made, and the customer is satisfied, then it is not necessary or appropriate for this to be a formal complaint.\nA complaint may be made by a representative acting on behalf of a person who has died or is unable to make the complaint themselves because of:\nPhysical incapacity, or\nLack of capacity within the meaning of the Mental Capacity Act 2005, or\nHas requested that a representative act on their behalf\nAppropriate written consent must be provided in these instances\nA complaint by a representative will not be considered if the council is satisfied the representative is not acting in the complainant's best interests. If this occurs, the council will inform the representative in writing of the reason for this decision.\nReasons why we will not investigate under the complaint’s procedure\nThere is a 12-month time limit from the time the issue being complained about occurred to the time a complaint may be made. After this time, a complaint will not normally be considered. The 12-month time limit does not apply where the council is satisfied the complainant has good reasons for not making the complaint within the time limit and where it is still possible to investigate the complaint effectively and fairly.\nSometimes, a complaint is not dealt with under this policy. This includes when there is a separate appeal or review procedure. This may be an internal council procedure or external legal process through the courts. If this is the case, we will explain this when you first contact us and tell you what to do next.\nSocial Care Provider or Voluntary Agency complaints\nWhere the Council has commissioned a service, the provider will have a complaints procedure of their own; however, the council will take the lead in ensuring the complaint is responded to.\nIf a complaint is sent to the Customer Liaison Team, we will inform the customer that we will contact the provider regarding the complaint. If they object, they need to contact us. The complaint will be sent to the provider, and they will be asked to investigate and respond. This will ensure that all provider complaints or concerns brought to the attention of KMBC will be investigated and responded to.\nService Users with Personal Budgets\nIf the complaint relates to the employment of a carer whom a customer pays using their personal budget, the statutory complaints procedure cannot be used for this.\nIf the complaint relates to a provider that customers use and pay for using their personal budget, it needs to go directly to the provider involved. However, as the council is responsible for the quality of care in the borough, the complainant will be supported in making the complaint.\nHowever, if a complaint relates to the service's assessment of a customer’s needs and care management process or the way in which payments are managed by the finance team (in respect of either a customer’s or carer’s personal budget), this can be investigated and responded to using the complaints procedure.\nStage One\nThis is the first stage, and we will acknowledge receipt of your complaint within 3 working days. Our acknowledgement can be made verbally or in writing and will include confirmation that your complaint has been received and the date or timeframe by which you can expect to receive a response.\nThe complaint will be passed to the service area, who will arrange for the investigation and a response within 15 working days from the date of the complaint. If the complaint is going to take longer than 15 working days, you will be notified by the Customer Liaison Team and provided with the new expected response time\nYou will receive a response by email or letter, depending on your preference. On some occasions, a complaint may be resolved by telephone; however, you will receive a follow-up email or letter confirming the details of the conversation.\nEvery effort will be made to resolve your complaint at stage one.\nStage Two\nIf you remain dissatisfied following our initial investigation, you can ask for your complaint to be looked at again by a senior officer.   There may be instances when the council will advise you to refer your concerns directly to the Local Government and Social Care Ombudsman (LGO) following the Stage One response. This will be clearly explained to you and will only occur when the council is satisfied that you have had an opportunity to have your queries considered and all issues you raised have been addressed.\nWe ask that this be done within a reasonable timescale. We would expect a complaint to be progressed within a calendar month of a stage one response; however, this can be extended in exceptional circumstances.\nWhen requesting a review of your complaint, it is helpful to be clear about your reasons for progressing it and your desired outcome.\nWe will appoint a senior officer to review your complaint. As at the initial stage, the complaint will be acknowledged within three working days.\nIn the review, we will examine how we dealt with your original complaint and respond to any related issues that you have raised with us (although not new complaints). Our policy is to respond in full to you within 20 working days of receipt of your complaint, wherever possible.\nIf we cannot respond in full within the acknowledged timescale, we will send you a holding response, providing you with the date you should expect a response.\nNext Steps\nThere is no further right of appeal to the council following completion of a review at stage two of this policy.   Within our final response, we will inform you of your right to take your complaint further if you remain dissatisfied.\nLocal Government and Social Care Ombudsman\nThe Local Government and Social Care Ombudsman look at individual complaints about councils, all adult social care providers (including care homes and home care agencies) and some other organisations that provide public services.   They are the final stage for complaints about councils and they are a free service. The LGO will not usually investigate a complaint until the council has had an opportunity to investigate and answer it first.\nThe Local Government and Social Care Ombudsman\nPO Box 4771\nCoventry\nCV4 0EH\nPhone:\n0300 061 0614\nLocal Government and social care ombudsman website\nCare Quality Commission (CQC)\nThe CQC is the independent regulator of health and adult social care in England. It ensures that health and social care services provide people with safe, effective, compassionate, high-quality care and encourages service improvement.\nTheir role is to:\nregister care providers\nmonitor, inspect and rate services\ntake action to protect people who use services\nindependent voice, publishing their views on major quality issues in health and social care.\nMore information can be found on the\nCare Quality Commission website\n.\nHelp to make a complaint\nYou can ask a family member or a friend to make a complaint on your behalf. We’ll need your permission to deal with another person before we accept your complaint.\nPlease let us know if you need any other support to file a complaint. We can tell you about the advocacy services provided locally to help you to have your say.\nWhere appropriate, you will be made aware and can request the provision of an independent advocate to support them through the complaints process.\nThe Local Authority Social Services and National Health Service Complaints (England) Regulations 2009 advises service users or complainants as far as is reasonably practical have:\nAssistance to enable them to understand the procedure concerning complaints\nAdvice on where they may obtain such assistance.\nPolicy for Managing Unreasonable Actions by Complainants\nSome customers act in ways we consider unreasonable when trying to resolve their complaints.\nWe take all complaints seriously and aim to resolve them fairly. Usually, we can work with complainants to reach a solution that works for both sides. However, if communication becomes difficult, we may need to take appropriate steps.\nThe Local Government and Social Care Ombudsman defines unreasonable actions as:\nUnreasonable actions are those which, because of the nature or frequency of contact with an organisation, hinder the organisation’s delivery of services or consideration of complaints.\nWe have a specific policy to address these situations and outline our approach, which can be found\nhere\n.\nSubmit a compliment, complaint or provide feedback\nSubmit your compliment, complaint or provide feedback online via the link below. If you have supporting documents, you can upload them at the bottom of the form.\nStart here\nAlternatively, you can write to;\nCustomer Liaison Team\nKnowsley Council\nNutgrove Villa\nWestmorland Road\nL36 6GA\nTelephone us on\n0151 443 3231\nEmail us\nHYSadultscomplaints@knowsley.gov.uk",
+    "alert": "",
+    "has_alert": false,
+    "phone": [
+      "0300 061 0614",
+      "0151 443 3231"
+    ],
+    "email": [
+      "HYSadultscomplaints@knowsley.gov.uk"
+    ],
+    "links": [
+      {
+        "url": "/report-it",
+        "text": "here",
+        "context": "If you are contacting us for the first time to request a service or report a problem, please allow us to sort out the issue. You can tell us that we need to review or investigate somethinghere. We hope to resolve most complaints this way, as it lets us put things right quickly so that you receive the service you deserve."
+      },
+      {
+        "url": "https://www.legislation.gov.uk/uksi/2009/309/contents",
+        "text": "here",
+        "context": "Complaints about Adult Social Care Services are dealt with under the Adult Social Care Complaints Procedure, which complies with the statutory requirement set out in the Local Authority Social Services and National Health Complaints (England) Regulations 2009. This can be viewedhere."
+      },
+      {
+        "url": "callto:+443000610614",
+        "text": "0300 061 0614",
+        "context": "Phone:0300 061 0614"
+      },
+      {
+        "url": "https://www.lgo.org.uk/",
+        "text": "Local Government and social care ombudsman website",
+        "context": "Local Government and social care ombudsman website"
+      },
+      {
+        "url": "https://www.cqc.org.uk/",
+        "text": "Care Quality Commission website",
+        "context": "More information can be found on theCare Quality Commission website."
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/contact-us/have-your-say/policy-managing-unreasonable-actions-complainants",
+        "text": "here",
+        "context": "We have a specific policy to address these situations and outline our approach, which can be foundhere."
+      },
+      {
+        "url": "https://knowsleytransaction.mendixcloud.com/link/haveyoursay ",
+        "text": "Start here",
+        "context": "Start here",
+        "important": true
+      },
+      {
+        "url": "callto:+441514433231",
+        "text": "0151 443 3231",
+        "context": "Telephone us on0151 443 3231"
+      },
+      {
+        "url": "mailto:HYSadultscomplaints@knowsley.gov.uk",
+        "text": "HYSadultscomplaints@knowsley.gov.uk",
+        "context": "Email usHYSadultscomplaints@knowsley.gov.uk"
+      }
+    ],
+    "department": "Contact us",
+    "topics": [
+      "Compliments, complaints and feedback"
+    ],
+    "keywords": [
+      "complaint",
+      "service",
+      "care"
+    ],
+    "tfidf_keywords": [
+      "complaint",
+      "care",
+      "complaints"
+    ],
+    "bigrams": [
+      "social care",
+      "make complaint",
+      "adult social"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/contact-us/compliments-complaints-and-feedback/childrens-social-care-compliments-complaints-and",
+    "title": "Children's Social Care compliments, complaints and feedback",
+    "source": "Children's Social Care compliments, complaints and feedback",
+    "summary": "Find out about Children's Social Care compliments, complaints and feedback",
+    "intro": "Find out about Children's Social Care compliments, complaints and feedback",
+    "text": "A compliment is an expression of satisfaction about the standard of service we provide. We are always glad to hear from people who are satisfied with the services we offer.\nAll compliments are recorded, and a copy is sent to the relevant service manager to provide feedback to the member of staff or service.\nBefore making a complaint\nIf you are contacting Children, Young People and Families for the first time, please give us the opportunity to sort out the issue. We hope to resolve most complaints this way, as it lets us put things right quickly so that you receive the service you deserve. To find more information and support available, please click\nhere\n.\nComplaints about children's social care are dealt with under the Children's Statutory Complaints Policy and Procedure which complies with the Children Act 1989 Representation Procedure (England) Regulations 2006. Further information can be found here –\nGetting the Best from Complaints\n.\nIf your complaint falls outside the statutory complaint procedure, such as Special Educational Needs and Disabilities (SEND), Educational Health and Care Plans (EHCP), Early Help, or School Transport complaints, it will be processed under the Council's Complaints Procedure.\nYou will be informed of the procedure under which your complaint has been logged as part of your acknowledgement.\nChildren's social care complaints procedure\nChildren's social care compliments, complaints and feedback procedure\nWho can make a complaint\nA complaint can be made by the following people:\nany child or young person (or a parent of his or someone who has parental responsibility for him) who is being looked after by the local authority or is not looked after by them but is in need\nany local authority foster carer (including those caring for children placed through independent fostering agencies)\nchildren leaving care\nspecial guardians\na child or young person (or parent of) to whom a Special Guardian order is in force\nany person who has applied for an assessment under section 14F(3) or (4)\nany child or young person who may be adopted, their parents and guardians\npersons wishing to adopt a child\nany other person whom arrangements for the provision of adoption services extend\nadopted persons, their parents, natural parents and former guardians; an\nsuch other person as the Department consider has sufficient interest in the child or young person's welfare to warrant their representations being considered by them\nReasons why we will not investigate under the complaint’s procedure\nThere are some occasions when a complaint is not dealt with under this policy. This includes when there is a separate appeal or review procedure. This may be an internal council procedure or external legal process through the courts. If this is the case, we will explain this when you first contact us. We will tell you what to do next.\nStage 1 - Problem-solving and attempt to resolve issues\nWe will give your complaint to a manager to look into. Most problems can be dealt with quickly and informally at this stage, which is better for everyone. Statutory guidelines say we have to deal with your complaint within 10 working days.\nIf the case is more complex an extra 10 working days is allowed, to permit a more complete response.\nIf you are not happy with the outcome of your complaint, you can ask to go to the next stage.\nStage 2 - Formal enquiries and independent investigation\nAt this point an Investigating Officer is chosen, who does not work in the part of the Children Services you are complaining about.\nThey are helped by an Independent Person to make sure the investigation is fair and thorough. They have no direct links with the team or individual being complained about, they may want to meet with you in person to check they understand what your complaint is.\nStatutory guidelines say Stage 2 investigations are to be completed in 25 working days, but this timescale can extend to a maximum of 65 working days and if this happens, we will keep you informed.\nStage 3 - Independent review panel considers complaint\nThis will be held within 30 working days of receiving the request and will consider the reasons for your continued dissatisfaction.\nThe Independent Review Panel is made up of 3 people who do not work for the Children Services\nFollowing the review, the panel will make recommendations to the Council within 5 working days in their report. This will also be shared with you. The Assistant Executive Director will write back within 15 working days with the Local Authorities response to the recommendations and what actions will be taken if required.\nLocal Government and Social Care Ombudsman\nIf, after your complaint has been investigated at Stage 3 of the statutory procedure, you remain unhappy you have the right to refer your complaint to the Local Government and Social Care Ombudsman\nPostal Address:\nLocal Government and Social Care Ombudsman\nPO Box 4771\nCoventry\nCV4 0EH\nTelephone:\n0300 061 0614\nLocal Government and social care ombudsman website\nHelp to make a complaint\nYou can ask a family member or a friend to make a complaint on your behalf. We’ll need your permission for us to deal with another person before we accept your complaint.\nPlease tell us if you need any other support to make a complaint. We can tell you about the advocacy services provided locally to help you to have your say.\nPolicy for Managing Unreasonable Actions by Complainants\nSome customers act in ways we consider unreasonable when trying to resolve their complaints.\nWe take all complaints seriously and aim to resolve them fairly. Usually, we can work with complainants to reach a solution that works for both sides. However, if communication becomes difficult, we may need to take appropriate steps.\nThe Local Government and Social Care Ombudsman defines unreasonable actions as:\nUnreasonable actions are those which, because of the nature or frequency of contact with an organisation, hinder the organisation’s delivery of services or consideration of complaints.\nWe have a specific policy to address these situations and outline our approach, which can be found\nhere\n.\nSubmit a compliment, complaint or provide feedback\nSubmit your compliment, complaint or provide feedback online via the link below. If you have supporting documents, you can upload them at the bottom of the form.\nStart here\nAlternatively, you can write to;\nCustomer Liaison Team\nKnowsley Council\nNutgrove Villa\nWestmorland Road\nL36 6GA\nTelephone us on\n0151 443 3231\nEmail us\nHYSchildrenscomplaints@knowsley.gov.uk",
+    "alert": "",
+    "has_alert": false,
+    "phone": [
+      "0300 061 0614",
+      "0151 443 3231"
+    ],
+    "email": [
+      "HYSchildrenscomplaints@knowsley.gov.uk"
+    ],
+    "links": [
+      {
+        "url": "https://www.knowsley.gov.uk/children-young-people-and-families",
+        "text": "here",
+        "context": "If you are contacting Children, Young People and Families for the first time, please give us the opportunity to sort out the issue. We hope to resolve most complaints this way, as it lets us put things right quickly so that you receive the service you deserve. To find more information and support available, please clickhere."
+      },
+      {
+        "url": "https://assets.publishing.service.gov.uk/media/5a7ceaec40f0b6629523c98a/getting_the_best_from_complaints.pdf",
+        "text": "Getting the Best from Complaints",
+        "context": "Complaints about children's social care are dealt with under the Children's Statutory Complaints Policy and Procedure which complies with the Children Act 1989 Representation Procedure (England) Regulations 2006. Further information can be found here –Getting the Best from Complaints."
+      },
+      {
+        "url": "callto:+443000610614",
+        "text": "0300 061 0614",
+        "context": "Telephone:0300 061 0614"
+      },
+      {
+        "url": "https://www.lgo.org.uk/",
+        "text": "Local Government and social care ombudsman website",
+        "context": "Local Government and social care ombudsman website"
+      },
+      {
+        "url": "https://www.knowsley.gov.uk/contact-us/have-your-say/policy-managing-unreasonable-actions-complainants",
+        "text": "here",
+        "context": "We have a specific policy to address these situations and outline our approach, which can be foundhere."
+      },
+      {
+        "url": "https://knowsleytransaction.mendixcloud.com/link/haveyoursay ",
+        "text": "Start here",
+        "context": "Start here",
+        "important": true
+      },
+      {
+        "url": "callto:+441514433231",
+        "text": "0151 443 3231",
+        "context": "Telephone us on0151 443 3231"
+      },
+      {
+        "url": "mailto:HYSchildrenscomplaints@knowsley.gov.uk",
+        "text": "HYSchildrenscomplaints@knowsley.gov.uk",
+        "context": "Email usHYSchildrenscomplaints@knowsley.gov.uk"
+      }
+    ],
+    "department": "Contact us",
+    "topics": [
+      "Compliments, complaints and feedback"
+    ],
+    "keywords": [
+      "complaint",
+      "child",
+      "person"
+    ],
+    "tfidf_keywords": [
+      "complaint",
+      "complaints",
+      "procedure"
+    ],
+    "bigrams": [
+      "social care",
+      "make complaint",
+      "child young"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/contact-us/have-your-say/policy-managing-unreasonable-actions-complainants",
+    "title": "Policy for Managing Unreasonable Actions by Complainants",
+    "source": "Policy for Managing Unreasonable Actions by Complainants",
+    "summary": "Find out about the Policy for Managing Unreasonable Actions by Complainants",
+    "intro": "Find out about the Policy for Managing Unreasonable Actions by Complainants",
+    "text": "Some customers act in ways we consider unreasonable when trying to resolve their complaints. We have a specific policy to address these situations and outline our approach.\nWe take all complaints seriously and aim to resolve them fairly. Usually, we can work with complainants to reach a solution that works for both sides. However, if communication becomes difficult, we may need to take appropriate steps.\nThis policy explains how we will handle cases where a person's actions are unacceptable, especially if they involve mistreatment of staff or misuse of the complaint process. It applies when a customer has filed a formal complaint. If customer interactions fall outside the complaints policy, other policies may be relevant.\nThe Local Government and Social Care Ombudsman defines unreasonable actions as:\nUnreasonable actions are those which, because of the nature or frequency of contact with an organisation, hinder the organisation’s delivery of services or consideration of complaints.\nIf we find that your actions regarding your complaint are unreasonable, we will explain our reasoning and the issues it is creating. Additionally, we will outline our proposed approach for future communication with you.\nExamples of unreasonable behaviour include but not exhaustive:\naggressive or abusive language\nmaking excessive demands for information, documents or requesting actions outside the complaint procedure\nsending large volumes of correspondence or an excessive number of contacts\nrefusing to specify the grounds of a complaint, despite offers of assistance\nrefusing to co-operate with the complaint’s investigation process\nrefusing to accept that certain issues are not within the scope of a complaint’s procedure\ninsisting on the complaint being dealt with in ways which are incompatible with the adopted complaints procedure or with good practice\nmaking unjustified complaints about staff who are trying to deal with the issues and seeking to have them replaced\nchanging the basis of the complaint as the investigation proceeds\ndenying or changing statements he or she made at an earlier stage\nintroducing trivial or irrelevant new information at a later stage\nraising numerous, detailed but unimportant questions; insisting they are all answered\ncovertly recording meetings and conversations\nsubmitting falsified documents from themselves or others\nadopting a 'scatter gun' approach: pursuing parallel complaints on the same issue with a variety of organisations or departments within the council\nmaking excessive demands on the time and resources of staff with lengthy phone calls, emails to numerous council staff, or detailed letters every few days, and expecting immediate responses\nsubmitting repeat complaints with minor additions/variations that the complainant insists make these 'new' complaints\nrefusing to accept the decision; repeatedly arguing points with no new evidence.\nHow we will communicate with you\nWe will reach out to you in writing to explain our reasons for considering your behaviour to be unreasonable.\nIn cases where you have an ongoing complaint:\nwe will provide updates regarding the status of your complaint and the expected timeline for our response\nwe will clarify the reasonable ways for you to make contact while your complaint is under investigation, along with the rationale for this\nwe may impose limits on the frequency of contact that is considered acceptable concerning your complaint\nIn instances where your complaint has fully utilized the Council’s complaints policy:\nwe will confirm that your complaint has gone through the Council’s complaints process and will guide you towards the appropriate escalation channels\nShould unreasonable behaviour continue after these measures have been implemented, it may result in restrictions on your communication with the Council.\nThe specifics of the restriction will be communicated in writing, including a designated review period for the restriction.\nIf you contest the restrictions, we will take your concerns into account and assess whether the restriction has been applied appropriately. Should you disagree with the outcome of this review, you have the option to request that the Local Government Ombudsman and Social Care Ombudsman evaluate the reasonableness of our decision.\nYou can contact the Local Government and Social Care Ombudsman at:\nPO Box 4771\nCoventry\nCV4 0EH\nPhone:\n0300 061 0614\nWebsite:\nwww.lgo.org.uk",
+    "alert": "",
+    "has_alert": false,
+    "phone": [
+      "0300 061 0614"
+    ],
+    "email": [],
+    "links": [
+      {
+        "url": "callto:+443000610614",
+        "text": "0300 061 0614",
+        "context": "Phone:0300 061 0614"
+      },
+      {
+        "url": "https://www.lgo.org.uk/",
+        "text": "www.lgo.org.uk",
+        "context": "Website:www.lgo.org.uk"
+      }
+    ],
+    "department": "Contact us",
+    "topics": [],
+    "keywords": [
+      "complaint",
+      "unreasonable",
+      "make"
+    ],
+    "tfidf_keywords": [
+      "complaint",
+      "complaints",
+      "unreasonable"
+    ],
+    "bigrams": [
+      "local government",
+      "social care",
+      "care ombudsman"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/contact-us/compliments-complaints-and-feedback",
+    "title": "Compliments, complaints and feedback",
+    "source": "Compliments, complaints and feedback",
+    "summary": "Find out about submitting compliments, complaints or feedback using the buttons below",
+    "intro": "Find out about submitting compliments, complaints or feedback using the buttons below",
+    "text": "We encourage feedback to help us to improve our services and the information we provide.\nWe want to provide you with a great service, but you might want to suggest improvements, or you might want to compliment us on getting it right. When something goes wrong, we would really like to hear your concerns.\nBefore making a complaint\nIf you are contacting us for first time to request a service or report a problem, please give us the opportunity to sort out the issue. You can tell us that we need to review or investigate something by our report it online forms. We hope to resolve most complaints this way, as it lets us put things right quickly so that you receive the service you deserve.\nHave Your Say annual report\nYou can view and download the Have Your Say annual report\nhere\n.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.knowsley.gov.uk/sites/default/files/2024-09/HYS%20Annual%20Report.pdf",
+        "text": "here",
+        "context": "You can view and download the Have Your Say annual reporthere."
+      }
+    ],
+    "department": "Contact us",
+    "topics": [],
+    "keywords": [
+      "service",
+      "report",
+      "want"
+    ],
+    "tfidf_keywords": [
+      "us",
+      "report",
+      "service"
+    ],
+    "bigrams": [
+      "might want",
+      "say annual",
+      "annual report"
+    ],
+    "crawl_version": "2025-04-23"
+  }
+]

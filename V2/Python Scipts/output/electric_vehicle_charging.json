@@ -1,0 +1,280 @@
+[
+  {
+    "url": "https://www.knowsley.gov.uk/electric-vehicle-charging/charging-point-locations",
+    "title": "Charging point locations",
+    "source": "Charging point locations",
+    "summary": "",
+    "intro": "",
+    "text": "Charging point locations\nThe electric vehicle charging point infrastructure is continuously growing and being improved, and you can find up-to-date details of electric vehicle charging points on the Zapmap interactive map\nhere\n.\nPlease be aware that charging points are privately managed and are not the responsibility of Knowsley Council.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.zap-map.com/live/",
+        "text": "here",
+        "context": "The electric vehicle charging point infrastructure is continuously growing and being improved, and you can find up-to-date details of electric vehicle charging points on the Zapmap interactive maphere."
+      }
+    ],
+    "department": "Electric vehicle charging",
+    "topics": [],
+    "keywords": [
+      "charge",
+      "point",
+      "electric"
+    ],
+    "tfidf_keywords": [
+      "charging",
+      "electric",
+      "point"
+    ],
+    "bigrams": [
+      "charge point",
+      "electric vehicle",
+      "vehicle charge"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/electric-vehicle-charging/available-funding-and-grant-opportunities",
+    "title": "Available funding and grant opportunities",
+    "source": "Available funding and grant opportunities",
+    "summary": "",
+    "intro": "",
+    "text": "Available funding and grant opportunities\nThere are currently several funding opportunities open to residents and businesses who wish to install EV Charging Points and infrastructure. The\nOffice for Zero Emission Vehicles\n(OZEV) provides support for the purchase of plug-in vehicles, as well as funding for the installation of electric vehicle charge points.\nPlug-in Car Grant (PICG)\nDealers will include the grant in the price of a new, low-emissions vehicle. Not all vehicles are eligible.\nRead more about which vehicles are eligible and the grants available\nhere\n.\nElectric Vehicle Homecharge Scheme (EVHS)\nThis grant contributes to the cost of charging point installation for flat owners or those living in rented accommodation.\nThe EV chargepoint grant contributes 75% to the cost of one chargepoint and is capped at £350 (including VAT) per installation. The vehicle, chargepoint and installer must be on an approved list.\nFind out more\nhere\n.\nWorkplace Charging Scheme (WCS)\nA voucher-based scheme for businesses to support electric car charger installation. It can cover up to 75% of the cost, capped at £350 for each socket, for up to 40 sockets.\nGrant schemes for electric vehicle charging infrastructure\nKnowsley Council is developing an Electric Vehicle / Alternative Fuel Strategy to support its Climate Emergency Action Plan.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.gov.uk/government/organisations/office-for-zero-emission-vehicles/about",
+        "text": "Office for Zero Emission Vehicles",
+        "context": "There are currently several funding opportunities open to residents and businesses who wish to install EV Charging Points and infrastructure. TheOffice for Zero Emission Vehicles(OZEV) provides support for the purchase of plug-in vehicles, as well as funding for the installation of electric vehicle charge points."
+      },
+      {
+        "url": "https://www.gov.uk/plug-in-vehicle-grants",
+        "text": "here",
+        "context": "Read more about which vehicles are eligible and the grants availablehere."
+      },
+      {
+        "url": "https://www.gov.uk/electric-vehicle-chargepoint-grant-household",
+        "text": "here",
+        "context": "Find out morehere."
+      },
+      {
+        "url": "https://www.gov.uk/guidance/electric-vehicle-chargepoint-and-infrastucture-grant-guidance-for-installers#workplace-charging-scheme",
+        "text": "Grant schemes for electric vehicle charging infrastructure",
+        "context": "Grant schemes for electric vehicle charging infrastructure"
+      }
+    ],
+    "department": "Electric vehicle charging",
+    "topics": [],
+    "keywords": [
+      "vehicle",
+      "grant",
+      "charge"
+    ],
+    "tfidf_keywords": [
+      "grant",
+      "vehicle",
+      "electric"
+    ],
+    "bigrams": [
+      "electric vehicle",
+      "charge point",
+      "emission vehicle"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/electric-vehicle-charging/guidance-street-charging",
+    "title": "Guidance for on-street charging",
+    "source": "Guidance for on-street charging",
+    "summary": "",
+    "intro": "",
+    "text": "Guidance for on-street charging\nCurrently EV charging cables trailing across or under the public highway are prohibited. Charging your vehicle on the street by trailing a cable across the pavement, including the use of a cable protector, channel, gully or ramp is not permitted.\nWe don't permit any cable to be placed across the public highway (including pavement). This is because it represents a health and safety hazard, and an obstacle to the safe use of the highway by the visually and/or mobility impaired, or other affected user groups.\nUnder the Highways Act 1980 action may be taken to remove cables that are deemed unsuitable or unsafe. This method of on-street EV charging is therefore not considered a suitable approach for residents without off-street parking provision to charge their EV.\nElectric Vehicle lamppost charging and other infrastructure for those without off street parking, will be explored in the future but as of now, the Council have no plans to implement lamppost EV infrastructure. The Council is however working on developing charging points in public areas which can be used by the wider community.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [],
+    "department": "Electric vehicle charging",
+    "topics": [],
+    "keywords": [
+      "street",
+      "cable",
+      "charging"
+    ],
+    "tfidf_keywords": [
+      "charging",
+      "street",
+      "ev"
+    ],
+    "bigrams": [
+      "street charging",
+      "public highway",
+      "without off"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/electric-vehicle-charging/report-misuse-charging-cable",
+    "title": "Report a misuse of a charging cable",
+    "source": "Report a misuse of a charging cable",
+    "summary": "",
+    "intro": "",
+    "text": "Report a misuse of a charging cable\nRunning a cable from a home or workplace across a pavement to charge an electric vehicle (EV) is prohibited and could result in enforcement action being carried out against the owner, even if the cable is covered by protectors.\nPlease tell us about a problem with an EV charging cable on the pavement via our Highways Issues reporting page available using the form below:\nReport misuse of an EV charging cable\nIndicates required field\nStatus message\nProvide your details and contact information below\nTitle\nOther\nMr\nMrs\nMiss\nDr\nOther…\nForename\nSurname\nContact number\nEmail address\nStatus message\nPlease provide precise details of the location, and description of the misuse\nDetails of misuse\nPlease provide a description of the electric vehicle charge cable misuse\nStreet or Road\nPost Code\nAdditional location information\nPlease provide any additional information about the location where the EV cable misuse has been identified\nLeave this field blank",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [],
+    "department": "Electric vehicle charging",
+    "topics": [],
+    "keywords": [
+      "cable",
+      "misuse",
+      "charge"
+    ],
+    "tfidf_keywords": [
+      "cable",
+      "misuse",
+      "ev"
+    ],
+    "bigrams": [
+      "charge cable",
+      "please provide",
+      "report misuse"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/electric-vehicle-charging/frequently-asked-questions",
+    "title": "Frequently asked questions",
+    "source": "Frequently asked questions",
+    "summary": "",
+    "intro": "",
+    "text": "Frequently asked questions\nFind answers to all your EV charging-related questions here\nCan the council install a charging point at my home for me?\nThe Council do not install private household EV Charge Points. We can point you in the direction of the best advice. The Energy Savings Trust has the best up-to-date impartial advice on installing an EV Charge Points at your home. You can read more about installing EV charge points on their website here -\nCharging electric vehicles - Energy Saving Trust\nWhat is your advice when charging an electric vehicle?\nThe Highway Code offers this advice;\n“When using an electric vehicle charge point, you should park close to the charge point and avoid creating a trip hazard for pedestrians from trailing cables. Display a warning sign if you can. After using the charge point, you should return charging cables and connectors neatly to minimise the danger to pedestrians and avoid creating an obstacle for other road users.”\nI don't have a driveway - what are my options for charging an electric vehicle?\nAt present EV charging cables trailing across or under the public highway are prohibited. Charging your vehicle on the street by trailing a cable across the pavement, including the use of a cable protector, channel, gully or ramp is not permitted.\nWe don't permit any cable to be placed across the public highway (including pavement). This is because it represents a health and safety hazard, and an obstacle to the safe use of the highway by the visually and/or mobility impaired, or other affected user groups.\nUnder the\nHighways Act 1980\naction may be taken to remove cables that are deemed unsuitable or unsafe. This method of on-street EV charging is therefore not considered a suitable approach for residents without off-street parking provision to charge their EV.\nYou can view locations of charge points across the borough using\nZapMaps\nI'm considering changing to an electric vehicle - where can I get advice?\nYou can find detailed information on the\nEnergy Saving Trusts' website\n.\nWhat plan does Knowsley Council have to improve availability of charging points?\nKnowsley Council is committed to assist residents in the shift to electric vehicles.\nThe Council is currently assessing demand for electric vehicle charging point across the borough and is focusing on creating a borough-wide public network of chargers that include both slow, fast and ultra-fast chargers.\nUsing the Governments Local Electric Vehicle Infrastructure Fund (LEVI), the Council is aiming to install hundreds of charging points at public spaces by 202X.\nDidn't find what you were looking for?\nYou can contact a member of our team by emailing us at\ness.enquiries@knowsley.gov.uk",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [
+      "ess.enquiries@knowsley.gov.uk"
+    ],
+    "links": [
+      {
+        "url": "https://energysavingtrust.org.uk/advice/charging-electric-vehicles/",
+        "text": "Charging electric vehicles - Energy Saving Trust",
+        "context": "The Council do not install private household EV Charge Points. We can point you in the direction of the best advice. The Energy Savings Trust has the best up-to-date impartial advice on installing an EV Charge Points at your home. You can read more about installing EV charge points on their website here -Charging electric vehicles - Energy Saving Trust"
+      },
+      {
+        "url": "https://www.legislation.gov.uk/ukpga/1980/66",
+        "text": "Highways Act 1980",
+        "context": "Under theHighways Act 1980action may be taken to remove cables that are deemed unsuitable or unsafe. This method of on-street EV charging is therefore not considered a suitable approach for residents without off-street parking provision to charge their EV."
+      },
+      {
+        "url": "https://www.zap-map.com/live/",
+        "text": "ZapMaps",
+        "context": "You can view locations of charge points across the borough usingZapMaps"
+      },
+      {
+        "url": "https://energysavingtrust.org.uk/advice/electric-vehicles/",
+        "text": "Energy Saving Trusts' website",
+        "context": "You can find detailed information on theEnergy Saving Trusts' website."
+      },
+      {
+        "url": "mailto:ess.enquiries@knowsley.gov.uk",
+        "text": "ess.enquiries@knowsley.gov.uk",
+        "context": "You can contact a member of our team by emailing us atess.enquiries@knowsley.gov.uk"
+      }
+    ],
+    "department": "Electric vehicle charging",
+    "topics": [],
+    "keywords": [
+      "charge",
+      "point",
+      "vehicle"
+    ],
+    "tfidf_keywords": [
+      "charging",
+      "charge",
+      "electric"
+    ],
+    "bigrams": [
+      "charge point",
+      "electric vehicle",
+      "charge electric"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/electric-vehicle-charging/register-your-interest-ev-charging-point",
+    "title": "Register your interest in an EV charging point",
+    "source": "Register your interest in an EV charging point",
+    "summary": "",
+    "intro": "",
+    "text": "Register your interest in an EV charging point\nWe are committed to enabling a comprehensive public charging network with a good geographical spread across Knowsley. Our focus will be on areas where residents cannot make the switch to electric vehicles without access to a public network, such as people without access to off-road parking and driveway charging.\nIf you would like to register your interest with the Council for an EV charging point, you can do so using the form below. The information provided will assist the Council in mapping demand and we will look to include this information when planning where new charge points could be installed.\nPlease register your interest by completing the form below.\nRegister your interest in a charge point\nInformation message\nPlease be aware that completing this form does not guarantee that a charging point will be installed at your requested location.\nAre you a Knowsley resident?\n- None -\nYes\nNo\nStatus message\nPlease provide details of the location you would like an electric charger to be installed\nAddress\nAddress 1\nAddress 2\nTown/City\nPostcode\nAdditional location information\nPlease include any relevant additional details, such as on-street charging or car parks\nStatus message\nPlease provide your details and contact information below\nTitle\nOther\nMr\nMrs\nMiss\nDr\nOther…\nForename\nSurname\nContact number\nEmail address\nLeave this field blank",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [],
+    "department": "Electric vehicle charging",
+    "topics": [],
+    "keywords": [
+      "charging",
+      "point",
+      "information"
+    ],
+    "tfidf_keywords": [
+      "charging",
+      "information",
+      "please"
+    ],
+    "bigrams": [
+      "register interest",
+      "charging point",
+      "message please"
+    ],
+    "crawl_version": "2025-04-23"
+  },
+  {
+    "url": "https://www.knowsley.gov.uk/electric-vehicle-charging/ev-myths",
+    "title": "EV Myths",
+    "source": "EV Myths",
+    "summary": "",
+    "intro": "",
+    "text": "EV Myths\nThere are a lot of misconceptions and myths surrounding electric vehicle and electric vehicle charging points.\nHere are just a few.\nEV Battery Myths\nBattery myths\nEV Batteries Fail\nFalse.\nEVs are sold with an 8-year, 100,000 miles battery warranty that covers all types of failure should this happen to your vehicle. However, this is unlikely to happen at all.\nEV Batteries Could Create a Global Toxic Hazard\nFalse.\nThe truth is EV batteries are far too valuable to simply be thrown away. Instead, these batteries are sent to specialised recycling facilities and broken down into their core components, most of which are ‘infinitely recyclable’.\nEV Batteries Have a Short Range\nFalse.\nRange anxiety is one of the leading issues surrounding EVs. However, these anxieties are unfounded. Some EVs currently available have a maximum range of 450 miles in a singular charge, almost double the mileage of the average weekly driver.\nEV Batteries Will Run Out During Traffic Jams\nFalse.\nWith Range anxiety rife, other questions have arisen, including the worry of an EVs ability to outlast a traffic jam. An understandable worry, however unlike a petrol or diesel vehicle, an EV uses considerably little power.\nEV Charging Myths\nCharging myths\nThere Aren’t Enough Chargers\nFalse.\nWhile it is true that a larger infrastructure will be needed to support the increasing interest in EVs, as of May 2024, the UK already boasts 61,000 charging points according to\nZapMaps\n, with a rolling 50% year on year increase. This means an average of 1,100 new installations per month.\nEVs Take Too Long to Charge\nFalse.\nIt is true that charging an EV will take longer than filling up a petrol or diesel vehicle, however it is important to consider how and when EVs are charged.\nThe majority of EVs are charged at home, or via street charging points overnight, while the driver is asleep. This provides the vehicle with 6-12 hours of charging and more than enough energy to sustain the average driver for a whole week. Moreover, ultra-rapid charging points can add 100 miles to your EV within 15 minutes.\nThe National Grid Can’t Cope\nFalse.\nAs it stands the National Grid can and is coping with the amount of EVs currently in circulation and is confident that it could ‘comfortable handle’ and overnight switch to EVs, which would push up demand by only 10%.\nEV Practicality Myths\nPracticality myths\nEVs Are Harder to Drive\nFalse.\nAs with all new things, learning to drive an EV will take time – but it doesn’t have to be hard. EVs don’t have an ignition, instead operating with a touch screen in the centre console of the car. However, if you can use a smartphone, an EV won’t be a challenge.\nEVs Can’t Drive Through Water\nFalse.\nIt has been suggested that due to the electrical component EVs would not be able to navigate water, whether that be a flooded road or large puddle. However, EVs are in fact more equipped in these situations than petrol or diesel vehicles as they do not inhale water.\nEVs Catch Fire\nFalse.\nIn 2022, The Fire Service reported 18,991 road vehicle fires in the UK, only 239 of these fires were caused by battery powered vehicles, which includes the like of e-scooters, e-bikes and electric forklifts. This means only 1.25% of all vehicle fires were caused by electric vehicles of any kind during the entire year.\nEV Cost Myths\nCost myths\nEVs Are too Expensive\nFalse.\nEV prices already have and continue to fall, closing the gap between EVs and petrol- or diesel-powered vehicles.\nEVs Cost too Much to Maintain\nFalse.\nMaintenance costs are a worry for any driver – however, choosing an EV will not break the bank. EV service can cost up to 30% less than a petrol vehicle and 60% less than a diesel vehicle. This is due to the lack of moving parts featured in an EV engine meaning there are no spark plugs, oil, belts, chains, exhausts or clutches to service or repair.",
+    "alert": "",
+    "has_alert": false,
+    "phone": [],
+    "email": [],
+    "links": [
+      {
+        "url": "https://www.zap-map.com/live/",
+        "text": "ZapMaps",
+        "context": "While it is true that a larger infrastructure will be needed to support the increasing interest in EVs, as of May 2024, the UK already boasts 61,000 charging points according toZapMaps, with a rolling 50% year on year increase. This means an average of 1,100 new installations per month."
+      }
+    ],
+    "department": "Electric vehicle charging",
+    "topics": [],
+    "keywords": [
+      "evs",
+      "vehicle",
+      "false"
+    ],
+    "tfidf_keywords": [
+      "ev",
+      "evs",
+      "false"
+    ],
+    "bigrams": [
+      "diesel vehicle",
+      "electric vehicle",
+      "petrol diesel"
+    ],
+    "crawl_version": "2025-04-23"
+  }
+]
